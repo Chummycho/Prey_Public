@@ -79,6 +79,7 @@ Object.entries(common_summoned_pets).forEach(([pet, health]) => {
         let y = event.player.y
         let z = event.player.z
         Utils.server.runCommandSilent(`/clear ${name} kubejs:${pet}_summoning_stone 1`)
+        event.level.spawnLightning(x, y, z, true)
         if (!event.player.persistentData.contains('kubejs_class:summoner'))
             Utils.server.runCommandSilent(`/summon alexsmobs:${pet} ${x} ${y} ${z} {Health:${health},Owner:${name},Attributes:[{Name:"generic.max_health",Base:${health}f}]}`)
         if (event.player.persistentData.contains('kubejs_class:summoner'))
@@ -114,6 +115,7 @@ Object.entries(rare_summoned_pets).forEach(([pet, health]) => {
         let x = event.player.x
         let y = event.player.y
         let z = event.player.z
+        event.level.spawnLightning(x, y, z, true)
         Utils.server.runCommandSilent(`/clear ${name} kubejs:${pet}_summoning_stone 1`)
         if (!event.player.persistentData.contains('kubejs_class:summoner'))
             Utils.server.runCommandSilent(`/summon alexsmobs:${pet} ${x} ${y} ${z} {Health:${health},Owner:${name},Attributes:[{Name:"generic.max_health",Base:${health}f}]}`)
@@ -148,6 +150,7 @@ Object.entries(epic_summoned_pets).forEach(([pet, health]) => {
         let x = event.player.x
         let y = event.player.y
         let z = event.player.z
+        event.level.spawnLightning(x, y, z, true)
         Utils.server.runCommandSilent(`/clear ${name} kubejs:${pet}_summoning_stone 1`)
         if (!event.player.persistentData.contains('kubejs_class:summoner'))
             Utils.server.runCommandSilent(`/summon alexsmobs:${pet} ${x} ${y} ${z} {Health:${health},Owner:${name},Attributes:[{Name:"generic.max_health",Base:${health}f}]}`)
