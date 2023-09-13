@@ -1,0 +1,17 @@
+{
+  "minecraft:entity.magma_cube.squish_small": 0.0,
+  "minecraft:entity.wither_skeleton.hurt": 0.0,
+  "skinandbonesremastered:wendigoantleredhurt": 0.02284263959390863,
+  "skinandbonesremastered:wendigoantleredstep": 0.027918781725888325,
+  "skinandbonesremastered:wendigoantleredambient": 0.02030456852791878,
+  "skinandbonesremastered:cursedvillagerdeath": 0.10913705583756345,
+  "skinandbonesremastered:wendigoantlereddeath": 0.02284263959390863,
+  "minecraft:entity.stray.ambient": 0.0,
+  "minecraft:entity.magma_cube.squish": 0.0,
+  "minecraft:entity.wither_skeleton.ambient": 0.0,
+  "undead_revamp2:oduresking": 0.09390862944162437,
+  "minecraft:entity.wither_skeleton.step": 0.0,
+  "minecraft:entity.magma_cube.hurt": 0.0,
+  "minecraft:entity.magma_cube.jump": 0.0,
+  "skinandbonesremastered:cursedvillager": 0.10406091370558376
+}

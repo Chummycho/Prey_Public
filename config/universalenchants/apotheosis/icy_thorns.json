@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest",
+    "apotheosis:chestplate_tome"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "minecraft:thorns",
+    "dungeons_gear:velocity"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+	id: "1F5B365F74C23A5F"
+	loot_size: 1
+	order_index: 23
+	rewards: [
+		{
+			command: "/puffish_skills points add @p Archery 3"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:alchemy_scroll"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "3x Archery Tree Points"
+			type: "command"
+		}
+		{
+			command: "/puffish_skills points add @p Crafting 3"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:alchemy_scroll"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "3x Crafting Tree Points"
+			type: "command"
+		}
+		{
+			command: "/puffish_skills points add @p Magic 3"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:alchemy_scroll"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "3x Magic Tree Points"
+			type: "command"
+		}
+		{
+			command: "/puffish_skills points add @p Melee 3"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:alchemy_scroll"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "3x Melee Tree Points"
+			type: "command"
+		}
+		{
+			command: "/puffish_skills points add @p Mining 3"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:alchemy_scroll"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "3x Mining Tree Points"
+			type: "command"
+		}
+	]
+	title: "Starter Points"
+}

@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Berserker Trials",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "kubejs:textures/icons/subclass_cat.png"
+		}
+	},
+	"background": "textures/block/crying_obsidian.png"
+}

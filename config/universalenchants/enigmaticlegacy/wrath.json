@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "enigmaticlegacy:torrent",
+    "minecraft:impaling",
+    "nikgubs_blades_plus:crushing_blow",
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "dungeons_gear:velocity",
+    "minecraft:sharpness"
+  ]
+}

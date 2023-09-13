@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_armor_ranged"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

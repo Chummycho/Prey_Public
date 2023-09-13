@@ -1,0 +1,30 @@
+{
+	id: "44B9842033E184DF"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ count: 32, item: "minecraft:diamond" }
+		{ count: 32, item: "minecraft:emerald" }
+		{ count: 128, item: "minecraft:lapis_lazuli" }
+		{ count: 128, item: "minecraft:quartz" }
+		{ count: 32, item: "minecraft:amethyst_shard" }
+		{ count: 16, item: "blue_skies:moonstone_shard" }
+		{ count: 16, item: "blue_skies:pyrope_gem" }
+		{ count: 16, item: "blue_skies:aquite" }
+		{ count: 16, item: "mekanism:fluorite_gem" }
+		{ count: 2, item: "blue_skies:moonstone" }
+		{ count: 3, item: "blue_skies:charoite" }
+		{ count: 24, item: "blue_skies:diopside_gem" }
+		{ item: "coinsje:netherite_coin" }
+		{ count: 16, item: "thermal:nuke_grenade" }
+		{ count: 32, item: "thermal:slime_grenade" }
+		{ count: 32, item: "thermal:redstone_grenade" }
+		{ count: 32, item: "thermal:glowstone_grenade" }
+		{ count: 32, item: "thermal:earth_grenade" }
+		{ count: 32, item: "thermal:ender_grenade" }
+		{ count: 32, item: "thermal:lightning_grenade" }
+		{ count: 32, item: "thermal:ice_grenade" }
+		{ count: 32, item: "thermal:fire_grenade" }
+	]
+	title: "Rarer Ores"
+}

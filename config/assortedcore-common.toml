@@ -1,0 +1,5 @@
+
+[Machines]
+	#Set to true if you want the grinding mill to play the break sound when a block is broken.
+	grindingMillBreakSound = true
+

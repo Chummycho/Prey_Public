@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "apotheosis:bow_tome"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "minecraft:infinity",
+    "dungeons_gear:velocity"
+  ]
+}

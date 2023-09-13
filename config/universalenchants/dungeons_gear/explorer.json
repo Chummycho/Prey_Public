@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "alexsmobs:pigshoes"
+  ],
+  "incompatible": [
+    "dungeons_gear:final_shout",
+    "dungeons_gear:frenzied",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:cowardice"
+  ]
+}

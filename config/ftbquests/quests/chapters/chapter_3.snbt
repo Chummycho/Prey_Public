@@ -1,0 +1,614 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_3"
+	group: "52883199DCF886CE"
+	id: "7C6AC6CEC16AE6D6"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"34285296F4C3F69C"
+				"18F026C5824106E1"
+				"67296E0869785D02"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "minecraft:potion"
+				tag: {
+					Potion: "minecraft:long_poison"
+				}
+			}
+			id: "2BD5F940421417E8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49311203BCDF1636"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "3D4004166DA43596"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "49C4D71FE996CBE3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "blue_skies:arachnarch"
+				id: "20FBEEC2E979012D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["71DC74C7646EEB36"]
+			id: "67296E0869785D02"
+			rewards: [{
+				id: "725DF1DF70B525F2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "22FA8131EC4913D8"
+				structure: "blue_skies:poison_dungeon"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["3943A600777C08A4"]
+			id: "71DC74C7646EEB36"
+			rewards: [{
+				id: "54BE987B102495EA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				id: "36FC742709C2A74F"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"34285296F4C3F69C"
+				"18F026C5824106E1"
+				"115086B49E13FE27"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:warding_pearl"
+			}
+			id: "3943A600777C08A4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2451DD202EFD1704"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "21BA07DF6A3A5759"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "11D7DF6EB6B18261"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "blue_skies:starlit_crusher"
+				id: "5E73ABF055F093BF"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2FF9249A386B3082"]
+			id: "115086B49E13FE27"
+			rewards: [{
+				id: "07AAD3830523BCA8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A6F5E418027B514"
+				structure: "blue_skies:nature_dungeon"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"568A54C59D03A0B1"
+				"005A821CD9592F45"
+				"7C9DCB49D9FF970E"
+				"7872CD99B5BE0C06"
+			]
+			id: "2FF9249A386B3082"
+			rewards: [{
+				id: "50F486768CA31EF9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "blue_skies:everbright"
+				id: "0C8758393B38419A"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3D14E9E16AB5AC36"]
+			id: "7C9DCB49D9FF970E"
+			rewards: [
+				{
+					id: "19639482DD744707"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "numismaticoverhaul:gold_coin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3CFF08EB625C4B53"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mutantmonsters:mutant_creeper"
+				id: "4EA9A57CD1E596C3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3D14E9E16AB5AC36"]
+			id: "568A54C59D03A0B1"
+			rewards: [
+				{
+					id: "2C3E1B59B5D31E6B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "numismaticoverhaul:gold_coin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3F5801353F9301A2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mutantmonsters:mutant_skeleton"
+				id: "5D3211B8B5BCD9A1"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3D14E9E16AB5AC36"]
+			id: "005A821CD9592F45"
+			rewards: [
+				{
+					id: "0176AC88327D374B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "numismaticoverhaul:gold_coin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "7173A99761B0D043"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mutantmonsters:mutant_zombie"
+				id: "61FD6D341042E809"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["34285296F4C3F69C"]
+			id: "3D14E9E16AB5AC36"
+			rewards: [{
+				id: "3771FBB912D34273"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "26523A46B1AF44FB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Perform the Ritual to obtain The Eye"
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3D14E9E16AB5AC36"]
+			id: "7872CD99B5BE0C06"
+			rewards: [
+				{
+					id: "7D09D0F05ED91BE9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "numismaticoverhaul:gold_coin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3851AE3A05480BEB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mutantmonsters:mutant_enderman"
+				id: "67DCB752422656F9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["320CEAC8D46B0D2D"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:poison_arc"
+				tag: {
+					ArcLevel: 0
+				}
+			}
+			id: "34285296F4C3F69C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6F3B5C2647415474"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "13375EC4090765B5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "26E7685FBE6B1212"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "blue_skies:alchemist"
+				id: "099B558B1F8FCF6F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["18F026C5824106E1"]
+			id: "320CEAC8D46B0D2D"
+			rewards: [{
+				id: "1CA44FF535A77DD2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				id: "700E8F2839814327"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["119A810BF4B36AB8"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "blue_skies:soulbound_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "18F026C5824106E1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1D74EE85F40A5791"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "585B164F6167ADAB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "07DA55A09789E83C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "blue_skies:summoner"
+				id: "19A5D412517767E2"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["525AA61D65766A4D"]
+			id: "119A810BF4B36AB8"
+			rewards: [{
+				id: "0AAD90A4B1584930"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "blue_skies:everbright"
+				id: "452CB23F7C7D0870"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5870AF281BCC43BA"]
+			id: "525AA61D65766A4D"
+			rewards: [{
+				id: "5315B2E9A1F548DC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A0825A4022F83BD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "blue_skies:zeal_lighter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Trade with The Gatekeeper to obtain a Zeal Lighter"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3760E54BA1C04BDA"
+				"2216E6809641F693"
+				"065D8134D1FFA2B0"
+			]
+			id: "5870AF281BCC43BA"
+			rewards: [
+				{
+					command: "/dimension blue_skies:everbright access grant"
+					id: "6AEEFF566C04F319"
+					player_command: false
+					type: "command"
+				}
+				{
+					command: "/dimension blue_skies:everdawn access grant"
+					id: "0CFC06057537FF2B"
+					player_command: false
+					type: "command"
+				}
+				{
+					id: "09D0C25701FF91DA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C56996D63A80752"
+				structure: "blue_skies:gatekeeper_house_plains"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+	]
+	title: "Chapter 3: The Arcane"
+}

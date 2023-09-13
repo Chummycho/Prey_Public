@@ -1,0 +1,54 @@
+#If enabled, you don't need to hold down the key to keep the access bar open.
+toggleMode = true
+#Left clicking will select current item.
+leftClickSelect = true
+#Pressing esc will close the access bar without selecting an item.
+escClose = true
+#You can use number keys to select items in access bars like you can in your hotbar.
+scrollWithNumberKeys = true
+#the Sound you want to play, when selecting an item in bar 2 (0-3)
+#Range: 0 ~ 4
+selectSound1 = 1
+#texture of the access bar 1  0->mine 1->my brothers (or use your own with a texture pack of cause)
+#Range: 0 ~ 1
+barTexture1 = 0
+#texture of the access bar 2  0->mine 1->my brothers (or use your own with a texture pack of cause)
+#Range: 0 ~ 1
+barTexture2 = 0
+#horizontal offset of the bar from the default position
+#Range: > -2147483648
+xOffset = 0
+#vertical offset of the bar from the default position
+#Range: > -2147483648
+yOffset = 0
+#space left between bar slots
+#Range: > -2147483648
+spaceBetweenSlots = 0
+#The first slot of the bars is empty.
+leadingEmptySlot = true
+#When opening a bar your currently held item is selected, if it is contained in the bar.
+heldItemSelected = false
+#what information should be shown about the items  all->all; enchantments-> enchantments/potion effect and name;
+#name->name; non->non
+itemInfoShown = "enchantments"
+#The tool swapped out last time should be shown in the first access bar slot next time.
+lastSwappedOutFirst = true
+#The item that would be swapped out of your hotbar goes in the slot to the right instead, if that slot is empty
+putToTheRightIfPossible = false
+#Locks swapping to that hotbar slot. Values <1 and >hotbar size disable this option.
+#Range: > 0
+lockSwappingToSlot = 0
+#After swapping your selected hotbar slot will be set to this slot. Values <1 and >hotbar size disable this option.
+#Range: > 0
+hotbarSlotAfterSwap = 0
+#what type of item you want to access  possible: tools, swords, ranged weapons, potions, buckets, stuff
+#Stuff is defined in the stuff.json file in the config folder and can be modified by hand or via in game command.
+#By default it includes torch, ladder, bucket and cobblestone.
+#Allowed Values: TOOLS, SWORDS, RANGED_WEAPONS, POTIONS, BUCKETS, STUFF
+typeToAccess1 = "TOOLS"
+#what type of item you want to access  possible: tools, swords, ranged weapons, potions, buckets, stuff
+##Stuff is defined in the stuff.json file in the config folder and can be modified by hand or via in game command.
+##By default it includes torch, ladder, bucket and cobblestone.
+#Allowed Values: TOOLS, SWORDS, RANGED_WEAPONS, POTIONS, BUCKETS, STUFF
+typeToAccess2 = "SWORDS"
+

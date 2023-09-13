@@ -1,0 +1,418 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_2b"
+	group: "52883199DCF886CE"
+	id: "192B27C0FB2D16BB"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2326924DE94DE852"]
+			id: "4E3732AB676DC140"
+			rewards: [{
+				id: "4B8B591A69875DEF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			subtitle: "Watch your step..."
+			tasks: [{
+				id: "5829E2C85F613C1D"
+				structure: "minecraft:ancient_city"
+				title: "Locate an Ancient City"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4E3732AB676DC140"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "deeperdarker:warden_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "79AE290EAD0F4461"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B93B7510A321893"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "345B1D817EA7A13E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "7C1C58729B4C9C2A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "5620FDAEEA693A20"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["79AE290EAD0F4461"]
+			id: "7D98751B6AD0CEA8"
+			rewards: [{
+				id: "5DFF64FA031F5F50"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "64E509BB270098CA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "deeperdarker:heart_of_the_deep"
+				}
+				type: "item"
+			}]
+			title: "Use the Heart of the Deep to ignite the portal"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7D98751B6AD0CEA8"]
+			id: "1091A94A688578F5"
+			rewards: [{
+				id: "7A4DCF0657E4A081"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			subtitle: "Desecrate the holy site"
+			tasks: [{
+				id: "6EDD429B4768E084"
+				structure: "deeperdarker:ancient_temple"
+				type: "structure"
+			}]
+			title: "Within the abyss, seek out The Ancient Temple"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1091A94A688578F5"]
+			id: "2714206CB08AA8F0"
+			rewards: [{
+				id: "77373185E22126D9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				block: "deeperdarker:ancient_vase"
+				block_type: 0
+				checkItem: false
+				id: "5196BCF11FADB5AA"
+				type: "questsadditions:break"
+				value: 5L
+			}]
+			title: "Break Ancient Vases in the Ancient Temple"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2714206CB08AA8F0"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "deeperdarker:warden_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "53165D7D56F994FF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "25E7A309C4F18C9F"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "6D93FC40F3BAFDD7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "2C9419DFF5A206D9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:stalker"
+				id: "1E226FAB82040302"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53165D7D56F994FF"]
+			id: "738AF0523DAF55F4"
+			rewards: [{
+				id: "681C454AF2C2100D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "4F24023DEA0DFFD9"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["738AF0523DAF55F4"]
+			id: "75CA94AA0FBCA40D"
+			rewards: [{
+				id: "77DE857F70852658"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0BA688CBBD798FA5"
+				structure: "cataclysm:soul_black_smith"
+				type: "structure"
+			}]
+			title: "Seek out the Soul Blacksmith"
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["75CA94AA0FBCA40D"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "cataclysm:infernal_forge"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3760E54BA1C04BDA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7BAACCCE750C8BD4"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "78A741689C427417"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "0BB1E41CF58A8998"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "0565C41458E34914"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0DA2D2E2690964D1"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "cataclysm:altar_of_fire"
+			}
+			id: "065D8134D1FFA2B0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3CB4A66675E8816C"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "76478EBEAA777313"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "7D796530A4787FCC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "109BFD0B638B0D21"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Use the Burning Ashes on the Altar to begin..."
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4ED87897C9C89421"]
+			id: "0DA2D2E2690964D1"
+			rewards: [{
+				id: "37C4C167695693D4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "214B8D94EC2C64CC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "cataclysm:burning_ashes"
+				}
+				type: "item"
+			}]
+			title: "Obtain Burning Ashes"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["738AF0523DAF55F4"]
+			id: "4ED87897C9C89421"
+			rewards: [{
+				id: "7A520F63EDE78A66"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "18C36D440D63727F"
+				structure: "cataclysm:burning_arena"
+				type: "structure"
+			}]
+			title: "Venture to The Burning Arena"
+			x: 1.0d
+			y: 2.0d
+		}
+	]
+	title: "Chapter 2b: The Cryptic"
+}

@@ -1,0 +1,206 @@
+{
+	id: "62092AA72163D03E"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:pickup_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:filter_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:magnet_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:feeding_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:compacting_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:void_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:restock_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:deposit_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:refill_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:jukebox_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:tool_swapper_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:tank_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:battery_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:pump_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:inception_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:everlasting_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:smelting_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:smoking_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:blasting_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:crafting_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:stonecutter_upgrade"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:stack_upgrade_tier_1"
+			}
+		}
+	]
+	title: "Backpack Upgrades: Common"
+}

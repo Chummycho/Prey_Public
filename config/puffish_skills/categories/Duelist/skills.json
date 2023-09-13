@@ -1,0 +1,242 @@
+{
+	"3oz7fcqyqohaiqhh": {
+		"definition": "crit_damage+5%",
+		"x": 0,
+		"y": -32,
+		"root": true
+	},
+	"9ogtxriusrc7mnuo": {
+		"definition": "damage_with_shield+5%",
+		"x": 0,
+		"y": 32,
+		"root": true
+	},
+	"h9zxqsw6u3kcyxka": {
+		"definition": "crit_chance+5%",
+		"x": -32,
+		"y": 0,
+		"root": true
+	},
+	"0mfxb132nved2b3n": {
+		"definition": "regeneration+5%",
+		"x": 32,
+		"y": 0,
+		"root": true
+	},
+	"mneikvk7sayz5ux9": {
+		"definition": "regeneration+5%",
+		"x": 64,
+		"y": -32,
+		"root": false
+	},
+	"nu1ndms1roi0b47f": {
+		"definition": "regeneration+5%",
+		"x": 64,
+		"y": 32,
+		"root": false
+	},
+	"d9uagmup14vk1spp": {
+		"definition": "regeneration+5%",
+		"x": 96,
+		"y": 32,
+		"root": false
+	},
+	"02dsz1wfkb93a22u": {
+		"definition": "regeneration+5%",
+		"x": 96,
+		"y": -32,
+		"root": false
+	},
+	"12sstl43o2yq381e": {
+		"definition": "regeneration+5%",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"qhhmrhbehg1z4fhq": {
+		"definition": "regeneration+5%",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"j4x5hlh6jwckw6vg": {
+		"definition": "regeneration+5%",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"mdp6t9vs3wf5bbbs": {
+		"definition": "damage_with_shield+5%",
+		"x": -32,
+		"y": 64,
+		"root": false
+	},
+	"tscz5lq963rkz3ls": {
+		"definition": "damage_with_shield+5%",
+		"x": 32,
+		"y": 64,
+		"root": false
+	},
+	"he2tybp3vwfxsmdh": {
+		"definition": "damage_with_shield+5%",
+		"x": -32,
+		"y": 96,
+		"root": false
+	},
+	"qht970wjeaia4k4q": {
+		"definition": "damage_with_shield+5%",
+		"x": 32,
+		"y": 96,
+		"root": false
+	},
+	"7dfgb4i8cn47ujf9": {
+		"definition": "damage_with_shield+5%",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"bkzp29i8uyrp0ib1": {
+		"definition": "damage_with_shield+5%",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"74rrbk3nufmnqedb": {
+		"definition": "damage_with_shield+5%",
+		"x": -64,
+		"y": 128,
+		"root": false
+	},
+	"2bq0bp0svrzashke": {
+		"definition": "crit_damage+5%",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"pkcwxd7o1oahgt47": {
+		"definition": "crit_damage+5%",
+		"x": 32,
+		"y": -64,
+		"root": false
+	},
+	"2r77qlsmgpz6vvox": {
+		"definition": "crit_damage+5%",
+		"x": -32,
+		"y": -96,
+		"root": false
+	},
+	"87kc77xmj8qngz3x": {
+		"definition": "crit_damage+5%",
+		"x": 32,
+		"y": -96,
+		"root": false
+	},
+	"5k3zal4wyvnvbn72": {
+		"definition": "crit_damage+5%",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"3sl8zdlogt3wgyl0": {
+		"definition": "crit_damage+5%",
+		"x": 64,
+		"y": -128,
+		"root": false
+	},
+	"niws9vdnp5pw0vos": {
+		"definition": "crit_damage+5%",
+		"x": 96,
+		"y": -128,
+		"root": false
+	},
+	"m3qeg4rejlmp6end": {
+		"definition": "crit_damage+5%",
+		"x": -64,
+		"y": -128,
+		"root": false
+	},
+	"s0a3b15cgy39n4oc": {
+		"definition": "crit_damage+5%",
+		"x": -96,
+		"y": -128,
+		"root": false
+	},
+	"9ki114f6k0dc4d6w": {
+		"definition": "crit_chance+5%",
+		"x": -64,
+		"y": -32,
+		"root": false
+	},
+	"eusbtwmnk1vo4hxi": {
+		"definition": "crit_chance+5%",
+		"x": -64,
+		"y": 32,
+		"root": false
+	},
+	"088ozkuz8yeis28v": {
+		"definition": "crit_chance+5%",
+		"x": -96,
+		"y": 32,
+		"root": false
+	},
+	"ilokm6eprc3j75xe": {
+		"definition": "crit_chance+5%",
+		"x": -96,
+		"y": -32,
+		"root": false
+	},
+	"ekvr1kqtahe8mu41": {
+		"definition": "crit_chance+5%",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"rgs5hh60z98l9fmq": {
+		"definition": "crit_chance+5%",
+		"x": -128,
+		"y": -64,
+		"root": false
+	},
+	"9vjtjfdc7yk8rlad": {
+		"definition": "crit_chance+5%",
+		"x": -128,
+		"y": -96,
+		"root": false
+	},
+	"34nvx4r15uhnsytf": {
+		"definition": "crit_chance+5%",
+		"x": -128,
+		"y": 64,
+		"root": false
+	},
+	"j2zmp31q0ojwtdh7": {
+		"definition": "crit_chance+5%",
+		"x": -128,
+		"y": 96,
+		"root": false
+	},
+	"9s6vcmw0l64kaxda": {
+		"definition": "damage_with_shield+5%",
+		"x": -96,
+		"y": 128,
+		"root": false
+	},
+	"daus6ywi1q786dmz": {
+		"definition": "damage_with_shield+5%",
+		"x": 96,
+		"y": 128,
+		"root": false
+	},
+	"6tgag1116aaoe7rd": {
+		"definition": "regeneration+5%",
+		"x": 128,
+		"y": 96,
+		"root": false
+	},
+	"dh6p5blg1zivnpv3": {
+		"definition": "regeneration+5%",
+		"x": 128,
+		"y": -96,
+		"root": false
+	}
+}

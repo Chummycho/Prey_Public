@@ -1,0 +1,128 @@
+{
+	id: "4178738B62C73B14"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:explosive_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:fire_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:ice_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:lightning_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:earth_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:ender_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:glowstone_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:redstone_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:slime_grenade"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+				id: "thermal:nuke_grenade"
+			}
+		}
+	]
+	title: "Grenades"
+}

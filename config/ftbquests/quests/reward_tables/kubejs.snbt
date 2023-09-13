@@ -1,0 +1,141 @@
+{
+	id: "21036998EA603C05"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "irons_spellbooks:evoker_spell_book"
+				tag: {
+					ISB_spellbook: {
+						activeSpellIndex: 0
+						spellSlots: 3
+						spells: [
+							{
+								id: 19
+								level: 6
+								slot: 0
+							}
+							{
+								id: 20
+								level: 4
+								slot: 1
+							}
+							{
+								id: 9
+								level: 4
+								slot: 2
+							}
+						]
+					}
+				}
+			}
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:battlemage"
+			}
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+					"dungeons_libraries:ranged_abilities": {
+						dynamicChargeTime: 0.0f
+						fuseShotCounter: 0
+						lastFiredTime: 0L
+					}
+				}
+				id: "create:potato_cannon"
+				tag: {
+					Damage: 0
+				}
+			}
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:artificer"
+			}
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [{
+							data: [
+								{
+									id: "dungeons_gear:supercharge"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:power"
+									lvl: 1s
+								}
+							]
+							source: "dungeons_libraries:gear_config"
+						}]
+					}
+					"dungeons_libraries:ranged_abilities": {
+						dynamicChargeTime: 0.0f
+						fuseShotCounter: 0
+						lastFiredTime: 0L
+					}
+				}
+				id: "dungeons_gear:elite_power_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:scout"
+			}
+		}
+		{
+			icon: {
+				Count: 1
+				id: "dungeons_gear:broadsword"
+				tag: {
+					Damage: 0
+				}
+			}
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:blademaster"
+			}
+		}
+		{
+			icon: {
+				Count: 1
+				id: "dungeons_mobs:drowned_necromancer_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:rogue"
+			}
+		}
+	]
+	title: "Kubejs"
+}

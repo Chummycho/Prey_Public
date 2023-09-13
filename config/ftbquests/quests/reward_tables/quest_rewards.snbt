@@ -1,0 +1,38 @@
+{
+	id: "1BE33B484C03AC23"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:common_coin_lootbox"
+			}
+			weight: 7.0f
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:uncommon_coin_lootbox"
+			}
+			weight: 2.0f
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:rare_coin_lootbox"
+			}
+		}
+	]
+	title: "Coin Quest Rewards"
+	use_title: true
+}

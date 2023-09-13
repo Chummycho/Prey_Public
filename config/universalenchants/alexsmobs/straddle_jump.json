@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:straddleboard"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

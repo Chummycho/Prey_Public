@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "minecraft:loyalty",
+    "minecraft:channeling",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Melee",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "kubejs:textures/icons/melee_prof.png"
+		}
+	},
+	"background": "textures/block/polished_blackstone.png"
+}

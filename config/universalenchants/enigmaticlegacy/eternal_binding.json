@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable"
+  ],
+  "incompatible": [
+    "minecraft:binding_curse",
+    "minecraft:vanishing_curse",
+    "ensorcellation:soulbound",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity"
+  ]
+}

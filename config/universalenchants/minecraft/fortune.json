@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "dungeons_gear:pickaxe",
+    "dungeons_gear:diamond_pickaxe",
+    "dungeons_gear:axe",
+    "dungeons_gear:gold_axe",
+    "dungeons_gear:firebrand",
+    "dungeons_gear:highland_axe",
+    "dungeons_gear:double_axe",
+    "dungeons_gear:cursed_axe",
+    "dungeons_gear:whirlwind",
+    "thermal:flux_drill",
+    "thermal:flux_saw",
+    "quark:pickarang",
+    "quark:flamerang",
+    "quark:echorang"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

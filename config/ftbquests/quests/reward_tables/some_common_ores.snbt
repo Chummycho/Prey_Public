@@ -1,0 +1,24 @@
+{
+	id: "1254C1F4175E69BC"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ count: 64, item: "minecraft:copper_ingot" }
+		{ count: 32, item: "minecraft:gold_ingot" }
+		{ count: 24, item: "immersiveengineering:raw_aluminum" }
+		{ count: 24, item: "thermal:silver_ingot" }
+		{ count: 24, item: "mekanism:ingot_uranium" }
+		{ count: 24, item: "thermal:lead_ingot" }
+		{ count: 24, item: "thermal:tin_ingot" }
+		{ count: 24, item: "create:zinc_ingot" }
+		{ count: 24, item: "thermal:nickel_ingot" }
+		{ item: "coinsje:diamond_coin" }
+		{ count: 32, item: "minecraft:iron_ingot" }
+		{ count: 16, item: "thermal:earth_grenade" }
+		{ count: 16, item: "thermal:ice_grenade" }
+		{ count: 16, item: "thermal:slime_grenade" }
+		{ count: 16, item: "thermal:fire_grenade" }
+		{ count: 8, item: "thermal:nuke_grenade" }
+	]
+	title: "Common Materials"
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "dungeons_gear:frenzied",
+    "dungeons_gear:velocity",
+    "dungeons_gear:explorer",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:cowardice"
+  ]
+}

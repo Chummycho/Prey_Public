@@ -1,0 +1,47 @@
+{
+  "armorSetName": "Wolf",
+  "head": {
+    "itemKey": "dungeons_gear:wolf_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:wolf_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:wolf_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:wolf_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "feathers:feathers.feather_regen",
+      "value": 1.1,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd259",
+      "description": "+10% Feathers Regeneration",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "feathers:feathers.feather_regen",
+      "value": 1.2,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd260",
+      "description": "+20% Feathers Regeneration",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

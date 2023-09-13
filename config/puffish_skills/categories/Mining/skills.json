@@ -1,0 +1,1154 @@
+{
+	"vfqm06uv7hrvhak1": {
+		"definition": "life_steal+5%",
+		"x": 0,
+		"y": -517.3058411939046,
+		"root": false
+	},
+	"bk14htegyzorew37": {
+		"definition": "life_steal+5%",
+		"x": -32,
+		"y": -498.8306325798367,
+		"root": false
+	},
+	"33implsgkdufrrk8": {
+		"definition": "life_steal+5%",
+		"x": 32,
+		"y": -498.83063257983656,
+		"root": false
+	},
+	"zgwrux3824nibb4p": {
+		"definition": "generic.max_health+5%",
+		"x": 32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"46lp3o6d59rbs73g": {
+		"definition": "generic.max_health+5%",
+		"x": -32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"ifr2hcrykhkaamcy": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"5aw846z9h6nj7njs": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": -221.70250336881625,
+		"root": false
+	},
+	"agct41qrhfux9von": {
+		"definition": "life_steal+5%",
+		"x": -416,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"reqsct8d088o1dfs": {
+		"definition": "generic.max_health+5%",
+		"x": -352,
+		"y": -240.1777119828843,
+		"root": false
+	},
+	"rgm8bm3m0kf2rdc0": {
+		"definition": "generic.max_health+5%",
+		"x": -384,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"b7tjzs342zcpvv1l": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"v2ociiig6vjpbflc": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": 221.70250336881634,
+		"root": false
+	},
+	"xy7x9n8nuvhbwv91": {
+		"definition": "life_steal+5%",
+		"x": -416,
+		"y": 277.1281292110203,
+		"root": false
+	},
+	"85zhclcf4fgnoxp7": {
+		"definition": "life_steal+5%",
+		"x": 0,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"9u7sgdpcnhac15mi": {
+		"definition": "life_steal+5%",
+		"x": -32,
+		"y": 498.83063257983656,
+		"root": false
+	},
+	"nsfhixkiuiarli3f": {
+		"definition": "life_steal+5%",
+		"x": 32,
+		"y": 498.8306325798367,
+		"root": false
+	},
+	"yez4ff29j96j4vtw": {
+		"definition": "generic.max_health+5%",
+		"x": -32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"dbfa0y41wtgaes7o": {
+		"definition": "generic.max_health+5%",
+		"x": 32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"481y7jwnusjlr5al": {
+		"definition": "generic.max_health+5%",
+		"x": -384,
+		"y": 184.7520861406802,
+		"root": false
+	},
+	"8kvsbb4g6cu8ui0m": {
+		"definition": "generic.max_health+5%",
+		"x": -352,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"5nmjxbzm9mgziqfo": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"rd0ilg4om3iyb22e": {
+		"definition": "life_steal+5%",
+		"x": 416,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"y0j52om9je423gov": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": 221.70250336881625,
+		"root": false
+	},
+	"3fqgpba14mma444o": {
+		"definition": "generic.max_health+5%",
+		"x": 384,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"6kkvdiwjh91i868x": {
+		"definition": "generic.max_health+5%",
+		"x": 352,
+		"y": 240.1777119828843,
+		"root": false
+	},
+	"4bplqksytxhf3rgj": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"lc6spvskmapalde2": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": -221.70250336881634,
+		"root": false
+	},
+	"625iuonjx96jpfvs": {
+		"definition": "life_steal+5%",
+		"x": 416,
+		"y": -277.1281292110203,
+		"root": false
+	},
+	"8cqw24vx5c0ns6i2": {
+		"definition": "generic.max_health+5%",
+		"x": 352,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"3hvwt8x0fthc6b2i": {
+		"definition": "generic.max_health+5%",
+		"x": 384,
+		"y": -184.7520861406802,
+		"root": false
+	},
+	"deo8h5vc2v3zsr8g": {
+		"definition": "generic.luck+5%",
+		"x": -96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"k9bgdg9v93abdccv": {
+		"definition": "experience_from_ore+5%",
+		"x": -64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"jiplmhfk7c310y35": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": -32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"b20i3k54sp8oqxg8": {
+		"definition": "generic.luck+5%",
+		"x": 32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"gmts7b7gvqxde39w": {
+		"definition": "stamina+5%",
+		"x": 64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"586n3amc8w65quds": {
+		"definition": "stealth+5%",
+		"x": 96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"owybx9ept7cvi54u": {
+		"definition": "damage_with_gem_in_weapon+5%",
+		"x": 64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"3p4t0s5ssbqhj9nx": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": 96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"2v3wcza7c0fi0cep": {
+		"definition": "stealth+5%",
+		"x": -32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"6buogtrl6749nmsk": {
+		"definition": "stealth+5%",
+		"x": 32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"i9uazqosdcblpe3j": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": -64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"wz20baq2qnpch6is": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"tgll30t305xqdr0f": {
+		"definition": "damage_with_gem_in_weapon+5%",
+		"x": -32,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"5iu3smz5mgte2c3b": {
+		"definition": "crafted_armor_stealth+5%",
+		"x": 32,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"jkzva7orybijcgpz": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 0,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"ct84dj3gunuyn5v4": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": -32,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"jilovlmgjigqylpv": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 32,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"5wcgt0gsoidj0obj": {
+		"definition": "experience_from_ore+5%",
+		"x": -32,
+		"y": 240.17771198288426,
+		"root": false
+	},
+	"3evsmtusnk0ldkfa": {
+		"definition": "jump+5%",
+		"x": 32,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"lsbybyh8dzofz8pv": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 0,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"a2fqmn6z6tkmlv9z": {
+		"definition": "resistance+5%",
+		"x": -32,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"owi1dnzyyvulwhff": {
+		"definition": "experience_from_ore+5%",
+		"x": 32,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"k36on24pi30sihfo": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": -32,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"5wvty7mpfh2yekg7": {
+		"definition": "damage_with_gem_in_weapon+5%",
+		"x": 32,
+		"y": 351.0289636672925,
+		"root": false
+	},
+	"fj38a1jrezevttg7": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 0,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"3cyixd0key5pxhtg": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 0,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"1wgufpsrr5nky8j9": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": 96,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"kwaq6ldloxcxl3bp": {
+		"definition": "jump+5%",
+		"x": 128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"og45sbqt5k2ak35y": {
+		"definition": "experience_per_hour+5%",
+		"x": 128,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"s08jclsfw0cwbii4": {
+		"definition": "experience_per_hour+5%",
+		"x": 160,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"dr4p1dy231bvi5o2": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": 192,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"8hj719sphbxryalz": {
+		"definition": "experience_per_hour+5%",
+		"x": 224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"k3j8rs1sb4inpx1e": {
+		"definition": "experience_per_hour+5%",
+		"x": 192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"3qg3kkhmg6tr0mk4": {
+		"definition": "generic.movement_speed+5%",
+		"x": 224,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"tgzibzdh8yn94atz": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": 256,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"i8x8zbv7z1rbp7kt": {
+		"definition": "crafted_boots_stealth+5%",
+		"x": 288,
+		"y": 203.22729475474827,
+		"root": false
+	},
+	"mpsuqo34bueppy9n": {
+		"definition": "crafted_armor_stealth+5%",
+		"x": 288,
+		"y": 129.32646029847618,
+		"root": false
+	},
+	"fhiwqmg0mmb5zjxy": {
+		"definition": "experience_from_ore+5%",
+		"x": 320,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"sgwhiu0ceiglzkqn": {
+		"definition": "experience_per_hour+5%",
+		"x": 320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"wzd7lc5cjton3ilz": {
+		"definition": "experience_per_hour+5%",
+		"x": 352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"hnj45sj3pw6rad56": {
+		"definition": "experience_from_ore+5%",
+		"x": 96,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"uklrbxuhzxdzmxsl": {
+		"definition": "stamina+5%",
+		"x": 128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"2hhbg19oiskx4i51": {
+		"definition": "mining_speed+5%",
+		"x": 128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"gdq2of4jtabh8vvx": {
+		"definition": "mining_speed+5%",
+		"x": 160,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"bmhxosk0tv0z18su": {
+		"definition": "jump+5%",
+		"x": 192,
+		"y": -147.80166891254416,
+		"root": false
+	},
+	"s09e23pguouoictz": {
+		"definition": "mining_speed+5%",
+		"x": 192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"os0k65ul58tquoet": {
+		"definition": "generic.luck+5%",
+		"x": 224,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"6b6t01bmz7ou7n23": {
+		"definition": "mining_speed+5%",
+		"x": 224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"kvaf8yj7no5e3ghg": {
+		"definition": "experience_from_ore+5%",
+		"x": 256,
+		"y": -184.75208614068026,
+		"root": false
+	},
+	"fi0bqj37wzo09jjk": {
+		"definition": "generic.movement_speed+5%",
+		"x": 288,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"m61mzyonao9t8678": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": 288,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"a2pj4mrju33dqlal": {
+		"definition": "stealth+5%",
+		"x": 320,
+		"y": -147.80166891254422,
+		"root": false
+	},
+	"hwn5yf4mgldfwx2w": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"sljxuiqjxmgeewk6": {
+		"definition": "mining_speed+5%",
+		"x": 320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"fjb5wu9oocqyiket": {
+		"definition": "generic.movement_speed+5%",
+		"x": -32,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"1j7s1ucwd7wies4a": {
+		"definition": "damage_with_gem_in_weapon+5%",
+		"x": 32,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"oo0ejnmv37rdvaao": {
+		"definition": "triple_loot_chance+5%",
+		"x": 0,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"u2t1xh0hz537v1vs": {
+		"definition": "triple_loot_chance+5%",
+		"x": 0,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"jopznc4f2al92ht8": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -32,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"hip2iexdpa0t7huh": {
+		"definition": "crafted_armor_stealth+5%",
+		"x": 32,
+		"y": -240.17771198288426,
+		"root": false
+	},
+	"t9i4deykw2lkjpg5": {
+		"definition": "triple_loot_chance+5%",
+		"x": -32,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"jrdfnyebzk7xljhz": {
+		"definition": "triple_loot_chance+5%",
+		"x": 32,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"3us2h4cjtpiaospa": {
+		"definition": "experience_from_ore+5%",
+		"x": -32,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"gkbcth0vvt7nebd9": {
+		"definition": "resistance+5%",
+		"x": 32,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"lxbl3mafsm1tnzp1": {
+		"definition": "experience_from_ore+5%",
+		"x": -32,
+		"y": -351.0289636672925,
+		"root": false
+	},
+	"nw5xq3tbeid4gufw": {
+		"definition": "crafted_armor_stealth+5%",
+		"x": 32,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"flihwq8ybhif5bw5": {
+		"definition": "triple_loot_chance+5%",
+		"x": 0,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"xnwroaqhi49xxrmr": {
+		"definition": "experience_from_mobs+5%",
+		"x": 0,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"urgm9emqstd6cjkb": {
+		"definition": "stealth+5%",
+		"x": -128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"6e7lxb1hi50v19cf": {
+		"definition": "stamina+5%",
+		"x": -96,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"hdibxgitgprrubvh": {
+		"definition": "double_loot_chance+5%",
+		"x": -128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"yo8my0bh3annp41h": {
+		"definition": "double_loot_chance+5%",
+		"x": -160,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"9g5de9b93t9oo4c1": {
+		"definition": "double_loot_chance+5%",
+		"x": -192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"hwu2qym33iaj3wu4": {
+		"definition": "experience_from_ore+5%",
+		"x": -224,
+		"y": -92.3760430703401,
+		"root": false
+	},
+	"bcyxcfrz7zvw95qj": {
+		"definition": "stealth+5%",
+		"x": -192,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"xgbvus1up4muhxis": {
+		"definition": "double_loot_chance+5%",
+		"x": -224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"fqqt4tf5k6bm0sr2": {
+		"definition": "double_loot_chance+5%",
+		"x": -352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"wlqjxems66vle2cd": {
+		"definition": "double_loot_chance+5%",
+		"x": -320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"4lj7v71szhri21o6": {
+		"definition": "resistance+5%",
+		"x": -320,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"0xlmyvooc9odln6e": {
+		"definition": "experience_from_ore+5%",
+		"x": -288,
+		"y": -129.32646029847618,
+		"root": false
+	},
+	"sqayrt8o4q4t3eln": {
+		"definition": "generic.luck+5%",
+		"x": -288,
+		"y": -203.22729475474827,
+		"root": false
+	},
+	"ixtv5qxuck9a1oqb": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -256,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"bd35tqroq3qhcu4s": {
+		"definition": "generic.movement_speed+5%",
+		"x": -128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"aczlbq88qbpembp9": {
+		"definition": "experience_from_ore+5%",
+		"x": -96,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"4c1js7oe656fx1hr": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -128,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"a58zp1jonqexfzkw": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -160,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"bvxf7pxcfabyanbx": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"ds1tfbfk9edul2jt": {
+		"definition": "stealth+5%",
+		"x": -224,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"idnzu6zh75oh28lz": {
+		"definition": "jump+5%",
+		"x": -192,
+		"y": 147.80166891254416,
+		"root": false
+	},
+	"e7lo2c1pnkiy381g": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"ef2ps1pca6l17flg": {
+		"definition": "resistance+5%",
+		"x": -288,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"wd7mblssg0f7nkaf": {
+		"definition": "experience_from_ore+5%",
+		"x": -320,
+		"y": 147.80166891254422,
+		"root": false
+	},
+	"wwvj2nxnmvrktmtm": {
+		"definition": "stamina+5%",
+		"x": -256,
+		"y": 184.75208614068026,
+		"root": false
+	},
+	"m8re5e15lbu4770y": {
+		"definition": "stealth+5%",
+		"x": -288,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"qnc2v64y93kun1cs": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"t4pad8gyfoyi5cmh": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"4ixovujkqwn3ldmh": {
+		"definition": "crit_damage+5%",
+		"x": -256,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"ddo2w18w4cirq8k1": {
+		"definition": "crit_damage+5%",
+		"x": -256,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"4t3wl5ggyty7r8fe": {
+		"definition": "crit_damage+5%",
+		"x": 0,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"rz8erx3hwv1hcgbp": {
+		"definition": "crit_damage+5%",
+		"x": 256,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"przksfehuda5clu6": {
+		"definition": "crit_damage+5%",
+		"x": 256,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"tzj88sn9mejh5e8p": {
+		"definition": "crit_damage+5%",
+		"x": 0,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"j2n0a5lw5fq8n2nn": {
+		"definition": "double_loot_chance+5%",
+		"x": -64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"rrhwxe3efylurjfy": {
+		"definition": "crafted_boots_movement_speed+5%",
+		"x": -64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"i1pg0vz6ef8qkah6": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 0,
+		"y": 73.9008344562721,
+		"root": true
+	},
+	"oix231c2z72cjyc0": {
+		"definition": "experience_per_hour+5%",
+		"x": 64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"nicli7p620b1zg66": {
+		"definition": "mining_speed+5%",
+		"x": 64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"3gy66l4ajp3d75yu": {
+		"definition": "experience_from_mobs+5%",
+		"x": 0,
+		"y": -73.9008344562721,
+		"root": true
+	},
+	"qp0pi1rwu13nyu4f": {
+		"definition": "mining_speed+5%",
+		"x": -352,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"v176x7orhyjniw49": {
+		"definition": "mining_speed+5%",
+		"x": -352,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"zbtv7xcuyby8fwsm": {
+		"definition": "mining_speed+5%",
+		"x": -352,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"0njp8q3xbe4hks6s": {
+		"definition": "mining_speed+5%",
+		"x": -352,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"kr54hvid7icvp89a": {
+		"definition": "mining_speed+5%",
+		"x": -320,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"kehija70afl7jp68": {
+		"definition": "mining_speed+5%",
+		"x": -352,
+		"y": -92.3760430703401,
+		"root": false
+	},
+	"lu9ojrirovpat8ja": {
+		"definition": "mining_speed+5%",
+		"x": -320,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"ei3npkptvecngw57": {
+		"definition": "mining_speed+5%",
+		"x": -352,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"o17q59j638ngob44": {
+		"definition": "mining_speed+5%",
+		"x": -256,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"k00sq9fx80yxi92x": {
+		"definition": "mining_speed+5%",
+		"x": -256,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"f6s5arbizzuy5usv": {
+		"definition": "mining_speed+5%",
+		"x": -224,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"b5rtlo5x1tytejgk": {
+		"definition": "mining_speed+5%",
+		"x": -192,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"zi51wjgao3e2f7uy": {
+		"definition": "mining_speed+5%",
+		"x": -160,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"ss5ni759pxjo62ts": {
+		"definition": "mining_speed+5%",
+		"x": -128,
+		"y": -332.5537550532244,
+		"root": false
+	},
+	"6oovpjlv2w5uc3p0": {
+		"definition": "mining_speed+5%",
+		"x": -96,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"0rv39gandcf1cimz": {
+		"definition": "mining_speed+5%",
+		"x": -64,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"n75b4xs5l87dzsdi": {
+		"definition": "mining_speed+5%",
+		"x": 64,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"be9znzie0mr918ic": {
+		"definition": "mining_speed+5%",
+		"x": 96,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"utdnza1azeshd26z": {
+		"definition": "mining_speed+5%",
+		"x": 128,
+		"y": -332.5537550532244,
+		"root": false
+	},
+	"uahxpld8fbminlin": {
+		"definition": "mining_speed+5%",
+		"x": 160,
+		"y": -314.07854643915636,
+		"root": false
+	},
+	"tx49iomopebg4glg": {
+		"definition": "mining_speed+5%",
+		"x": 192,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"acel62yw6va68bid": {
+		"definition": "mining_speed+5%",
+		"x": 224,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"b44nqii2mclxcx0o": {
+		"definition": "mining_speed+5%",
+		"x": 256,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"en1allgxvgwg9uma": {
+		"definition": "mining_speed+5%",
+		"x": 256,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"073ut5olrobcdfhk": {
+		"definition": "mining_speed+5%",
+		"x": 320,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"lftr9reroyonacto": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"lsbwbqrqejk2jyu1": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"ntrnvpqykmpw08xw": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"e3yu3igu8xkx5fbz": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"pek6ip2v5d7xu5ib": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"asxkrxbinka2wbyp": {
+		"definition": "mining_speed+5%",
+		"x": 352,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"27bjgwj2hbi7fean": {
+		"definition": "mining_speed+5%",
+		"x": 320,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"t6nspq8n2pjtr6as": {
+		"definition": "mining_speed+5%",
+		"x": 256,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"lpca7x0igl79s0ky": {
+		"definition": "mining_speed+5%",
+		"x": 256,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"ski3u1ci8iqxplho": {
+		"definition": "mining_speed+5%",
+		"x": 224,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"fzpi42mxdzhcjzj8": {
+		"definition": "mining_speed+5%",
+		"x": 192,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"0mx5hbuc1nl0xeqp": {
+		"definition": "mining_speed+5%",
+		"x": 160,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"mni9rkmjyczzdicq": {
+		"definition": "mining_speed+5%",
+		"x": 128,
+		"y": 332.5537550532244,
+		"root": false
+	},
+	"jgxnhrh86g48rcew": {
+		"definition": "mining_speed+5%",
+		"x": 96,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"stvgx42s8m17ujwp": {
+		"definition": "mining_speed+5%",
+		"x": 64,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"hq1k7aq5xfjk78m3": {
+		"definition": "mining_speed+5%",
+		"x": -64,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"agyzteil49qvlb2q": {
+		"definition": "mining_speed+5%",
+		"x": -96,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"pfp1bpqbf82y2ow5": {
+		"definition": "mining_speed+5%",
+		"x": -128,
+		"y": 332.5537550532244,
+		"root": false
+	},
+	"q2g3iwatqukn8aq0": {
+		"definition": "mining_speed+5%",
+		"x": -160,
+		"y": 314.07854643915636,
+		"root": false
+	},
+	"jhuxvhtv0d589e34": {
+		"definition": "mining_speed+5%",
+		"x": -192,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"2wqkr0xg4ttkr0xh": {
+		"definition": "mining_speed+5%",
+		"x": -224,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"7e7iuydaajti3yg2": {
+		"definition": "mining_speed+5%",
+		"x": -256,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"3lpz28e8ncki6u9l": {
+		"definition": "mining_speed+5%",
+		"x": -256,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"wspsyk2d9ctv43xb": {
+		"definition": "experience_from_mobs+5%",
+		"x": -192,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"a22iv5nsoyr12ybp": {
+		"definition": "experience_from_mobs+5%",
+		"x": 192,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"qa5cwhhd5rs5jtkg": {
+		"definition": "experience_from_mobs+5%",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"36vjqnhyccsvvigk": {
+		"definition": "experience_from_mobs+5%",
+		"x": 192,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"osjf3y9054jxpiah": {
+		"definition": "experience_from_mobs+5%",
+		"x": -192,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"lr39hryxsgqrruy6": {
+		"definition": "experience_from_mobs+5%",
+		"x": -384,
+		"y": 0,
+		"root": false
+	}
+}

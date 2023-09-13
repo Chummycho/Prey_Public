@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Elixirs",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "kubejs:textures/icons/relic.png"
+		}
+	},
+	"background": "textures/block/crying_obsidian.png"
+}

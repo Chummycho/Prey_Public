@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_legs"
+  ],
+  "incompatible": [
+    "dungeons_gear:burning",
+    "dungeons_gear:velocity",
+    "dungeons_gear:chilling",
+    "dungeons_gear:life_steal_aura",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:melee_aura",
+    "dungeons_gear:gravity_pulse",
+    "dungeons_gear:snowball"
+  ]
+}

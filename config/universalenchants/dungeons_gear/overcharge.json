@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_bow"
+  ],
+  "incompatible": [
+    "dungeons_gear:accelerate",
+    "dungeons_gear:velocity",
+    "minecraft:quick_charge",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

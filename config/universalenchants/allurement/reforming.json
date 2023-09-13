@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:infinity",
+    "dungeons_gear:velocity",
+    "allurement:alleviating",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

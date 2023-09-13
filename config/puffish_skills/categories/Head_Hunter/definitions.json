@@ -1,0 +1,3557 @@
+{
+    "attack_reach+5%": {
+        "title": "+5% Attack Reach",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/reach.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_gear:attack_reach",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "artifact_cooldown_multiplier+5%": {
+        "title": "+5% Artifact Cooldown Multiplier",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/artifact_cooldown.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:artifact_cooldown_multiplier",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "follower_cost_limit+5%": {
+        "title": "+5% Follower Cost Limit",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:follower_cost_limit",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_steal+5%": {
+        "title": "+5% Life Steal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/life_steal.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:life_steal",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "magic_damage_multiplier+5%": {
+        "title": "+5% Magic Damage Multiplier",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:magic_damage_multiplier",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "ranged_damage_multiplier+5%": {
+        "title": "+5% Ranged Damage Multiplier",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:ranged_damage_multiplier",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "ranged_damage+5%": {
+        "title": "+5% Ranged Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/ranged_prof.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.ranged_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "soul_cap+5%": {
+        "title": "+5% Soul Cap",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/soul_cap.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:soul_cap",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "soul_gathering+5%": {
+        "title": "+5% Soul Gathering",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/soul_gathering.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:soul_gathering",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "summon_cap+5%": {
+        "title": "+5% Summon Cap",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/summon_cap.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "dungeons_libraries:summon_cap",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "feathers_regen+5%": {
+        "title": "+5% Feather Regen",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/feathers_regen.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "feathers:feathers.feather_regen",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "stamina+5%": {
+        "title": "+5% Max Feathers",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/max_feathers.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "feathers:feathers.max_feathers",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "reach_distance+5%": {
+        "title": "+5% Reach Distance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/reach.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "forge:reach_distance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "blood_spell_power+5%": {
+        "title": "+5% Blood Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:blood_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:blood_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "cast_time_reduction+5%": {
+        "title": "+5% Cast Time Reduction",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:shriving_stone"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:cast_time_reduction",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "cooldown_reduction+5%": {
+        "title": "+5% Cooldown Reduction",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:cooldown_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:cooldown_reduction",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "ender_spell_power+5%": {
+        "title": "+5% Ender Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:ender_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:ender_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "evocation_spell_power+5%": {
+        "title": "+5% Evocation Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:evocation_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:evocation_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "fire_spell_power+5%": {
+        "title": "+5% Fire Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:fire_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:fire_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "holy_spell_power+5%": {
+        "title": "+5% Holy Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:holy_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:holy_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "ice_spell_power+5%": {
+        "title": "+5% Ice Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:ice_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:ice_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "max_mana+5%": {
+        "title": "+5% Max Mana",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:mana_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:max_mana",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "poison_spell_power+5%": {
+        "title": "+5% Poison Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:poison_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:poison_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "spell_power+5%": {
+        "title": "+5% Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:lightning_bottle"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "lightning_spell_power+5%": {
+        "title": "+5% Lightning Spell Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:lightning_upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:lightning_spell_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "spell_resist+5%": {
+        "title": "+5% Spell Resist",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:upgrade_orb"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:spell_resist",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "summon_damage+5%": {
+        "title": "+5% Summon Damage",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:conjurers_talisman"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "irons_spellbooks:summon_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.armor+5%": {
+        "title": "+5% Armor",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/armor.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.armor",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.armor_toughness+5%": {
+        "title": "+5% Armor Toughness",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/armor_toughness.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.armor_toughness",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.attack_damage+5%": {
+        "title": "+5% Attack Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.attack_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.attack_knockback+5%": {
+        "title": "+5% Attack Knockback",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/atk_knk.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.attack_knockback",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.attack_speed+5%": {
+        "title": "+5% Attack Speed",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attk_speed.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.attack_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.knockback_resistance+5%": {
+        "title": "+5% Knockback Resistance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/knockback_resist.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.knockback_resistance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.luck+5%": {
+        "title": "+5% Luck",
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "minecraft:luck"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.luck",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.max_health+5%": {
+        "title": "+5% Max Health",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/health.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.max_health",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.movement_speed+5%": {
+        "title": "+5% Movement Speed",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/movement_speed.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "minecraft:generic.movement_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "generic.jump_strength+5%": {
+        "title": "+5% Jump Strength",
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "minecraft:jump_boost"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:jump_height",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "accuracy+5%": {
+        "title": "+5% Accuracy",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/accuracy.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:accuracy",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "critical_damage+5%": {
+        "title": "+5% Critical Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:critical_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "critical_hit+5%": {
+        "title": "+5% Critical Hit",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:critical_hit",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "dodge+5%": {
+        "title": "+5% Dodge",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:dodge",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "healing_power+5%": {
+        "title": "+5% Healing Power",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:healing_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "parry+5%": {
+        "title": "+5% Parry",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/parry.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:parry",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "penetration+5%": {
+        "title": "+5% Penetration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:penetration",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "regeneration+5%": {
+        "title": "+1/2 Heart Regen Every 30 Seconds",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/regen.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:regeneration",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "resilience+5%": {
+        "title": "+5% Resilience",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "obscure_api:resilience",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_under_potion_effect+5%": {
+        "title": "+5% Attack Speed Under Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_speed_under_potion_effect.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_under_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_potions_duration+5%": {
+        "title": "+5% Brewed Potions Duration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/brewed_potions_duration.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_potions_duration",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "can_poison_weapons+5%": {
+        "title": "+5% Can Poison Weapons",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:can_poison_weapons",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_harmful_potions_strength+5%": {
+        "title": "+5% Brewed Harmful Potions Strength",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_harmful_potions_strength",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_beneficial_potions_strength+5%": {
+        "title": "+5% Brewed Beneficial Potions Strength",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_beneficial_potions_strength",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_healing_potions_strength+5%": {
+        "title": "+5% Brewed Healing Potions Strength",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_healing_potions_strength",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_beneficial_potions_duration+5%": {
+        "title": "+5% Brewed Beneficial Potions Duration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_beneficial_potions_duration",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_potions_strength+5%": {
+        "title": "+5% Brewed Potions Strength",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/brewed_potions_strength.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_potions_strength",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_poisons_strength+5%": {
+        "title": "+5% Brewed Poisons Strength",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/brewed_poisons_strength.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_poisons_strength",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "brewed_harmful_potions_duration+5%": {
+        "title": "+5% Brewed Harmful Potions Duration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:brewed_harmful_potions_duration",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_against_poisoned+5%": {
+        "title": "+5% Crit Chance Against Poisoned",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_against_poisoned.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_against_poisoned",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_against_poisoned+5%": {
+        "title": "+5% Damage Against Poisoned",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_against_poisoned",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_under_potion_effect+5%": {
+        "title": "+5% Damage Under Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_under_potion_effect.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_under_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "resistance+5%": {
+        "title": "+5% Incoming Healing",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/incoming_healing.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:incoming_healing",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    
+    "damage_per_potion_effect+5%": {
+        "title": "+5% Damage Per Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_under_potion_effect.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_per_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "evasion_under_potion_effect+5%": {
+        "title": "+5% Evasion Under Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:evasion_under_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "evasion_per_potion_effect+5%": {
+        "title": "+5% Evasion Per Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:evasion_per_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_under_potion_effect+5%": {
+        "title": "+5% Maximum Life Under Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/maximum_life_under_potion_effect.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_under_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "can_mix_potions+5%": {
+        "title": "+5% Can Mix Potions",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:can_mix_potions",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_damage_against_poisoned+5%": {
+        "title": "+5% Crit Damage Against Poisoned",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_damage_against_poisoned",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_per_hit_under_potion_effect+5%": {
+        "title": "+5% Life Per Hit While Under Potion Effect",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/life_per_hit_under_potion_effect.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_per_hit_under_potion_effect",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "incoming_healing+5%": {
+        "title": "+5% Incoming Healing",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/incoming_healing.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:incoming_healing",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_per_enchantment+5%": {
+        "title": "+5% Damage Per Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_per_enchant.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_per_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_per_enchantment+5%": {
+        "title": "+5% Crit Chance Per Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_chance_per_enchantment.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_per_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_damage_per_enchantment+5%": {
+        "title": "+5% Crit Damage Per Weapon Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_damage_per_enchantment.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_damage_per_weapon_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "enchantment_level_requirement+5%": {
+        "title": "+5% Enchantment Level Requirement",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/ench_lvl_dec.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:enchantment_level_requirement",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "armor_enchantment_power+5%": {
+        "title": "+5% Armor Enchantment Power",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/armor_enchantment_power.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:chance_to_apply_better_armor_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_with_enchanted_item+5%": {
+        "title": "+5% Maximum Life With Enchanted Item",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/max_life_with_enchanted_item.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_with_enchanted_item",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "armor_with_enchanted_shield+5%": {
+        "title": "+5% Armor With Enchanted Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:armor_with_enchanted_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_enchantment+5%": {
+        "title": "+5% Maximum Life Per Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/maximum_life_per_enchantment.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_per_weapon_enchantment_level+5%": {
+        "title": "+5% Damage Per Weapon Enchantment Level",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_per_weapon_enchantment_level",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "armor_per_chestplate_enchantment+5%": {
+        "title": "+5% Armor Per Chestplate Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:armor_per_chestplate_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_armor_enchantment+5%": {
+        "title": "+5% Maximum Life Per Armor Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_armor_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "block_chance_with_enchanted_shield+5%": {
+        "title": "+5% Block Chance With Enchanted Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:block_chance_with_enchanted_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_with_enchanted_weapon+5%": {
+        "title": "+5% Damage With Enchanted Weapon",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_with_enchanted_weapon.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_with_enchanted_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_with_enchanted_weapon+5%": {
+        "title": "+5% Crit Chance With Enchanted Weapon",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_chance_with_enchanted_weapon.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_with_enchanted_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_with_enchanted_weapon+5%": {
+        "title": "+5% Attack Speed With Enchanted Weapon",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_speed_with_enchanted_weapon.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_with_enchanted_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "free_enchantment_chance+5%": {
+        "title": "+5% Free Enchantment Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:free_enchantment_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_on_block_per_shield_enchantment+5%": {
+        "title": "+5% Life On Block Per Shield Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_on_block_per_shield_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "block_chance_per_shield_enchantment+5%": {
+        "title": "+5% Block Chance Per Shield Enchantment",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:block_chance_per_shield_enchantment",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_against_burning+5%": {
+        "title": "+5% Damage Against Burning",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_against_burning.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_against_burning",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "chance_to_ignite+5%": {
+        "title": "+5% Chance To Ignite",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "simplyswords:empowered_remnant"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:chance_to_ignite",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_weapon_chance_to_ignite+5%": {
+        "title": "+5% Crafted Weapon Chance To Ignite",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/chance_to_ignite.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_weapon_chance_to_ignite",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_weapon_damage_against_burning+5%": {
+        "title": "+5% Crafted Weapon Damage Against Burning",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "gobber2:gobber2_foo_nether"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_weapon_damage_against_burning",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_against_burning+5%": {
+        "title": "+5% Crit Chance Against Burning",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "gobber2:gobber2_foo"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_against_burning",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_quivers_damage_against_burning+5%": {
+        "title": "+5% Crafted Quivers Damage Against Burning",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_quivers_damage_against_burning",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_quivers_chance_to_ignite+5%": {
+        "title": "+5% Crafted Quivers Chance To Ignite",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_quivers_chance_to_ignite",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "experience_per_hour+5%": {
+        "title": "+5% Experience Per Hour",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "create_sa:heap_of_experience"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:experience_per_hour",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "experience_from_ore+5%": {
+        "title": "+5% Experience From Ore",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "create_sa:experience_pickaxe"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:experience_from_ore",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "experience_from_mobs+5%": {
+        "title": "+5% Experience From Mobs",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "create_sa:experience_sword"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:experience_from_mobs",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_armor_defence+5%": {
+        "title": "+5% Crafted Armor Defence",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_armor_defence.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_armor_defence",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_melee_weapon_damage_bonus+5%": {
+        "title": "+5% Crafted Melee Weapon Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_melee_weapon_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_melee_weapon_damage_bonus",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_melee_weapon_attack_speed+5%": {
+        "title": "+5% Crafted Melee Weapon Attack Speed",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_melee_weapon_attack_speed.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_melee_weapon_attack_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "chance_to_craft_tougher_armor+5%": {
+        "title": "+5% Chance To Craft Tougher Armor",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/chance_to_craft_tougher_armor.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:chance_to_craft_tougher_armor",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_with_shield+5%": {
+        "title": "+5% Damage With Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_with_shield.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_with_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_with_shield+5%": {
+        "title": "+5% Crit Chance With Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_chance_with_shield.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_with_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_damage_with_shield+5%": {
+        "title": "+5% Crit Damage With Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_damage_with_shield.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_damage_with_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "armor_with_shield+5%": {
+        "title": "+5% Armor With Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/armor_with_shield.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:armor_with_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_damage_per_armor+5%": {
+        "title": "+5% Attack Damage Per Armor",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_damage_per_armor.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_damage_per_armor",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_armor+5%": {
+        "title": "+5% Maximum Life Per Armor",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "epicsamurai:red_samurai_chestplate"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_armor_bonus",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_boots_armor+5%": {
+        "title": "+5% Maximum Life Per Boots Armor",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "epicsamurai:red_samurai_boots"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_boots_armor_bonus",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_shields_armor+5%": {
+        "title": "+5% Crafted Shields Armor",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_shields_armor.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_shields_armor_bonus",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_with_shield+5%": {
+        "title": "+5% Attack Speed With Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_speed_with_shield.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_with_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_regeneration_with_shield+5%": {
+        "title": "+5% Life Regeneration With Shield",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/life_regeneration_with_shield.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_regeneration_with_shield",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "chestplate_armor+5%": {
+        "title": "+5% Chestplate Armor",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:chestplate_armor",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_equipment_durability+5%": {
+        "title": "+5% Crafted Equipment Durability",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_equipment_durability",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_armor_maximum_life+5%": {
+        "title": "+5% Crafted Armor Maximum Life",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "aquamirae:abyssal_brigantine"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_armor_maximum_life",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_shields_maximum_life+5%": {
+        "title": "+5% Crafted Shields Maximum Life",
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "irons_spellbooks:rend"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_shields_maximum_life",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_weapon_attack_speed+5%": {
+        "title": "+5% Crafted Weapon Attack Speed",
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "aquamirae:crystallization"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_weapon_attack_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_shields_block_chance+5%": {
+        "title": "+5% Crafted Shields Block Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_shields_block_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_shields_block_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "melee_damage+5%": {
+        "title": "+5% Melee Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/melee_prof.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:melee_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_melee_weapon_crit_chance+5%": {
+        "title": "+5% Crafted Melee Weapon Crit Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_melee_weapon_crit_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_melee_weapon_crit_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "melee_crit_damage+5%": {
+        "title": "+5% Melee Crit Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/melee_crit_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:melee_crit_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_weapon_double_loot_chance+5%": {
+        "title": "+5% Crafted Weapon Double Loot Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_weapon_double_loot_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_weapon_double_loot_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "mining_speed+5%": {
+        "title": "+5% Mining Speed",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:netherite_pickaxe"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:mining_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_equipment_sockets+5%": {
+        "title": "+1 Maximum Equipment Sockets",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:cooldown_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_equipment_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "maximum_weapon_sockets+5%": {
+        "title": "+1 Maximum Weapon Sockets",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:lightning_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_weapon_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "maximum_chestplate_sockets+5%": {
+        "title": "+1 Maximum Chestplate Sockets",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:ice_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_chestplate_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "gem_power+5%": {
+        "title": "+5% Gem Power",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:fire_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:gem_power",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "gem_power_in_armor+5%": {
+        "title": "+5% Gem Power In Armor",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:arcane_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:gem_power_in_armor",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "gem_power_in_weapon+5%": {
+        "title": "+5% Gem Power In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:evocation_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:gem_power_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "armor_per_gem_in_helmet+5%": {
+        "title": "+5% Armor Per Gem In Helmet",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:ender_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:armor_per_gem_in_helmet",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_per_gem_in_weapon+5%": {
+        "title": "+5% Damage Per Gem In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:blood_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_per_gem_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "armor_per_gem_in_chestplate+5%": {
+        "title": "+5% Armor Per Gem In Chestplate",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:holy_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:armor_per_gem_in_chestplate",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_gem_in_armor+5%": {
+        "title": "+5% Maximum Life Per Gem In Armor",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:protective_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_gem_in_armor",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_gem_in_helmet+5%": {
+        "title": "+5% Maximum Life Per Gem In Helmet",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:poison_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_gem_in_helmet",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_per_gem_in_weapon+5%": {
+        "title": "+5% Attack Speed Per Gem In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:blank_rune"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_per_gem_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_per_gem_in_weapon+5%": {
+        "title": "+5% Crit Chance Per Gem In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "skilltree:sapphire"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_per_gem_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_damage_per_gem_in_weapon+5%": {
+        "title": "+5% Crit Damage Per Gem In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "skilltree:tourmaline"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_damage_per_gem_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_regeneration_per_gem_in_helmet+5%": {
+        "title": "+5% Life Regeneration Per Gem In Helmet",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "skilltree:vacucite"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_regeneration_per_gem_in_helmet",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_with_gem_in_weapon+5%": {
+        "title": "+5% Damage With Gem In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "skilltree:ruby"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_with_gem_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_with_gem_in_weapon+5%": {
+        "title": "+5% Attack Speed With Gem In Weapon",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "skilltree:citrine"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_with_gem_in_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_boots_sockets+5%": {
+        "title": "+1 Crafted Boots Sockets",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "dungeons_gear:snow_boots"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_boots_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "crafted_boots_movement_speed+5%": {
+        "title": "+5% Crafted Boots Movement Speed",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "alexsmobs:roadrunner_boots"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_boots_movement_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_per_distance_to_spawn+5%": {
+        "title": "+5% Damage Per Distance To Spawn",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_per_distance_to_spawn",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_rings_critical_damage+5%": {
+        "title": "+5% Crafted Rings Critical Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_rings_critical_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_rings_critical_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_ring_sockets+5%": {
+        "title": "+1 Maximum Ring Sockets",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "irons_spellbooks:affinity_ring"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_ring_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "gem_power_in_jewelry+5%": {
+        "title": "+5% Gem Power In Jewelry",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "skilltree:iriscite"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:gem_power_in_jewelry",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_necklaces_maximum_life+5%": {
+        "title": "+5% Crafted Necklaces Maximum Life",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "relics:holy_locket"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_necklaces_maximum_life",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "double_loot_chance+5%": {
+        "title": "+5% Double Loot Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/double_loot_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:double_loot_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "triple_loot_chance+5%": {
+        "title": "+5% Triple Loot Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/triple_loot_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:triple_loot_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_armor_evasion+5%": {
+        "title": "+5% Crafted Armor Evasion",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_armor_evasion",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "projectile_damage+5%": {
+        "title": "+5% Projectile Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/projectile_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:projectile_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_ranged_weapon_attack_speed+5%": {
+        "title": "+5% Crafted Ranged Weapon Attack Speed",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_ranged_weapon_attack_speed.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_ranged_weapon_attack_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_per_distance_to_enemy+5%": {
+        "title": "+5% Damage Per Distance To Enemy",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_per_distance_to_enemy.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_per_distance_to_enemy",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_helmets_sockets+5%": {
+        "title": "+1 Crafted Helmets Sockets",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_helmets_sockets.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_helmets_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "crafted_ranged_weapon_sockets+5%": {
+        "title": "+1 Crafted Ranged Weapon Sockets",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_ranged_weapon_sockets.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_ranged_weapon_sockets",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_evasion+5%": {
+        "title": "+5% Maximum Life Per Evasion",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_evasion",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "evasion_chance_when_wounded+5%": {
+        "title": "+5% Evasion Chance When Wounded",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:evasion_chance_when_wounded",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "arrow_life_steal+5%": {
+        "title": "+5% Life Per Arrow Hit",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "archers_paradox:blaze_arrow"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_per_arrow_hit",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_with_ranged_weapon+5%": {
+        "title": "+5% Attack Speed With Ranged Weapon",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_speed_with_ranged_weapon.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_with_ranged_weapon",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "chance_to_retrieve_arrows+5%": {
+        "title": "+5% Chance To Retrieve Arrows",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "dungeons_gear:arrow_bundle"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:chance_to_retrieve_arrows",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "projectile_crit_chance+5%": {
+        "title": "+5% Projectile Crit Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/projectile_crit_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:projectile_crit_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "projectile_crit_damage+5%": {
+        "title": "+5% Projectile Crit Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/projectile_crit_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:projectile_crit_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "stealth+5%": {
+        "title": "+5% Stealth",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "deeperdarker:warden_boots"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:stealth",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "jump+5%": {
+        "title": "+5% Jump Height",
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "minecraft:jump_boost"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:jump_height",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_armor_stealth+5%": {
+        "title": "+5% Crafted Armor Stealth",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_armor_stealth.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_armor_stealth",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_boots_stealth+5%": {
+        "title": "+5% Crafted Boots Stealth",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_boots_stealth.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_boots_stealth",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_weapon_life_per_hit+5%": {
+        "title": "+5% Crafted Weapon Life Per Hit",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crafted_weapon_life_per_hit.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_weapon_life_per_hit",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_quivers_capacity+5%": {
+        "title": "+5% Crafted Quivers Capacity",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_quivers_capacity",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_quivers_maximum_life+5%": {
+        "title": "+5% Crafted Quivers Maximum Life",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_quivers_maximum_life",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "maximum_life_per_arrow_in_quiver+5%": {
+        "title": "+5% Maximum Life Per Arrow In Quiver",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:maximum_life_per_arrow_in_quiver",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "cooked_food_saturation+5%": {
+        "title": "+5% Cooked Food Saturation",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:cooked_beef"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:cooked_food_saturation",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "cooked_food_damage_per_saturation+5%": {
+        "title": "+5% Cooked Food Damage Per Saturation",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:cooked_food_damage_per_saturation",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "cooked_food_life_regeneration+5%": {
+        "title": "+5% Cooked Food Life Regeneration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:cooked_food_life_regeneration",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_if_damaged+5%": {
+        "title": "+5% Damage If Damaged",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_if_damaged",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "damage_if_wounded+5%": {
+        "title": "+5% Damage If Wounded",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/damage_if_wounded.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:damage_if_wounded",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crafted_axes_crit_chance+5%": {
+        "title": "+5% Crafted Axes Crit Chance",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "dungeons_plus:warped_axe"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crafted_axes_crit_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "attack_speed_if_wounded+5%": {
+        "title": "+5% Attack Speed If Wounded",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/attack_speed_if_wounded.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:attack_speed_if_wounded",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance_if_wounded+5%": {
+        "title": "+5% Crit Chance If Wounded",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_chance_if_wounded.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance_if_wounded",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_per_hit_if_wounded+5%": {
+        "title": "+5% Life Per Hit If Wounded",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/life_per_hit_if_wounded.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_per_hit_if_wounded",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "double_fishing_loot_chance+5%": {
+        "title": "+5% Double Fishing Loot Chance",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:fishing_rod"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:double_fishing_loot_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "experience_from_fishing+5%": {
+        "title": "+5% Experience From Fishing",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "artifacts:golden_hook"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:experience_from_fishing",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "luck_while_fishing+5%": {
+        "title": "+5% Luck While Fishing",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "'cataclysm:lionfish"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:luck_while_fishing",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_per_hit+5%": {
+        "title": "+5% Life Per Hit",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/life_steal.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_per_hit",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_on_block+5%": {
+        "title": "+5% Life On Block",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_on_block",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "life_regeneration+5%": {
+        "title": "+5% Life Regeneration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/regen.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:life_regeneration_bonus",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "block_chance+5%": {
+        "title": "+5% Block Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:block_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_damage+5%": {
+        "title": "+5% Crit Damage",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_damage.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_damage",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "crit_chance+5%": {
+        "title": "+5% Crit Chance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/crit_chance.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:crit_chance",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+    "chance_to_explode_enemy+5%": {
+        "title": "+5% Chance To Explode Enemy",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "archers_paradox:explosive_arrow"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "skilltree:chance_to_explode_enemy",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    }
+}
+    

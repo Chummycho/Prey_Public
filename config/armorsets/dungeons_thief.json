@@ -1,0 +1,47 @@
+{
+  "armorSetName": "Thief",
+  "head": {
+    "itemKey": "dungeons_gear:thief_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:thief_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:thief_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:thief_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "skilltree:player.damage_with_poisoned_weapon",
+      "value": 1.1,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd257",
+      "description": "+10% Damage With Poisoned Weapon",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "skilltree:player.damage_with_poisoned_weapon",
+      "value": 1.2,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd258",
+      "description": "+20% Damage With Poisoned Weapon",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

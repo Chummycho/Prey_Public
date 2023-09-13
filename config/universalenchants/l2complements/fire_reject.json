@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "mutantmonsters:mutant_skeleton_skull"
+  ],
+  "incompatible": [
+    "l2complements:projectile_reject",
+    "l2complements:environment_reject",
+    "l2complements:magic_reject",
+    "l2complements:owner_protection",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity",
+    "l2complements:explosion_reject",
+    "l2complements:invincible"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Battlemage",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "kubejs:textures/icons/subclass_cat.png"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}

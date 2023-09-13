@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:cgm_gun"
+  ],
+  "incompatible": [
+    "cgm:collateral",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "cgm:puncturing",
+    "cgm:fire_starter"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_4"
+	group: "52883199DCF886CE"
+	id: "0548751C9847235F"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2BD5F940421417E8"]
+			id: "5AEEDA36725AC3DE"
+			rewards: [{
+				id: "6BE74A0EE6147B00"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "53A87A5230103CD7"
+				structure: "cataclysm:sunken_city"
+				title: "Find a Sunken City"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5AEEDA36725AC3DE"]
+			id: "318F591E79EA4F21"
+			rewards: [{
+				id: "70F0A06F23F372B7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F8EFE0F318B9F80"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "cataclysm:abyssal_sacrifice"
+				}
+				type: "item"
+			}]
+			title: "Acquire Two Abyssal Sacrifices"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["318F591E79EA4F21"]
+			id: "3ED1CD7A437893EE"
+			rewards: [{
+				id: "4B4C4C30644E0BD8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "cataclysm:altar_of_abyss"
+				}
+				id: "18759636819589BE"
+				observe_type: 0
+				timer: 0L
+				title: "Delve into The Sunken City and find the Altar"
+				to_observe: "cataclysm:altar_of_abyss"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3ED1CD7A437893EE"]
+			id: "5B2BBB39686FB210"
+			rewards: [{
+				id: "54488F00FEA98474"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "178AB97C69E9E69E"
+				title: "Kill 2x Leviathans"
+				type: "kill"
+				value: 2L
+			}]
+			title: "Kill 2x Leviathans within 30 seconds"
+			x: -1.5d
+			y: 1.5d
+		}
+	]
+	title: "Chapter 4: The Leviathans"
+}

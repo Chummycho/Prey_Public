@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:buckler"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "bigbrain:turning",
+    "dungeons_gear:velocity"
+  ]
+}

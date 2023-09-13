@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "domesticationinnovation:health_siphon",
+    "nikgubs_blades_plus:crushing_blow",
+    "domesticationinnovation:rejuvenation",
+    "dungeons_gear:velocity",
+    "domesticationinnovation:vampire"
+  ]
+}

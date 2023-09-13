@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable",
+    "apotheosis:helmet_tome",
+    "apotheosis:chestplate_tome",
+    "apotheosis:leggings_tome",
+    "apotheosis:boots_tome",
+    "apotheosis:weapon_tome",
+    "apotheosis:pickaxe_tome",
+    "apotheosis:fishing_tome",
+    "apotheosis:bow_tome"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity"
+  ]
+}

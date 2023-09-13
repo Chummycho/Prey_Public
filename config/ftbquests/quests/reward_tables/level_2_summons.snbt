@@ -1,0 +1,35 @@
+{
+	id: "280A01DCB9B209EB"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:kangaroo"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:capuchin_monkey"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:komodo_dragon"
+			}
+		}
+	]
+	title: "Level 2 Summons"
+}

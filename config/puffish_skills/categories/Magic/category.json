@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Magic",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "irons_spellbooks:blaze_spell_book"
+		}
+	},
+	"background": "textures/block/obsidian.png"
+}

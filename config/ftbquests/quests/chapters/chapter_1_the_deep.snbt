@@ -1,0 +1,497 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_1_the_deep"
+	group: "52883199DCF886CE"
+	hide_quest_until_deps_visible: true
+	id: "42116B6B1182C77D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"1B37A0AF9CF68F4B"
+				"2AA044A6B61D5C49"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "dungeons_mobs:necromancer_trident"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6783882C60FED700"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7DA22BE908D2D40C"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "32D458B08DB5DC71"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "409FF80EFAEF3602"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "dungeons_mobs:drowned_necromancer"
+				id: "3CDE44635FEE4DDC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1B37A0AF9CF68F4B"
+				"2AA044A6B61D5C49"
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "minecraft:heart_of_the_sea"
+			}
+			id: "1E6D402E0B941898"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06485571487134A9"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "1A70F9FCCFEDDC37"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "7CEF87D7AC444F83"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "50CD9045BB952F7C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1B37A0AF9CF68F4B"]
+			id: "2AA044A6B61D5C49"
+			rewards: [{
+				id: "2C9AE30333C0A604"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			subtitle: "Seek out an Ocean Monument and slaughter its inhabitants"
+			tasks: [{
+				id: "039E5F42C53DC5E9"
+				structure: "betteroceanmonuments:ocean_monument"
+				title: "Find an Ocean Monument"
+				type: "structure"
+			}]
+			title: "Part 1: The Drowned"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7E369C270A0FCEBD"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "aquamirae:fin_cutter"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1582B4A5C904DF4C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6AFD8051DEC47ACF"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "6CB262401E564140"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "34219AA189634892"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				id: "44D801B856AFF96F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3BE65D7B8F51B626"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "aquamirae:maze_rose"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "62C4FDADEDE18ADB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5951D400B8A197BC"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "7084A7660BEBD39F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "0C3B0FAA0CC4B7CE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Something stirs beneath the ice..."
+			tasks: [{
+				entity: "aquamirae:maze_mother"
+				id: "45634409CBC6009C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14836D63D5E2F7D9"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "irons_spellbooks:upgrade_orb"
+			}
+			id: "03ECDC03550BA555"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56F81CA9EB3A9C82"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "5DC1E760D6A92412"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "588CB11E9661FF90"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				id: "6E76231F3320AD47"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"62C4FDADEDE18ADB"
+				"1582B4A5C904DF4C"
+			]
+			id: "14836D63D5E2F7D9"
+			rewards: [{
+				id: "6D633718EA84297B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			subtitle: "The defeated king will rise again..."
+			tasks: [{
+				id: "47934B73FDE55B24"
+				structure: "irons_spellbooks:catacombs"
+				type: "structure"
+			}]
+			title: "Journey to the Catacombs"
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6783882C60FED700"
+				"1E6D402E0B941898"
+			]
+			id: "3BE65D7B8F51B626"
+			rewards: [{
+				id: "08C885FD4E2A5CCF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "466089612C6E8D14"
+				structure: "aquamirae:ship"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3BE65D7B8F51B626"]
+			id: "7E369C270A0FCEBD"
+			rewards: [{
+				id: "5BC8346B02B86D1A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3040617DFA666E2E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "aquamirae:shell_horn"
+				}
+				type: "item"
+			}]
+			title: "Obtain a Shell Horn from the Frozen Ship"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03ECDC03550BA555"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "regions_unexplored:redstone_bulb"
+			}
+			id: "2326924DE94DE852"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3055873112B8F40F"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "75B323F9631D9414"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "16B0568354C9BCF8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "dungeons_mobs:redstone_golem"
+				id: "6102BA1504F1C966"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2AA044A6B61D5C49"]
+			hide: false
+			id: "4E587D2631812F0E"
+			optional: true
+			rewards: [{
+				id: "716E6A7B0263A943"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BC2A900D518F641"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "create:copper_backtank"
+					tag: {
+						Air: 900
+					}
+				}
+				type: "item"
+			}]
+			title: "Recommended: Back Tank"
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA044A6B61D5C49"]
+			hide: false
+			id: "67253F79DF01273D"
+			optional: true
+			rewards: [{
+				id: "311AA1780C67093A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "491C68C190118F4C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "create:copper_diving_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Recommended: Diving Helmet"
+			x: -2.5d
+			y: -3.5d
+		}
+	]
+	title: "Chapter 1: The Overworld"
+}

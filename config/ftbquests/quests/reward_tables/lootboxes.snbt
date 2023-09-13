@@ -1,0 +1,51 @@
+{
+	icon: "kubejs:legendary_lootbox"
+	id: "048635371E40B8EB"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			command: "/execute at @p run loot spawn ~ ~1 ~ loot enigmatica:loot_boxes/quest_mekanism_loot_legendary"
+			icon: "kubejs:legendary_lootbox"
+			player_command: false
+			title: "Legendary Mekanism Lootbox"
+			type: "command"
+		}
+		{
+			command: "/execute at @p run loot spawn ~ ~1 ~ loot enigmatica:loot_boxes/quest_pneumaticcraft_loot_legendary"
+			icon: "kubejs:legendary_lootbox"
+			player_command: false
+			title: "Legendary PC:R Lootbox"
+			type: "command"
+		}
+		{
+			command: "/execute at @p run loot spawn ~ ~1 ~ loot enigmatica:loot_boxes/quest_immersive_engineering_loot_legendary"
+			icon: "kubejs:legendary_lootbox"
+			player_command: false
+			title: "Legendary Immersive Engineering Lootbox"
+			type: "command"
+		}
+		{
+			command: "/execute at @p run loot spawn ~ ~1 ~ loot enigmatica:loot_boxes/quest_create_loot_legendary"
+			icon: "kubejs:legendary_lootbox"
+			player_command: false
+			title: "Legendary Create Lootbox"
+			type: "command"
+		}
+		{
+			command: "/execute at @p run loot spawn ~ ~1 ~ loot enigmatica:loot_boxes/quest_thermal_series_loot_legendary"
+			icon: "kubejs:legendary_lootbox"
+			player_command: false
+			title: "Legendary Thermal Lootbox"
+			type: "command"
+		}
+		{
+			command: "/execute at @p run loot spawn ~ ~1 ~ loot enigmatica:loot_boxes/quest_tinkers_legendary"
+			icon: "kubejs:legendary_lootbox"
+			player_command: false
+			title: "Legendary Tinkers Lootbox"
+			type: "command"
+		}
+	]
+	title: "Lootboxes"
+}

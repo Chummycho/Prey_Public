@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "supplementaries:slingshot",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "dungeons_gear:overcharge",
+    "dungeons_gear:accelerate",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

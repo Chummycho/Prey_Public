@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:quiver"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "minecraft:mending",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

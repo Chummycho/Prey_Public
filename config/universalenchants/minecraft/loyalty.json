@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "dungeons_plus:warped_axe",
+    "blue_skies:soulbound_spear",
+    "blue_skies:bluebright_spear",
+    "blue_skies:starlit_spear",
+    "blue_skies:frostbright_spear",
+    "blue_skies:lunar_spear",
+    "blue_skies:dusk_spear",
+    "blue_skies:maple_spear",
+    "blue_skies:cherry_spear",
+    "supplementaries:slingshot"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "minecraft:riptide",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

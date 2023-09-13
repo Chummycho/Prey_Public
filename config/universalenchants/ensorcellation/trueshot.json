@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "ensorcellation:volley",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

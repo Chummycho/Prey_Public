@@ -1,0 +1,107 @@
+{
+    "trial_bloodlust": {
+        "title": "Trial: Bloodlust",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/forgotten_tablet.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:bloodlust{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "trial_surge": {
+        "title": "Trial: Surge",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/forgotten_tablet.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:surge{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+
+    "trial_restoration": {
+        "title": "Trial: Restoration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/forgotten_tablet.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:restoration{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+
+    "trial_shadow_form": {
+        "title": "Trial: Heartstop",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/forgotten_tablet.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:shadow_form{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+
+    "trial_strike": {
+        "title": "Trial: Strike",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/forgotten_tablet.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:strike{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "trial_blood_oath": {
+        "title": "Trial: Blood Oath",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/forgotten_tablet.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:trial_blood_oath{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}" 
+                }
+            }
+        ]
+    }
+}

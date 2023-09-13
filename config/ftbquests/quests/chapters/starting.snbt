@@ -1,0 +1,439 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starting"
+	group: ""
+	id: "3CE94C456C1DDAF3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"1D73805D6209F4BD"
+				"614DAE7C88FBDA97"
+			]
+			id: "1B37A0AF9CF68F4B"
+			rewards: [{
+				id: "75C5622D484A8B2C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:endurance_elixir"
+				}
+				type: "item"
+			}]
+			subtitle: "Press H to view your Skill Trees and Elixir Challenges"
+			tasks: [{
+				id: "36AF815F834793DA"
+				title: "Finish Tutorial"
+				type: "checkmark"
+			}]
+			title: "Finish Tutorial"
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0E17BABF340B2891"
+				"6D614A7BBAB27D65"
+				"07064FA7A7AE22D3"
+				"5C7BD2716009CA41"
+				"3BEECD043A542D08"
+			]
+			id: "614DAE7C88FBDA97"
+			rewards: [
+				{
+					id: "161D957B6455403B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+						id: "numismaticoverhaul:silver_coin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					exclude_from_claim_all: true
+					id: "01CEB96188D08FC6"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "65C27CF43FAD8925"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "curios:glider"
+					}
+				}
+				title: "Any #curios:glider"
+				type: "item"
+			}]
+			title: "Acquire a Paraglider"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0E17BABF340B2891"
+				"6D614A7BBAB27D65"
+				"07064FA7A7AE22D3"
+				"5C7BD2716009CA41"
+				"3BEECD043A542D08"
+			]
+			id: "1D73805D6209F4BD"
+			rewards: [
+				{
+					id: "30B0D5221BAD8946"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+						id: "numismaticoverhaul:silver_coin"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					auto: "disabled"
+					exclude_from_claim_all: true
+					id: "1AAE26CDFD436C21"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "447FA69D852FB18B"
+				item: {
+					Count: 1
+					id: "grapplemod:grapplinghook"
+					tag: {
+						Damage: 0
+						custom: {
+							angle: 20.0d
+							attract: 0b
+							attractradius: 3.0d
+							crc32: 2252267022L
+							detachonkeyrelease: 0b
+							doublehook: 0b
+							enderstaff: 0b
+							hookgravity: 1.0d
+							maxlen: 30.0d
+							motor: 0b
+							motoracceleration: 0.2d
+							motordampener: 0b
+							motormaxspeed: 4.0d
+							motorwhencrouching: 0b
+							motorwhennotcrouching: 1b
+							oneropepull: 0b
+							phaserope: 0b
+							playermovementmult: 1.0d
+							pullbackwards: 1b
+							reelin: 1b
+							repel: 0b
+							repelforce: 1.0d
+							rocket: 0b
+							rocket_active_time: 0.5d
+							rocket_force: 1.0d
+							rocket_refuel_ratio: 15.0d
+							rocket_vertical_angle: 0.0d
+							smartdoublemotor: 1b
+							smartmotor: 0b
+							sneakingangle: 10.0d
+							sneakingverticalthrowangle: 0.0d
+							sticky: 0b
+							throwspeed: 2.0d
+							verticalthrowangle: 0.0d
+						}
+					}
+				}
+				type: "item"
+			}]
+			title: "Acquire a Grappling Hook"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44EF4C8A7F6402F1"]
+			id: "6D614A7BBAB27D65"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/puffish_skills category unlock @p Crafting"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "aquamirae:dead_sea_scroll"
+					}
+					id: "646840C2F3740C74"
+					player_command: false
+					title: "Unlock Crafting Skill Tree"
+					type: "command"
+				}
+				{
+					id: "529BFB8A4F65AC88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:slime_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0F57AC510960A3D2"
+				item: "crafting_on_a_stick:crafting_table"
+				type: "item"
+			}]
+			title: "Acquire a Crafting Table on a Stick"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&nBasic:&r"
+				""
+				"    &oOpen Skill Tree&r: H"
+				"    &oOpen Quiver:&r X"
+				"    &oOpen Backpack:&r B"
+				"    &oZoom:&r C"
+				"    &oBuilding Menu:&r Tab"
+				"    &oSpellbook Wheel:&r V"
+				"___________________________"
+			]
+			id: "44EF4C8A7F6402F1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6E690EB9756F5F32"
+					table_id: 8943371143960527305L
+					type: "choice"
+				}
+				{
+					id: "5CF6B605F86A1F21"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "parcool:parcool_guide"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "398B76A53A074272"
+				title: "Read This:"
+				type: "checkmark"
+			}]
+			title: "Choose Your Class"
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["44EF4C8A7F6402F1"]
+			id: "0E17BABF340B2891"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/puffish_skills category unlock @p Mining"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "aquamirae:dead_sea_scroll"
+					}
+					id: "2519B4AA4E31DF99"
+					player_command: false
+					title: "Unlock Mining Skill Tree"
+					type: "command"
+				}
+				{
+					id: "28AEE6E26D4B5763"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:feather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B3E44623F548139"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:hammers"
+					}
+				}
+				title: "Any #kubejs:hammers"
+				type: "item"
+			}]
+			title: "Acquire Any Hammer"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["44EF4C8A7F6402F1"]
+			id: "5C7BD2716009CA41"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/puffish_skills category unlock @p Melee"
+					icon: "aquamirae:dead_sea_scroll"
+					id: "6D2297AB6406D9E5"
+					player_command: false
+					title: "Unlock Melee Skill Tree"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "29DD805F2EDEAE65"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:white_wool"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0A3C6FD43F074D8F"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:tools/swords"
+					}
+				}
+				title: "Any #forge:swords"
+				type: "item"
+			}]
+			title: "Acquire a Sword"
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["44EF4C8A7F6402F1"]
+			id: "07064FA7A7AE22D3"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/puffish_skills category unlock @p Magic"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "aquamirae:dead_sea_scroll"
+					}
+					id: "3D21A8BE5C12B9B5"
+					player_command: false
+					title: "Unlock Magic Skill Tree"
+					type: "command"
+				}
+				{
+					count: 12
+					id: "4D625B67EB9191B8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:sugar_cane"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "33F7407753ABE2E3"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:magic_item"
+					}
+				}
+				title: "Any #kubejs:magic_item"
+				type: "item"
+			}]
+			title: "Acquire Any Spell Casting Item"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["44EF4C8A7F6402F1"]
+			id: "3BEECD043A542D08"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/puffish_skills category unlock @p Archery"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "aquamirae:dead_sea_scroll"
+					}
+					id: "787E1F3FC026754D"
+					player_command: false
+					title: "Unlock Archery Skill Tree"
+					type: "command"
+				}
+				{
+					count: 3
+					id: "3101BCE242578479"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:raw_iron"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "08898689C7E31D04"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:ranged"
+					}
+				}
+				title: "Any #kubejs:ranged"
+				type: "item"
+			}]
+			title: "Acquire a Bow"
+			x: 2.5d
+			y: -0.5d
+		}
+	]
+	title: "Tutorial"
+}

@@ -1,0 +1,242 @@
+{
+	"3oz7fcqyqohaiqhh": {
+		"definition": "summon_damage+5%",
+		"x": 0,
+		"y": -32,
+		"root": true
+	},
+	"9ogtxriusrc7mnuo": {
+		"definition": "blood_spell_power+5%",
+		"x": 0,
+		"y": 32,
+		"root": true
+	},
+	"h9zxqsw6u3kcyxka": {
+		"definition": "evocation_spell_power+5%",
+		"x": -32,
+		"y": 0,
+		"root": true
+	},
+	"0mfxb132nved2b3n": {
+		"definition": "cooldown_reduction+5%",
+		"x": 32,
+		"y": 0,
+		"root": true
+	},
+	"mneikvk7sayz5ux9": {
+		"definition": "cooldown_reduction+5%",
+		"x": 64,
+		"y": -32,
+		"root": false
+	},
+	"nu1ndms1roi0b47f": {
+		"definition": "cooldown_reduction+5%",
+		"x": 64,
+		"y": 32,
+		"root": false
+	},
+	"d9uagmup14vk1spp": {
+		"definition": "cooldown_reduction+5%",
+		"x": 96,
+		"y": 32,
+		"root": false
+	},
+	"02dsz1wfkb93a22u": {
+		"definition": "cooldown_reduction+5%",
+		"x": 96,
+		"y": -32,
+		"root": false
+	},
+	"12sstl43o2yq381e": {
+		"definition": "cooldown_reduction+5%",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"qhhmrhbehg1z4fhq": {
+		"definition": "cooldown_reduction+5%",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"j4x5hlh6jwckw6vg": {
+		"definition": "cooldown_reduction+5%",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"mdp6t9vs3wf5bbbs": {
+		"definition": "blood_spell_power+5%",
+		"x": -32,
+		"y": 64,
+		"root": false
+	},
+	"tscz5lq963rkz3ls": {
+		"definition": "blood_spell_power+5%",
+		"x": 32,
+		"y": 64,
+		"root": false
+	},
+	"he2tybp3vwfxsmdh": {
+		"definition": "blood_spell_power+5%",
+		"x": -32,
+		"y": 96,
+		"root": false
+	},
+	"qht970wjeaia4k4q": {
+		"definition": "blood_spell_power+5%",
+		"x": 32,
+		"y": 96,
+		"root": false
+	},
+	"7dfgb4i8cn47ujf9": {
+		"definition": "blood_spell_power+5%",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"bkzp29i8uyrp0ib1": {
+		"definition": "blood_spell_power+5%",
+		"x": 64,
+		"y": 128,
+		"root": false
+	},
+	"74rrbk3nufmnqedb": {
+		"definition": "blood_spell_power+5%",
+		"x": -64,
+		"y": 128,
+		"root": false
+	},
+	"2bq0bp0svrzashke": {
+		"definition": "summon_damage+5%",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"pkcwxd7o1oahgt47": {
+		"definition": "summon_damage+5%",
+		"x": 32,
+		"y": -64,
+		"root": false
+	},
+	"2r77qlsmgpz6vvox": {
+		"definition": "summon_damage+5%",
+		"x": -32,
+		"y": -96,
+		"root": false
+	},
+	"87kc77xmj8qngz3x": {
+		"definition": "summon_damage+5%",
+		"x": 32,
+		"y": -96,
+		"root": false
+	},
+	"5k3zal4wyvnvbn72": {
+		"definition": "summon_damage+5%",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"3sl8zdlogt3wgyl0": {
+		"definition": "summon_damage+5%",
+		"x": 64,
+		"y": -128,
+		"root": false
+	},
+	"niws9vdnp5pw0vos": {
+		"definition": "summon_damage+5%",
+		"x": 96,
+		"y": -128,
+		"root": false
+	},
+	"m3qeg4rejlmp6end": {
+		"definition": "summon_damage+5%",
+		"x": -64,
+		"y": -128,
+		"root": false
+	},
+	"s0a3b15cgy39n4oc": {
+		"definition": "summon_damage+5%",
+		"x": -96,
+		"y": -128,
+		"root": false
+	},
+	"9ki114f6k0dc4d6w": {
+		"definition": "evocation_spell_power+5%",
+		"x": -64,
+		"y": -32,
+		"root": false
+	},
+	"eusbtwmnk1vo4hxi": {
+		"definition": "evocation_spell_power+5%",
+		"x": -64,
+		"y": 32,
+		"root": false
+	},
+	"088ozkuz8yeis28v": {
+		"definition": "evocation_spell_power+5%",
+		"x": -96,
+		"y": 32,
+		"root": false
+	},
+	"ilokm6eprc3j75xe": {
+		"definition": "evocation_spell_power+5%",
+		"x": -96,
+		"y": -32,
+		"root": false
+	},
+	"ekvr1kqtahe8mu41": {
+		"definition": "evocation_spell_power+5%",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"rgs5hh60z98l9fmq": {
+		"definition": "evocation_spell_power+5%",
+		"x": -128,
+		"y": -64,
+		"root": false
+	},
+	"9vjtjfdc7yk8rlad": {
+		"definition": "evocation_spell_power+5%",
+		"x": -128,
+		"y": -96,
+		"root": false
+	},
+	"34nvx4r15uhnsytf": {
+		"definition": "evocation_spell_power+5%",
+		"x": -128,
+		"y": 64,
+		"root": false
+	},
+	"j2zmp31q0ojwtdh7": {
+		"definition": "evocation_spell_power+5%",
+		"x": -128,
+		"y": 96,
+		"root": false
+	},
+	"9s6vcmw0l64kaxda": {
+		"definition": "blood_spell_power+5%",
+		"x": -96,
+		"y": 128,
+		"root": false
+	},
+	"daus6ywi1q786dmz": {
+		"definition": "blood_spell_power+5%",
+		"x": 96,
+		"y": 128,
+		"root": false
+	},
+	"6tgag1116aaoe7rd": {
+		"definition": "cooldown_reduction+5%",
+		"x": 128,
+		"y": 96,
+		"root": false
+	},
+	"dh6p5blg1zivnpv3": {
+		"definition": "cooldown_reduction+5%",
+		"x": 128,
+		"y": -96,
+		"root": false
+	}
+}

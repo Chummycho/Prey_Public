@@ -1,0 +1,100 @@
+{
+	id: "25911721768887A5"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "pneumaticcraft:vortex_cannon"
+				tag: {
+					"pneumaticcraft:air": 30000
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "mekanism:robit"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "100000"
+						}]
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "mekanism:jetpack_armored"
+				tag: {
+					mekData: {
+						GasTanks: [{
+							Tank: 0b
+							stored: {
+								amount: 24000L
+								gasName: "mekanism:hydrogen"
+							}
+						}]
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "pneumaticcraft:minigun"
+				tag: {
+					"pneumaticcraft:air": 30000
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "mekanism:free_runners_armored"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "64000"
+						}]
+					}
+				}
+			}
+		}
+		{ count: 16, item: "gobber2:gobber2_ingot" }
+		{
+			item: {
+				Count: 1b
+				id: "mowziesmobs:earthbore_gauntlet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "cataclysm:gauntlet_of_guard" }
+		{
+			item: {
+				Count: 1
+				id: "justhammers:netherite_destructor_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:elytra"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Netherite Coin"
+}

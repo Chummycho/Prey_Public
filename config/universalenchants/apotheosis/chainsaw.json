@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:axe",
+    "apotheosis:other_tome",
+    "dungeons_mobs:mountaineer_axe",
+    "dungeons_mobs:gold_mountaineer_axe",
+    "dungeons_mobs:diamond_mountaineer_axe"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity"
+  ]
+}

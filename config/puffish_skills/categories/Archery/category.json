@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Archery",
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "kubejs:textures/icons/ranged_prof.png"
+		}
+	},
+	"background": "textures/block/obsidian.png"
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_head",
+    "mutantmonsters:mutant_skeleton_skull"
+  ],
+  "incompatible": [
+    "dungeons_gear:food_reserves",
+    "dungeons_gear:lucky_explorer",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:refreshment",
+    "dungeons_gear:prospector",
+    "dungeons_gear:recycler"
+  ]
+}

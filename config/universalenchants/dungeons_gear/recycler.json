@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "dungeons_gear:food_reserves",
+    "dungeons_gear:lucky_explorer",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:surprise_gift",
+    "dungeons_gear:refreshment",
+    "dungeons_gear:prospector"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "domesticationinnovation:health_siphon",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity",
+    "domesticationinnovation:healing_aura"
+  ]
+}

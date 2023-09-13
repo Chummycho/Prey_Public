@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "domesticationinnovation:magnetic",
+    "domesticationinnovation:bubbling",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity",
+    "domesticationinnovation:chain_lightning",
+    "domesticationinnovation:blazing_protection",
+    "domesticationinnovation:disc_jockey"
+  ]
+}

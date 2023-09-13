@@ -1,0 +1,1550 @@
+{
+	"fe9np2eu1wedxk0o": {
+		"definition": "life_steal+5%",
+		"x": 0,
+		"y": -517.3058411939046,
+		"root": false
+	},
+	"wce2wd2xcyai2oxu": {
+		"definition": "life_steal+5%",
+		"x": 0,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"1ddnvy2zvjfj5da4": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"8xceb2agi24kix90": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"up8n2dsrg9htheh6": {
+		"definition": "chance_to_ignite+5%",
+		"x": -64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"3k0e14j596dgfi5f": {
+		"definition": "damage_with_shield+5%",
+		"x": 0,
+		"y": -73.9008344562721,
+		"root": true
+	},
+	"vhmve6wibke3tbf9": {
+		"definition": "melee_damage+5%",
+		"x": 64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"h27fps6zkk2j7oiu": {
+		"definition": "generic.attack_speed+5%",
+		"x": -64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"ihagaf8ypvy9ezlq": {
+		"definition": "crit_chance+5%",
+		"x": 64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"e35m5qt0g26g4jyb": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"ifpfpye82n9z7vgo": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"0hwhkkrbyle61tfb": {
+		"definition": "life_steal+5%",
+		"x": -32,
+		"y": -498.8306325798367,
+		"root": false
+	},
+	"z0byxk1h0eu3qbix": {
+		"definition": "life_steal+5%",
+		"x": 32,
+		"y": -498.83063257983656,
+		"root": false
+	},
+	"n9xco60to32oyyx6": {
+		"definition": "life_steal+5%",
+		"x": 416,
+		"y": -277.1281292110203,
+		"root": false
+	},
+	"grflijjfhjk04eu5": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": -221.70250336881634,
+		"root": false
+	},
+	"yg5bbr73o27buzlj": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": 221.70250336881634,
+		"root": false
+	},
+	"v14vzzbe1anbdynh": {
+		"definition": "life_steal+5%",
+		"x": -416,
+		"y": 277.1281292110203,
+		"root": false
+	},
+	"hz4djh4kwbc5ixen": {
+		"definition": "life_steal+5%",
+		"x": -448,
+		"y": -221.70250336881625,
+		"root": false
+	},
+	"69bboiyoas2ept3o": {
+		"definition": "life_steal+5%",
+		"x": -416,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"io22hcwycysoci7j": {
+		"definition": "life_steal+5%",
+		"x": -32,
+		"y": 498.83063257983656,
+		"root": false
+	},
+	"nupei0nrdbeciruw": {
+		"definition": "life_steal+5%",
+		"x": 32,
+		"y": 498.8306325798367,
+		"root": false
+	},
+	"n8951uhrurehnj2i": {
+		"definition": "life_steal+5%",
+		"x": 448,
+		"y": 221.70250336881625,
+		"root": false
+	},
+	"cgpcj45utewyxa97": {
+		"definition": "life_steal+5%",
+		"x": 416,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"y7jcw5g7bp5ndoxx": {
+		"definition": "generic.max_health+5%",
+		"x": 352,
+		"y": 240.1777119828843,
+		"root": false
+	},
+	"13o2fxqhlc9wb9lp": {
+		"definition": "generic.max_health+5%",
+		"x": 384,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"y7ldpm6tl911cltf": {
+		"definition": "generic.max_health+5%",
+		"x": -32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"sqqnfb5emtekic0r": {
+		"definition": "generic.max_health+5%",
+		"x": 32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"qkvbzeokt87unag7": {
+		"definition": "generic.max_health+5%",
+		"x": -384,
+		"y": 184.7520861406802,
+		"root": false
+	},
+	"qr70dcwc90neyt4u": {
+		"definition": "generic.max_health+5%",
+		"x": -352,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"kzp7a8cgmnvpx7te": {
+		"definition": "generic.max_health+5%",
+		"x": -384,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"shhdg125aq9o4lyd": {
+		"definition": "generic.max_health+5%",
+		"x": -352,
+		"y": -240.1777119828843,
+		"root": false
+	},
+	"gcvzl1n0t16qn0yb": {
+		"definition": "generic.max_health+5%",
+		"x": -32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"bllixep818r49ted": {
+		"definition": "generic.max_health+5%",
+		"x": 32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"y1efkqe2ljyl3yhp": {
+		"definition": "generic.max_health+5%",
+		"x": 352,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"ddyztr8htzy3pycw": {
+		"definition": "generic.max_health+5%",
+		"x": 384,
+		"y": -184.7520861406802,
+		"root": false
+	},
+	"it9sejgu54ozeeh0": {
+		"definition": "life_per_hit_if_wounded+5%",
+		"x": 0,
+		"y": 73.9008344562721,
+		"root": true
+	},
+	"hnn911kn9km6075j": {
+		"definition": "damage_with_shield+5%",
+		"x": 0,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"87dmbzi5q9w20e5q": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"1bxilbw67px2ulbh": {
+		"definition": "crit_chance_if_wounded+5%",
+		"x": 32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"2ss64e2t5amn4f9z": {
+		"definition": "attack_speed_if_wounded+5%",
+		"x": -32,
+		"y": -166.27687752661222,
+		"root": false
+	},
+	"mnobjq7avtuub4x1": {
+		"definition": "stamina+5%",
+		"x": 32,
+		"y": -166.27687752661222,
+		"root": false
+	},
+	"ehn2pyv3ef8v2bzc": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 0,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"kimlj8l5u7g7ce3m": {
+		"definition": "crit_chance_if_wounded+5%",
+		"x": 0,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"ik2kcswhncn42x8g": {
+		"definition": "jump+5%",
+		"x": -32,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"dvrr2gvj6nn6kuvs": {
+		"definition": "generic.movement_speed+5%",
+		"x": 32,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"3kfb0c4gfs70fhxc": {
+		"definition": "damage_with_shield+5%",
+		"x": 0,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"qdhjed5xxg9qw56k": {
+		"definition": "damage_with_shield+5%",
+		"x": 0,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"lp9ewgjdssb6x6gy": {
+		"definition": "crit_damage_per_gem_in_weapon+5%",
+		"x": -32,
+		"y": -351.0289636672925,
+		"root": false
+	},
+	"o6fjiyo8d8qc0g08": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 32,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"r72sdglyak507e5l": {
+		"definition": "crit_damage_per_gem_in_weapon+5%",
+		"x": -64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"mopb7ag4s4jtzs00": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": -96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"v3xbtjwx3tl0j6pt": {
+		"definition": "crit_damage_per_gem_in_weapon+5%",
+		"x": -128,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"npkgqo05o35m33v5": {
+		"definition": "jump+5%",
+		"x": -160,
+		"y": -55.42562584220407,
+		"root": false
+	},
+	"yndxjmlfazsud1bt": {
+		"definition": "chance_to_ignite+5%",
+		"x": -160,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"r5ux04u56g9v9f6x": {
+		"definition": "maximum_chestplate_sockets+5%",
+		"x": -192,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"aqngg3iqgths1qxs": {
+		"definition": "generic.knockback_resistance+5%",
+		"x": -224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"5i630p24a1ovndgl": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -256,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"w66p27vjrzzxtpkt": {
+		"definition": "generic.movement_speed+5%",
+		"x": -224,
+		"y": -166.2768775266122,
+		"root": false
+	},
+	"0zc3qw2gd3a2k3zf": {
+		"definition": "maximum_chestplate_sockets+5%",
+		"x": -320,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"bwgok7s285xucljc": {
+		"definition": "stamina+5%",
+		"x": -288,
+		"y": -203.22729475474827,
+		"root": false
+	},
+	"ptqdqe0cqa46a7ji": {
+		"definition": "chance_to_ignite+5%",
+		"x": -352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"xspjf1pgmyvbgrxg": {
+		"definition": "chance_to_ignite+5%",
+		"x": -320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"h3o79ney9tvc2c85": {
+		"definition": "maximum_chestplate_sockets+5%",
+		"x": -96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"dox1ove7rp22wfwo": {
+		"definition": "crit_chance_if_wounded+5%",
+		"x": -64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"4xhfk321nydfxp1v": {
+		"definition": "crit_chance_per_gem_in_weapon+5%",
+		"x": -32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"0xm89wijne31ylo4": {
+		"definition": "generic.armor+5%",
+		"x": 32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"ddzddulvs9zjw1s9": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"4u80h0nxlf7tfccf": {
+		"definition": "crit_chance_per_gem_in_weapon+5%",
+		"x": 96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"1om4zn4v0mzyj8vt": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"w1l1e87tda2p1iz3": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": 64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"o73dwb2k7xfd1no7": {
+		"definition": "crit_chance_if_wounded+5%",
+		"x": -32,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"tsefgmolcwz8rgc7": {
+		"definition": "crit_chance_per_gem_in_weapon+5%",
+		"x": 32,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"nmd69t7sglbkrn8h": {
+		"definition": "life_per_hit_if_wounded+5%",
+		"x": 0,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"qf43bjj30wmwtkii": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 0,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"rvxnpikintor3m1d": {
+		"definition": "generic.knockback_resistance+5%",
+		"x": 0,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"ehnjvh3wruozn9gr": {
+		"definition": "generic.luck+5%",
+		"x": -32,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"3nqrntj9ni8ymn8s": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 32,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"5bq4bnz9skb85rzk": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": -32,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"8mc43wp3gwc1bnl2": {
+		"definition": "attack_speed_if_wounded+5%",
+		"x": 32,
+		"y": 351.0289636672925,
+		"root": false
+	},
+	"7jv1n9d9qy7ykxq2": {
+		"definition": "life_per_hit_if_wounded+5%",
+		"x": 0,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"mm89cliw9uo3bbni": {
+		"definition": "life_per_hit_if_wounded+5%",
+		"x": 0,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"u7wow3etj971l0pk": {
+		"definition": "maximum_chestplate_sockets+5%",
+		"x": -160,
+		"y": 55.42562584220407,
+		"root": false
+	},
+	"9oqkkh2kg7qr1zok": {
+		"definition": "jump+5%",
+		"x": -128,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"zq578g44cyvk1v2n": {
+		"definition": "spell_resist+5%",
+		"x": -160,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"s4frwveu596m8gjn": {
+		"definition": "generic.movement_speed+5%",
+		"x": -192,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"rhhtak63p2b1vzia": {
+		"definition": "generic.knockback_resistance+5%",
+		"x": -224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"qciivuep49qnlv7u": {
+		"definition": "generic.luck+5%",
+		"x": -224,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"9dob2khxku0f34qv": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -256,
+		"y": 110.85125168440811,
+		"root": false
+	},
+	"viic2bcbtuya5g6n": {
+		"definition": "crit_chance_per_gem_in_weapon+5%",
+		"x": -320,
+		"y": 147.80166891254422,
+		"root": false
+	},
+	"dl40eep6n7qjdfid": {
+		"definition": "stamina+5%",
+		"x": -288,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"mlvuh34ekcilm67u": {
+		"definition": "spell_resist+5%",
+		"x": -320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"hfcjqld1003zi76i": {
+		"definition": "spell_resist+5%",
+		"x": -352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"iiqj1tlqdll1sqsl": {
+		"definition": "generic.armor+5%",
+		"x": 128,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"q19xjxpaxv5qnh77": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 160,
+		"y": 55.42562584220407,
+		"root": false
+	},
+	"dw1brbbir3vy5ixm": {
+		"definition": "melee_damage+5%",
+		"x": 160,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"ns9kor5mio4zh2gv": {
+		"definition": "generic.armor+5%",
+		"x": 192,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"13yu1i1pzduupjs5": {
+		"definition": "generic.knockback_resistance+5%",
+		"x": 224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"g7ek2m383speflt7": {
+		"definition": "generic.luck+5%",
+		"x": 224,
+		"y": 166.2768775266122,
+		"root": false
+	},
+	"l6jybcwsgmh3nmct": {
+		"definition": "attack_speed_if_wounded+5%",
+		"x": 256,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"hrfj8z6omgghekif": {
+		"definition": "generic.armor+5%",
+		"x": 288,
+		"y": 203.22729475474827,
+		"root": false
+	},
+	"cadtftm6kftaa4u2": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 320,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"k2yl2aa2z1l0oxu0": {
+		"definition": "melee_damage+5%",
+		"x": 320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"2ccsdomtesps5qlm": {
+		"definition": "melee_damage+5%",
+		"x": 352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"txz7uqxd1kehspsb": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": 128,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"agmqwip6n7f64vs4": {
+		"definition": "generic.movement_speed+5%",
+		"x": 160,
+		"y": -55.42562584220407,
+		"root": false
+	},
+	"v447f9qigd0xt5lp": {
+		"definition": "crit_chance+5%",
+		"x": 160,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"tbqto8g52c1ijp5u": {
+		"definition": "attack_speed_if_wounded+5%",
+		"x": 192,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"0ckqj0885tuv6rq4": {
+		"definition": "jump+5%",
+		"x": 224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"njp4vynbsnvf7nvy": {
+		"definition": "generic.luck+5%",
+		"x": 224,
+		"y": -166.27687752661222,
+		"root": false
+	},
+	"l890qjcs2jhd7izc": {
+		"definition": "stamina+5%",
+		"x": 256,
+		"y": -110.85125168440811,
+		"root": false
+	},
+	"wajab70hwfoimjpe": {
+		"definition": "crit_damage_per_gem_in_weapon+5%",
+		"x": 288,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"pglnk6v5bztmupmh": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": 320,
+		"y": -147.80166891254422,
+		"root": false
+	},
+	"denv4zhitu5fkgkr": {
+		"definition": "crit_chance+5%",
+		"x": 320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"joywaejqv7ndgrzc": {
+		"definition": "crit_chance+5%",
+		"x": 352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"ax43p4zk8sotbmef": {
+		"definition": "spell_resist+5%",
+		"x": -288,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"b5kc8h02s48i8fil": {
+		"definition": "melee_damage+5%",
+		"x": -288,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"174mqgm119qqe571": {
+		"definition": "melee_damage+5%",
+		"x": -288,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"hc4izib6v8cz5isi": {
+		"definition": "spell_resist+5%",
+		"x": -288,
+		"y": -55.425625842204084,
+		"root": false
+	},
+	"fvbdycq1m6ahc9re": {
+		"definition": "chance_to_ignite+5%",
+		"x": -256,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"hx1lx0hlcbf0yc4v": {
+		"definition": "chance_to_ignite+5%",
+		"x": -256,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"ur2wgddm5qts192a": {
+		"definition": "damage_with_shield+5%",
+		"x": -416,
+		"y": -129.32646029847618,
+		"root": false
+	},
+	"0w6uv1nidzfu6bye": {
+		"definition": "maximum_weapon_sockets+5%",
+		"x": -416,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"w4n2xssy7klth4l8": {
+		"definition": "reach_distance+5%",
+		"x": -416,
+		"y": -55.425625842204084,
+		"root": false
+	},
+	"f5i7bzd6aukkahvv": {
+		"definition": "melee_damage+5%",
+		"x": -416,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"ktyl0m9j4er9laz8": {
+		"definition": "melee_damage+5%",
+		"x": -416,
+		"y": 18.47520861406798,
+		"root": false
+	},
+	"4kw0g1mqxk7kar02": {
+		"definition": "reach_distance+5%",
+		"x": -416,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"vtpichdu5gv4x3xq": {
+		"definition": "maximum_weapon_sockets+5%",
+		"x": -416,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"kyyhp4ypdnrwv9pe": {
+		"definition": "maximum_weapon_sockets+5%",
+		"x": -416,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"fwnwv3u7f3sbb5v6": {
+		"definition": "chance_to_ignite+5%",
+		"x": -384,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"4al8cymfj1gv6k4m": {
+		"definition": "chance_to_ignite+5%",
+		"x": -384,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"ceh8r3639mp7ajd4": {
+		"definition": "chance_to_ignite+5%",
+		"x": -320,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"r3nr47niofkbtopy": {
+		"definition": "maximum_weapon_sockets+5%",
+		"x": -320,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"9x2p0krudlsztjy6": {
+		"definition": "maximum_weapon_sockets+5%",
+		"x": -288,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"vj9my11krz656g3x": {
+		"definition": "reach_distance+5%",
+		"x": -256,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"taktmam7hs9ppb50": {
+		"definition": "melee_damage+5%",
+		"x": -224,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"rcshruiit01czpom": {
+		"definition": "melee_damage+5%",
+		"x": -192,
+		"y": -369.5041722813604,
+		"root": false
+	},
+	"n5k7dlcz02x16nj5": {
+		"definition": "reach_distance+5%",
+		"x": -160,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"39b3vywdpij1qr93": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": -128,
+		"y": -406.45458950949654,
+		"root": false
+	},
+	"g93nij2sxx6o71yc": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": -96,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"xg1qgsewinvtmrp2": {
+		"definition": "chance_to_ignite+5%",
+		"x": -64,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"ogu4ai0ptujsc7a8": {
+		"definition": "chance_to_ignite+5%",
+		"x": -192,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"xtduijtr8wqylstg": {
+		"definition": "reach_distance+5%",
+		"x": -192,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"maoe1ltjv7sw48rv": {
+		"definition": "melee_damage+5%",
+		"x": -160,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"x9lvytnhc7zconf5": {
+		"definition": "melee_damage+5%",
+		"x": -128,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"33sfl7ekeb12tu5l": {
+		"definition": "stamina+5%",
+		"x": -96,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"hkl9ax0fg0p5dns9": {
+		"definition": "chance_to_ignite+5%",
+		"x": -64,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"urmqs55movzeahua": {
+		"definition": "life_per_hit_if_wounded+5%",
+		"x": -128,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"ot3m33tpgbzs2fol": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -224,
+		"y": -387.97938089542845,
+		"root": false
+	},
+	"pnteovbtxuvwman7": {
+		"definition": "chance_to_ignite+5%",
+		"x": 64,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"q9ngmpugmugadbs1": {
+		"definition": "chance_to_ignite+5%",
+		"x": 320,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"cl8s9p314fguieut": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 128,
+		"y": -406.45458950949654,
+		"root": false
+	},
+	"w7nzrzl3cnb1q1bs": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 96,
+		"y": -424.9297981235646,
+		"root": false
+	},
+	"1ju9thhaj7wkdb61": {
+		"definition": "stamina+5%",
+		"x": 160,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"we5ikog54l25p871": {
+		"definition": "chance_to_explode_enemy+5%",
+		"x": 192,
+		"y": -369.5041722813605,
+		"root": false
+	},
+	"63kbeem04omhbq4z": {
+		"definition": "chance_to_explode_enemy+5%",
+		"x": 224,
+		"y": -351.0289636672925,
+		"root": false
+	},
+	"23bv8aja42fvj3li": {
+		"definition": "stamina+5%",
+		"x": 256,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"ko99jgfpho2zwmcq": {
+		"definition": "attack_speed_with_gem_in_weapon+5%",
+		"x": 288,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"2uiqcu02lxb8arrw": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": 320,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"g8ykdxt1k4bs5oe7": {
+		"definition": "chance_to_ignite+5%",
+		"x": 64,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"2j2cizytfmselsq7": {
+		"definition": "generic.attack_speed+5%",
+		"x": 96,
+		"y": -277.1281292110204,
+		"root": false
+	},
+	"vro2bkf1bxjgm2wi": {
+		"definition": "chance_to_explode_enemy+5%",
+		"x": 128,
+		"y": -258.65292059695236,
+		"root": false
+	},
+	"1ovzyvw8pfldnavn": {
+		"definition": "melee_damage+5%",
+		"x": 160,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"f1t9b8mly2ldypxx": {
+		"definition": "generic.attack_speed+5%",
+		"x": 192,
+		"y": -221.7025033688163,
+		"root": false
+	},
+	"ddwlnrhtffky39sq": {
+		"definition": "chance_to_ignite+5%",
+		"x": 192,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"a2rbsp5zrhkwacdm": {
+		"definition": "chance_to_ignite+5%",
+		"x": 256,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"hcb9desd0r0zbibz": {
+		"definition": "chance_to_ignite+5%",
+		"x": 256,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"tf59lh0oyb0wf5r5": {
+		"definition": "generic.attack_speed+5%",
+		"x": 288,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"08x6v491s2dgmekx": {
+		"definition": "melee_damage+5%",
+		"x": 288,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"cxzouidbapoftwo5": {
+		"definition": "melee_damage+5%",
+		"x": 288,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"eghhx8lmat4nsso6": {
+		"definition": "generic.attack_speed+5%",
+		"x": 288,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"sagjw9f57r2wvj9o": {
+		"definition": "generic.attack_speed+5%",
+		"x": -192,
+		"y": 221.7025033688163,
+		"root": false
+	},
+	"krqzqs3e2clnr84z": {
+		"definition": "melee_damage+5%",
+		"x": -160,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"qifsz254qe5lmxvk": {
+		"definition": "melee_damage+5%",
+		"x": -128,
+		"y": 258.65292059695236,
+		"root": false
+	},
+	"h9sfbf29uisctj63": {
+		"definition": "generic.attack_speed+5%",
+		"x": -96,
+		"y": 277.1281292110204,
+		"root": false
+	},
+	"gssh53h79dq86yen": {
+		"definition": "chance_to_ignite+5%",
+		"x": -64,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"bnu4z8u1r7jlxfuh": {
+		"definition": "chance_to_ignite+5%",
+		"x": -192,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"0kek7tkg1r8e0ruq": {
+		"definition": "chance_to_ignite+5%",
+		"x": 64,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"enw7ly0fdjzmdzib": {
+		"definition": "chance_to_ignite+5%",
+		"x": 192,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"zzopkz57gtt3jxto": {
+		"definition": "generic.attack_speed+5%",
+		"x": 96,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"w067rgdhp55fa2f9": {
+		"definition": "melee_damage+5%",
+		"x": 128,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"c6fqbrbdkq97ujpw": {
+		"definition": "melee_damage+5%",
+		"x": 160,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"9jqbjc83p8i0lzez": {
+		"definition": "generic.attack_speed+5%",
+		"x": 192,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"v5od65c0e1hf4ucn": {
+		"definition": "damage_if_wounded+5%",
+		"x": -128,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"p9j9deazy7qrzkp5": {
+		"definition": "damage_if_wounded+5%",
+		"x": 128,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"1dl2lrjnvcdh94e2": {
+		"definition": "damage_if_wounded+5%",
+		"x": 256,
+		"y": 0,
+		"root": false
+	},
+	"qpyqh1wfi659olfg": {
+		"definition": "damage_if_wounded+5%",
+		"x": 128,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"duvfdks7jak76nxy": {
+		"definition": "chance_to_ignite+5%",
+		"x": -320,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"kjyfslwko8ks5ixo": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": -320,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"dls7g6msixu8mf9x": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": -288,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"ha5f3prsfgfd3lba": {
+		"definition": "generic.attack_speed+5%",
+		"x": -256,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"pjeqr71pd6dv6269": {
+		"definition": "melee_damage+5%",
+		"x": -224,
+		"y": 351.0289636672925,
+		"root": false
+	},
+	"88702ml88r2vcq0v": {
+		"definition": "melee_damage+5%",
+		"x": -192,
+		"y": 369.5041722813605,
+		"root": false
+	},
+	"euz6wh6f2rc5ntc6": {
+		"definition": "generic.attack_speed+5%",
+		"x": -160,
+		"y": 387.9793808954285,
+		"root": false
+	},
+	"v09ck7zmtfj077wz": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": -128,
+		"y": 406.45458950949654,
+		"root": false
+	},
+	"83ctc4xgkzogd5ma": {
+		"definition": "gem_power_in_weapon+5%",
+		"x": -96,
+		"y": 424.9297981235646,
+		"root": false
+	},
+	"ka6iy89awqmeilhq": {
+		"definition": "chance_to_ignite+5%",
+		"x": -64,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"p3podk7hfb108vma": {
+		"definition": "damage_if_wounded+5%",
+		"x": -224,
+		"y": 387.97938089542845,
+		"root": false
+	},
+	"2f06r6ydcdwut500": {
+		"definition": "chance_to_ignite+5%",
+		"x": 64,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"uq0yndvnlotl6rby": {
+		"definition": "damage_with_enchanted_weapon+5%",
+		"x": 96,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"ocvonlt8ksz5sp0u": {
+		"definition": "damage_with_enchanted_weapon+5%",
+		"x": 128,
+		"y": 406.45458950949654,
+		"root": false
+	},
+	"f61si6p37xbxl5u2": {
+		"definition": "melee_damage+5%",
+		"x": 192,
+		"y": 369.5041722813604,
+		"root": false
+	},
+	"ekxu5r4lmid5vtlw": {
+		"definition": "generic.attack_speed+5%",
+		"x": 160,
+		"y": 387.9793808954285,
+		"root": false
+	},
+	"3351p05eppocrtz3": {
+		"definition": "melee_damage+5%",
+		"x": 224,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"w1vruuz831q3awb2": {
+		"definition": "generic.attack_speed+5%",
+		"x": 256,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"dlf7eenmznad5rc3": {
+		"definition": "damage_with_enchanted_weapon+5%",
+		"x": 288,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"qhs192npmixtezg4": {
+		"definition": "damage_with_enchanted_weapon+5%",
+		"x": 320,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"4kkn6u0qguls5bxs": {
+		"definition": "chance_to_ignite+5%",
+		"x": 320,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"whl3isdu743tjhdo": {
+		"definition": "life_on_block+5%",
+		"x": 224,
+		"y": 387.97938089542845,
+		"root": false
+	},
+	"7ix6e7epz7ew6y2a": {
+		"definition": "chance_to_ignite+5%",
+		"x": 384,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"pwh71rcw67za9168": {
+		"definition": "damage_with_enchanted_weapon+5%",
+		"x": 416,
+		"y": 129.32646029847618,
+		"root": false
+	},
+	"2uqgv9mho5dwta2w": {
+		"definition": "chance_to_explode_enemy+5%",
+		"x": 416,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"xtqhx0uxepw0nno4": {
+		"definition": "generic.attack_speed+5%",
+		"x": 416,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"71nai8nccbrk81jb": {
+		"definition": "melee_damage+5%",
+		"x": 416,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"iembia1pwk4jiy4n": {
+		"definition": "melee_damage+5%",
+		"x": 416,
+		"y": -18.47520861406798,
+		"root": false
+	},
+	"ortm2r993w1p5lhe": {
+		"definition": "generic.attack_speed+5%",
+		"x": 416,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"7khuf8pmrm1tbh5x": {
+		"definition": "chance_to_explode_enemy+5%",
+		"x": 416,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"2gkk0jjlk3rp2rqf": {
+		"definition": "chance_to_explode_enemy+5%",
+		"x": 416,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"cr9obhvfdk6fiyj1": {
+		"definition": "chance_to_ignite+5%",
+		"x": 384,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"xzm9v3ld9la8p56s": {
+		"definition": "life_on_block+5%",
+		"x": 448,
+		"y": 0,
+		"root": false
+	},
+	"8o025j7pc31j29k3": {
+		"definition": "experience_from_mobs+5%",
+		"x": -448,
+		"y": 0,
+		"root": false
+	},
+	"cksg6zhec4yj05ho": {
+		"definition": "experience_from_mobs+5%",
+		"x": -256,
+		"y": 0,
+		"root": false
+	},
+	"smme9ugtdnht6u3n": {
+		"definition": "crit_chance+5%",
+		"x": -352,
+		"y": -166.2768775266122,
+		"root": false
+	},
+	"2voi77czzcaf3s8y": {
+		"definition": "crit_chance+5%",
+		"x": -352,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"i8ktf6w6xdpbttlm": {
+		"definition": "crit_chance+5%",
+		"x": -224,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"z3fk9cljlqqursak": {
+		"definition": "crit_chance+5%",
+		"x": -224,
+		"y": -92.3760430703401,
+		"root": false
+	},
+	"vo8ryx65gxjj7zmk": {
+		"definition": "experience_from_mobs+5%",
+		"x": -320,
+		"y": 0,
+		"root": false
+	},
+	"0eti2yox320nt987": {
+		"definition": "experience_from_mobs+5%",
+		"x": -384,
+		"y": 0,
+		"root": false
+	},
+	"vt1zhphxfu49d459": {
+		"definition": "crit_chance+5%",
+		"x": -320,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"1a5wrwbdd50t1dsn": {
+		"definition": "crit_damage+5%",
+		"x": -32,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"77a7gv7xwwlktngt": {
+		"definition": "crit_damage+5%",
+		"x": -32,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"k42nuxad7l7lrol5": {
+		"definition": "crit_damage+5%",
+		"x": -192,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"jd8ephtic8duj55n": {
+		"definition": "crit_chance_against_burning+5%",
+		"x": -160,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"f7ufiq5ybri1ghp9": {
+		"definition": "crit_chance_against_burning+5%",
+		"x": -192,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"2y8e7vagfexwsoaf": {
+		"definition": "crit_damage+5%",
+		"x": 32,
+		"y": -240.17771198288426,
+		"root": false
+	},
+	"x3trj8781xmwrdb3": {
+		"definition": "crit_damage+5%",
+		"x": 192,
+		"y": -147.80166891254416,
+		"root": false
+	},
+	"4rbbu3avyn6c3nxw": {
+		"definition": "crit_damage+5%",
+		"x": 32,
+		"y": -387.97938089542845,
+		"root": false
+	},
+	"4em0drkl3sd0skij": {
+		"definition": "crit_damage+5%",
+		"x": 320,
+		"y": -221.70250336881625,
+		"root": false
+	},
+	"tjgp2s9dlqtteifs": {
+		"definition": "crit_chance_against_burning+5%",
+		"x": 160,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"4nnvu6p9otw0leh1": {
+		"definition": "crit_chance_against_burning+5%",
+		"x": 224,
+		"y": -387.97938089542845,
+		"root": false
+	},
+	"dt8rjelgwmbye6p1": {
+		"definition": "damage_against_burning+5%",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"ha9pjf0csuoyq3q2": {
+		"definition": "crit_damage+5%",
+		"x": 224,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"a1zk5tu4cdlf71ig": {
+		"definition": "crit_chance+5%",
+		"x": 224,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"y4ox3bxgshaygchz": {
+		"definition": "crit_chance+5%",
+		"x": 352,
+		"y": -166.27687752661222,
+		"root": false
+	},
+	"z6jc7kwaxrvsx3d5": {
+		"definition": "crit_chance+5%",
+		"x": 352,
+		"y": 166.2768775266122,
+		"root": false
+	},
+	"56ev7ugt3t44qt7e": {
+		"definition": "damage_against_burning+5%",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"vsadimvjcjq6ci06": {
+		"definition": "damage_against_burning+5%",
+		"x": 192,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"vmhtr84rl5uz7air": {
+		"definition": "crit_chance+5%",
+		"x": 192,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"a3yowr0e4s1sw7ml": {
+		"definition": "crit_chance+5%",
+		"x": 32,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"7nl6vk1nqykwroc6": {
+		"definition": "crit_chance+5%",
+		"x": 32,
+		"y": 387.9793808954285,
+		"root": false
+	},
+	"wl0gkn8n1miyfjwt": {
+		"definition": "crit_chance+5%",
+		"x": 320,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"fuzrvod7wlshy9n5": {
+		"definition": "damage_against_burning+5%",
+		"x": 192,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"0hv9vqhzvt2d2pyv": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": 160,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"uobt34wd5r9730sg": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -192,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"kgjrrlpv8rlfdw61": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -160,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"lfk96khgjsc4dkz5": {
+		"definition": "crit_chance+5%",
+		"x": -192,
+		"y": 147.80166891254416,
+		"root": false
+	},
+	"06geyxn0wviclfh4": {
+		"definition": "crit_chance+5%",
+		"x": -320,
+		"y": 221.70250336881625,
+		"root": false
+	},
+	"m7ck7l7v7axufb41": {
+		"definition": "crit_chance+5%",
+		"x": -32,
+		"y": 387.97938089542845,
+		"root": false
+	},
+	"gorbg5hqcj9thhkh": {
+		"definition": "crit_chance+5%",
+		"x": -32,
+		"y": 240.17771198288426,
+		"root": false
+	}
+}

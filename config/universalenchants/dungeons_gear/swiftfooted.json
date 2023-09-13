@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "alexsmobs:pigshoes"
+  ],
+  "incompatible": [
+    "dungeons_gear:fire_trail",
+    "dungeons_gear:velocity",
+    "dungeons_gear:multi_roll",
+    "dungeons_gear:acrobat",
+    "dungeons_gear:electrified",
+    "dungeons_gear:void_dodge",
+    "dungeons_gear:dodge",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:arrow_hoarder",
+    "dungeons_gear:tumblebee"
+  ]
+}

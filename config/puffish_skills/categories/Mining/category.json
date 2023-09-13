@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Mining",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "blue_skies:horizonite_pickaxe"
+		}
+	},
+	"background": "textures/block/stone_bricks.png"
+}

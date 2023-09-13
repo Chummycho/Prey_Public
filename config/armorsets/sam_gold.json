@@ -1,0 +1,47 @@
+{
+  "armorSetName": "Gold Samurai",
+  "head": {
+    "itemKey": "epicsamurai:gold_samurai_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "epicsamurai:gold_samurai_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "epicsamurai:gold_samurai_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "epicsamurai:gold_samurai_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "skilltree:player.crit_chance_with_enchanted_weapon",
+      "value": 1.05,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd276",
+      "description": "+5% Crit Chance with Enchanted Weapon",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "skilltree:player.crit_chance_with_enchanted_weapon",
+      "value": 1.10,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd277",
+      "description": "+10% Crit Chance with Enchanted Weapon",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

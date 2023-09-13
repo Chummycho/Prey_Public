@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "mutantmonsters:mutant_skeleton_skull"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity"
+  ]
+}

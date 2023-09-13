@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable",
+    "assortedtools:wooden_multitool",
+    "assortedtools:stone_multitool",
+    "assortedtools:golden_multitool",
+    "assortedtools:iron_multitool",
+    "assortedtools:diamond_multitool",
+    "assortedtools:netherite_multitool",
+    "assortedtools:nickel_multitool",
+    "assortedtools:electrum_multitool",
+    "assortedtools:steel_multitool",
+    "assortedtools:aluminum_multitool",
+    "assortedtools:amethyst_multitool",
+    "assortedtools:lead_multitool",
+    "assortedtools:bronze_multitool",
+    "assortedtools:ruby_multitool",
+    "assortedtools:platinum_multitool",
+    "assortedtools:peridot_multitool",
+    "assortedtools:tin_multitool",
+    "assortedtools:topaz_multitool",
+    "assortedtools:copper_multitool",
+    "assortedtools:invar_multitool",
+    "assortedtools:silver_multitool",
+    "assortedtools:emerald_multitool",
+    "assortedtools:sapphire_multitool"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

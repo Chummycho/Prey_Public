@@ -1,0 +1,1196 @@
+
+[Parts]
+	#Set this to true if you would like wands to be craftable and found in the creative tab.
+	wandsEnabled = false
+	#Set this to true if you would like boomerangs to be craftable and found in the creative tab.
+	boomerangsEnabled = false
+	#Set this to true if you would like hammers to be craftable and found in the creative tab.
+	hammersEnabled = false
+	#Set this to true if you would like multitools to be craftable and found in the creative tab.
+	multiToolsEnabled = false
+	#Set this to true if you would like the pokeball to be craftable and found in the creative tab.
+	pokeballEnabled = true
+	#Set this to true if you would like the chicken suit to be craftable and found in the creative tab as well as if you want the Chicken Jump enchantment to be able to be applied.
+	chickenSuitEnabled = false
+	#Set this to true if you would like to enable support for crafting the extra tools and armor that this supports. For example, Steel, Copper, or Ruby tools and armor.
+	extraMaterialsEnabled = true
+	#Set this to true if you would like the spears to be craftable and found in the creative tab.
+	spearsEnabled = false
+	#Set this to true if you would like the better spears (the ones that can be enchanted) to be craftable and found in the creative tab as well as the Enchantments for it to be enchanted on books.
+	betterSpearsEnabled = false
+	#Set this to true if you would like better buckets to be craftable and found in the creative tab.
+	betterBucketsEnabled = false
+	#Set this to true if you would like the extra shears to be craftable and found in the creative tab.
+	moreShearsEnabled = false
+	#Set this to true if you would like the ultimate fist to be craftable and found in the creative tab as well as the fragements generate in loot.
+	ultimateFistEnabled = false
+
+[General]
+	#For any item that is unobtainable (like missing materials from other mods) hide it from the creative menu / JEI.
+	hideUncraftableItems = true
+
+[Boomerangs]
+	#Set this to true if you would like boomerangs to turn around after they have picked up items.
+	turnAroundItem = false
+	#Set this to true if you would like boomerangs to turn around after they have hit a mob.
+	turnAroundMob = false
+	#Set this to false if you would like boomerangs to not turn around after they have hit a button or a lever.
+	turnAroundButton = true
+	#Set this to true if you would like boomerangs to be able to break torches.
+	breaksTorches = false
+	#Set this to true if you would like boomerangs to be able to break plants.
+	breaksPlants = false
+	#Set this to false if you would like boomerangs to not be able to hit buttons or levers.
+	hitsButtons = true
+	#The maximum range away from the player the wood boomerang will travel before turning around.
+	#Range: 1 ~ 200
+	woodBoomerangRange = 20
+	#The amount of damage the wood boomerang does to mobs.
+	#Range: 1 ~ 500
+	woodBoomerangDamage = 1
+	#The maximum range away from the player the diamond boomerang will travel before turning around.
+	#Range: 1 ~ 200
+	diamondBoomerangRange = 30
+	#The amount of damage the diamond boomerang does to mobs.
+	#Range: 1 ~ 500
+	diamondBoomerangDamage = 5
+	#Set to true if you would like the diamond boomerang to follow where the player is looking.
+	diamondBoomerangFollows = false
+
+[Wands]
+	#Set to true if you would like the wands to not require any blocks to build with.
+	freeBuildMode = false
+	#Set to true if you would like the breaking wands to be able to break bedrock.
+	bedrockBreaking = false
+	#Set to true if you would like the mining wands to be able to mine obsidian.
+	easyMiningObsidian = false
+	#A list of blocks that the wand breaking wand will not break. Usually used for ores.
+	destructiveWandSparedBlocks = ["tag|forge:ores", "tag|forge:chests", "block|minecraft:spawner"]
+	#A list of blocks that the mining wand can break from the surface.
+	miningWandBlocksForSurfaceMining = ["tag|forge:ores"]
+
+["Ultimate Fist"]
+
+	["Ultimate Fist".ultimate]
+		#The maximum uses for this item tier
+		#Range: 1 ~ 100000
+		maxUses = 1561
+		#The enchantability for this item tier
+		#Range: 0 ~ 100000
+		enchantability = 0
+		#The harvest level for this item tier
+		#Range: 0 ~ 100
+		harvestLevel = 7
+		#The efficiency for this item tier
+		#Range: 0.0 ~ 100000.0
+		efficiency = 64.0
+		#The amount of damage this item tier does
+		#Range: 0.0 ~ 100000.0
+		damage = 64.0
+		#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+		#Range: 0.0 ~ 100000.0
+		axeDamage = 0.0
+		#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+		#Range: -1000.0 ~ 100000.0
+		axeSpeed = 0.0
+		#The maximum number of buckets that this materials bucket can hold.
+		#Range: 1 ~ 1000
+		maxBuckets = 1
+		#The milking level that will be set for this materials bucket. By default only 0-3
+		#Range: 0 ~ 5
+		milkingLevel = 0
+		#The maximum temp of a fluid this materials bucket can pickup.
+		#Range: 0.0 ~ 1000000.0
+		maxPickupTemp = 5000.0
+		#Is this material so weak that the bucket will break after placing a fluid.
+		breaksAfterUse = false
+
+["Better Spear"]
+	#An array of the chances for lightning to spawn at each level of conductivity. The smaller the number the higher chance. The array for conductivity lightning chances must be exactly 3 elements at all times and all items must be in the range from [0.0D - 1.0D).
+	conductivityLightningChances = [0.6, 0.3, 0.1]
+
+["Better Buckets"]
+	#Set to true if you would like the better buckets to be able to accept partial bucket amounts. Meaning some can get left over after placing all the full buckets.
+	allowPartialBucketAmounts = false
+
+[Armors]
+
+	[Armors.chicken_suit]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 5
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 15
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [1, 2, 3, 1]
+
+	[Armors.tin]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 8
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 14
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [1, 3, 5, 2]
+
+	[Armors.copper]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 11
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 14
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 5, 6, 2]
+
+	[Armors.silver]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 27
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 14
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.aluminum]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 13
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 10
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 5, 6, 2]
+
+	[Armors.nickel]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 13
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 10
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 3, 4, 2]
+
+	[Armors.platinum]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 36
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 18
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 3.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.20000000298023224
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.lead]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 13
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 4
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 3, 4, 2]
+
+	[Armors.bronze]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 14
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 13
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.10000000149011612
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 5, 6, 2]
+
+	[Armors.electrum]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 13
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 13
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 5, 6, 2]
+
+	[Armors.invar]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 15
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 11
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.20000000298023224
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.10000000149011612
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 5, 6, 2]
+
+	[Armors.steel]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 26
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 10
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 0.5
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.30000001192092896
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [2, 6, 7, 2]
+
+	[Armors.ruby]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 34
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 10
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 2.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.amethyst]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 31
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 14
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 1.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.sapphire]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 31
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 14
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 1.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.topaz]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 30
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 8
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 1.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.emerald]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 32
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 14
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 2.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+	[Armors.peridot]
+		#The durability multiplier for this armor material
+		#Range: 1 ~ 100000
+		durability = 30
+		#The enchantability for this armor material
+		#Range: 0 ~ 100000
+		enchantability = 8
+		#The toughness for this armor material
+		#Range: 0.0 ~ 100000.0
+		toughness = 1.0
+		#The knockback resistance for this armor material
+		#Range: 0.0 ~ 100000.0
+		knockbackResistance = 0.0
+		#The reduction amounts for each piece of armor for this armor material
+		reductionAmounts = [3, 6, 8, 3]
+
+["Item Tiers"]
+
+	#These are used by Hammers and MultiTools to allow you to override the default vanilla values that they use.
+	#These will not change the values that vanilla tools use.
+	["Item Tiers"."Vanilla Overrides"]
+
+		["Item Tiers"."Vanilla Overrides".wood]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 59
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 15
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 0
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 2.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 0.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 1
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 1000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = true
+
+		["Item Tiers"."Vanilla Overrides".stone]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 131
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 5
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 1
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 4.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 1.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 7.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 1
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = true
+
+		["Item Tiers"."Vanilla Overrides".gold]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 32
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 22
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 0
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 12.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 0.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 4
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Vanilla Overrides".iron]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 250
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 14
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 6.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0999999046325684
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 1
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Vanilla Overrides".diamond]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1561
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 10
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 3
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 8.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 3.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 16
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Vanilla Overrides".netherite]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 2031
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 15
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 4
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 9.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 4.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 64
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 2
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 10000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+	#These are used by Hammers, MultiTools, Buckets, and the normal tool sets to allow you to override the default values that are used.
+	["Item Tiers"."Modded Overrides"]
+
+		["Item Tiers"."Modded Overrides".tin]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 80
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 14
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 1
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 2.5
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 0.4000000059604645
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 4
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".copper]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 150
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 14
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 4.300000190734863
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 1.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 7.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".silver]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1456
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 14
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 3
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 8.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.799999952316284
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.5
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 12
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".aluminum]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 215
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 10
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 1
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 5.400000095367432
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 1.5
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.199999809265137
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0999999046325684
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 2
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".nickel]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 230
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 10
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 5.800000190734863
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 1.7999999523162842
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".platinum]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1865
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 18
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 3
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 7.800000190734863
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 3.200000047683716
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 24
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 2
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".lead]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 212
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 4
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 4.199999809265137
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 1.2000000476837158
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 4
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".bronze]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 245
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 13
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 6.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0999999046325684
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".electrum]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 213
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 13
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 3
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 10.0
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.5
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 18
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".invar]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 264
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 11
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 6.199999809265137
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.200000047683716
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0999999046325684
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 10
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".steel]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1356
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 10
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 3
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 6.900000095367432
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.5
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 7.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 16
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".ruby]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1612
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 10
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 8.399999618530273
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 3.200000047683716
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 6.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".amethyst]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1532
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 12
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 7.900000095367432
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.9000000953674316
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.199999809265137
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0999999046325684
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".sapphire]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1524
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 12
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 7.800000190734863
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.799999952316284
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.199999809265137
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0999999046325684
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".topaz]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1426
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 8
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 7.599999904632568
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.5999999046325684
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".emerald]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1547
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 14
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 3
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 8.199999809265137
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 3.0
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.199999809265137
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.200000047683716
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 10
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 1
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+
+		["Item Tiers"."Modded Overrides".peridot]
+			#The maximum uses for this item tier
+			#Range: 1 ~ 100000
+			maxUses = 1456
+			#The enchantability for this item tier
+			#Range: 0 ~ 100000
+			enchantability = 9
+			#The harvest level for this item tier
+			#Range: 0 ~ 100
+			harvestLevel = 2
+			#The efficiency for this item tier
+			#Range: 0.0 ~ 100000.0
+			efficiency = 7.699999809265137
+			#The amount of damage this item tier does
+			#Range: 0.0 ~ 100000.0
+			damage = 2.700000047683716
+			#The damage modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: 0.0 ~ 100000.0
+			axeDamage = 5.0
+			#The speed modifier for axes as they are different per material. Will not affect vanilla tools.
+			#Range: -1000.0 ~ 100000.0
+			axeSpeed = -3.0
+			#The maximum number of buckets that this materials bucket can hold.
+			#Range: 1 ~ 1000
+			maxBuckets = 8
+			#The milking level that will be set for this materials bucket. By default only 0-3
+			#Range: 0 ~ 5
+			milkingLevel = 0
+			#The maximum temp of a fluid this materials bucket can pickup.
+			#Range: 0.0 ~ 1000000.0
+			maxPickupTemp = 5000.0
+			#Is this material so weak that the bucket will break after placing a fluid.
+			breaksAfterUse = false
+

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "mutantmonsters:mutant_skeleton_skull",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "minecraft:fire_protection",
+    "minecraft:blast_protection",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "minecraft:projectile_protection",
+    "ensorcellation:magic_protection"
+  ]
+}

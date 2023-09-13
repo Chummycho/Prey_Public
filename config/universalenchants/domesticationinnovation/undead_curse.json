@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "domesticationinnovation:total_recall",
+    "dungeons_gear:velocity"
+  ]
+}

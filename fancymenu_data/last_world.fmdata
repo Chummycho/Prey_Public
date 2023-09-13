@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/alexh/curseforge/minecraft/Instances/Prey (1)/saves/New World (37)
+}
+

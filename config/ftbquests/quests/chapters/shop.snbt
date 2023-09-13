@@ -1,0 +1,277 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "shop"
+	group: ""
+	id: "3B550B0EBC45421C"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [{
+							data: [ ]
+							source: "dungeons_libraries:gear_config"
+						}]
+					}
+					"dungeons_libraries:dual_wield": {
+						fake: 0b
+						wrapped: {
+							Count: 0
+							ForgeCaps: {
+								"dungeons_libraries:built_in_enchantments": { }
+							}
+							id: "minecraft:air"
+							tag: {
+								glide: 0b
+								"quark:RuneColor": {
+									Count: 1
+									id: "quark:blank_rune"
+								}
+								struck: 0b
+							}
+						}
+					}
+					"dungeons_libraries:ranged_abilities": {
+						dynamicChargeTime: 0.0f
+						fuseShotCounter: 0
+						lastFiredTime: 0L
+					}
+				}
+				id: "dungeons_gear:dual_crossbow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3BABB751F538942D"
+			rewards: [{
+				command: "/puffish_skills points add @p Archery 1"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [{
+								data: [ ]
+								source: "dungeons_libraries:gear_config"
+							}]
+						}
+						"dungeons_libraries:dual_wield": {
+							fake: 0b
+							wrapped: {
+								Count: 0
+								ForgeCaps: {
+									"dungeons_libraries:built_in_enchantments": { }
+								}
+								id: "minecraft:air"
+								tag: {
+									glide: 0b
+									"quark:RuneColor": {
+										Count: 1
+										id: "quark:blank_rune"
+									}
+									struck: 0b
+								}
+							}
+						}
+						"dungeons_libraries:ranged_abilities": {
+							dynamicChargeTime: 0.0f
+							fuseShotCounter: 0
+							lastFiredTime: 0L
+						}
+					}
+					id: "dungeons_gear:dual_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5E539E24BB122CAA"
+				player_command: false
+				title: "1x Archery Skill Point"
+				type: "command"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "7980D0D35D77790E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "numismaticoverhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "5x Silver Coins -> 1x Archery Skill Point"
+			x: -0.75d
+			y: -5.25d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "kubejs:admin_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "214ED793AFE8982F"
+			rewards: [{
+				command: "/puffish_skills points add @p Melee 1"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:admin_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "758DF156084E287C"
+				player_command: false
+				title: "1x Melee Skill Point"
+				type: "command"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "710231930AACA3E0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "numismaticoverhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "5x Silver Coins -> 1x Melee Skill Point"
+			x: -2.25d
+			y: -5.25d
+		}
+		{
+			can_repeat: true
+			icon: "irons_spellbooks:lightning_bottle"
+			id: "6E03639C59152042"
+			rewards: [{
+				command: "/puffish_skills points add @p Magic 1"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "irons_spellbooks:lightning_bottle"
+				}
+				id: "40587A581A109CAB"
+				player_command: false
+				title: "1x Magic Skill Point"
+				type: "command"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "0273EF3D30394370"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "numismaticoverhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "5x Silver Coins -> 1x Magic Skill Point"
+			x: 0.75d
+			y: -5.25d
+		}
+		{
+			can_repeat: true
+			icon: "cataclysm:mechanical_fusion_anvil"
+			id: "3556C9F6E32BC12B"
+			rewards: [{
+				command: "/puffish_skills points add @p Crafting 1"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "cataclysm:mechanical_fusion_anvil"
+				}
+				id: "6D9C7AAADDA1E98D"
+				player_command: false
+				title: "1x Crafting Skill Point"
+				type: "command"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "4720DB5D73D5CD12"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "numismaticoverhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "5x Silver Coins -> 1x Crafting Skill Point"
+			x: 2.25d
+			y: -5.25d
+		}
+		{
+			can_repeat: true
+			icon: "kubejs:subclass_skill_point"
+			id: "20935FF99652F14B"
+			rewards: [{
+				id: "670F5DC0DEC30390"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:subclass_skill_point"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "2FEF8ABFC7392D9D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "numismaticoverhaul:silver_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "10x Silver Coins -> 1x Subclass Skill Point"
+			x: 3.75d
+			y: -5.25d
+		}
+	]
+	title: "UNFINISHED Shop"
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:cgm_gun"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "cgm:trigger_finger",
+    "cgm:over_capacity"
+  ]
+}

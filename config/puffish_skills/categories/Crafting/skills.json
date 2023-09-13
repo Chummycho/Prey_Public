@@ -1,0 +1,830 @@
+{
+	"vfqm06uv7hrvhak1": {
+		"definition": "crafted_armor_maximum_life+5%",
+		"x": 0,
+		"y": -517.3058411939046,
+		"root": false
+	},
+	"bk14htegyzorew37": {
+		"definition": "crafted_armor_maximum_life+5%",
+		"x": -32,
+		"y": -498.8306325798367,
+		"root": false
+	},
+	"33implsgkdufrrk8": {
+		"definition": "crafted_armor_maximum_life+5%",
+		"x": 32,
+		"y": -498.83063257983656,
+		"root": false
+	},
+	"zgwrux3824nibb4p": {
+		"definition": "life_per_hit_under_potion_effect+5%",
+		"x": 32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"46lp3o6d59rbs73g": {
+		"definition": "crafted_shields_armor+5%",
+		"x": -32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"ifr2hcrykhkaamcy": {
+		"definition": "crafted_armor_maximum_life+5%",
+		"x": -448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"5aw846z9h6nj7njs": {
+		"definition": "crafted_armor_maximum_life+5%",
+		"x": -448,
+		"y": -221.70250336881625,
+		"root": false
+	},
+	"agct41qrhfux9von": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": -416,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"reqsct8d088o1dfs": {
+		"definition": "crafted_shields_armor+5%",
+		"x": -352,
+		"y": -240.1777119828843,
+		"root": false
+	},
+	"rgm8bm3m0kf2rdc0": {
+		"definition": "crafted_shields_armor+5%",
+		"x": -384,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"b7tjzs342zcpvv1l": {
+		"definition": "crafted_melee_weapon_crit_chance+5%",
+		"x": -448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"v2ociiig6vjpbflc": {
+		"definition": "crafted_melee_weapon_crit_chance+5%",
+		"x": -448,
+		"y": 221.70250336881634,
+		"root": false
+	},
+	"xy7x9n8nuvhbwv91": {
+		"definition": "crafted_melee_weapon_crit_chance+5%",
+		"x": -416,
+		"y": 277.1281292110203,
+		"root": false
+	},
+	"85zhclcf4fgnoxp7": {
+		"definition": "crafted_melee_weapon_crit_chance+5%",
+		"x": 0,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"9u7sgdpcnhac15mi": {
+		"definition": "crafted_melee_weapon_crit_chance+5%",
+		"x": -32,
+		"y": 498.83063257983656,
+		"root": false
+	},
+	"nsfhixkiuiarli3f": {
+		"definition": "crafted_weapon_double_loot_chance+5%",
+		"x": 32,
+		"y": 498.8306325798367,
+		"root": false
+	},
+	"yez4ff29j96j4vtw": {
+		"definition": "crafted_shields_armor+5%",
+		"x": -32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"dbfa0y41wtgaes7o": {
+		"definition": "crafted_shields_armor+5%",
+		"x": 32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"481y7jwnusjlr5al": {
+		"definition": "crafted_shields_armor+5%",
+		"x": -384,
+		"y": 184.7520861406802,
+		"root": false
+	},
+	"8kvsbb4g6cu8ui0m": {
+		"definition": "life_per_hit_under_potion_effect+5%",
+		"x": -352,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"5nmjxbzm9mgziqfo": {
+		"definition": "crafted_weapon_double_loot_chance+5%",
+		"x": 448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"rd0ilg4om3iyb22e": {
+		"definition": "crafted_weapon_double_loot_chance+5%",
+		"x": 416,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"y0j52om9je423gov": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 448,
+		"y": 221.70250336881625,
+		"root": false
+	},
+	"3fqgpba14mma444o": {
+		"definition": "life_per_hit_under_potion_effect+5%",
+		"x": 384,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"6kkvdiwjh91i868x": {
+		"definition": "life_per_hit_under_potion_effect+5%",
+		"x": 352,
+		"y": 240.1777119828843,
+		"root": false
+	},
+	"4bplqksytxhf3rgj": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"lc6spvskmapalde2": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 448,
+		"y": -221.70250336881634,
+		"root": false
+	},
+	"625iuonjx96jpfvs": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 416,
+		"y": -277.1281292110203,
+		"root": false
+	},
+	"8cqw24vx5c0ns6i2": {
+		"definition": "life_per_hit_under_potion_effect+5%",
+		"x": 352,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"3hvwt8x0fthc6b2i": {
+		"definition": "life_per_hit_under_potion_effect+5%",
+		"x": 384,
+		"y": -184.7520861406802,
+		"root": false
+	},
+	"deo8h5vc2v3zsr8g": {
+		"definition": "generic.luck+5%",
+		"x": -96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"k9bgdg9v93abdccv": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"jiplmhfk7c310y35": {
+		"definition": "crafted_shields_maximum_life+5%",
+		"x": -32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"b20i3k54sp8oqxg8": {
+		"definition": "generic.luck+5%",
+		"x": 32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"gmts7b7gvqxde39w": {
+		"definition": "maximum_life_per_enchantment+5%",
+		"x": 64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"586n3amc8w65quds": {
+		"definition": "crafted_melee_weapon_attack_speed+5%",
+		"x": 96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"owybx9ept7cvi54u": {
+		"definition": "crafted_melee_weapon_damage_bonus+5%",
+		"x": 64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"3p4t0s5ssbqhj9nx": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"2v3wcza7c0fi0cep": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": -32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"6buogtrl6749nmsk": {
+		"definition": "crafted_melee_weapon_attack_speed+5%",
+		"x": 32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"i9uazqosdcblpe3j": {
+		"definition": "crafted_shields_maximum_life+5%",
+		"x": -64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"wz20baq2qnpch6is": {
+		"definition": "armor_enchantment_power+5%",
+		"x": -96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"tgll30t305xqdr0f": {
+		"definition": "crafted_melee_weapon_damage_bonus+5%",
+		"x": -32,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"5iu3smz5mgte2c3b": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 32,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"jkzva7orybijcgpz": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 0,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"ct84dj3gunuyn5v4": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": -32,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"jilovlmgjigqylpv": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": 32,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"5wcgt0gsoidj0obj": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": -32,
+		"y": 240.17771198288426,
+		"root": false
+	},
+	"3evsmtusnk0ldkfa": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": 32,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"lsbybyh8dzofz8pv": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 0,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"a2fqmn6z6tkmlv9z": {
+		"definition": "gem_power_in_armor+5%",
+		"x": -32,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"owi1dnzyyvulwhff": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": 32,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"k36on24pi30sihfo": {
+		"definition": "crafted_shields_maximum_life+5%",
+		"x": -32,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"5wvty7mpfh2yekg7": {
+		"definition": "crafted_melee_weapon_damage_bonus+5%",
+		"x": 32,
+		"y": 351.0289636672925,
+		"root": false
+	},
+	"fj38a1jrezevttg7": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": 0,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"3cyixd0key5pxhtg": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 0,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"1wgufpsrr5nky8j9": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 96,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"kwaq6ldloxcxl3bp": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": 128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"og45sbqt5k2ak35y": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 128,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"s08jclsfw0cwbii4": {
+		"definition": "crafted_armor_defence+5%",
+		"x": 160,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"dr4p1dy231bvi5o2": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 192,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"8hj719sphbxryalz": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"k3j8rs1sb4inpx1e": {
+		"definition": "crafted_armor_defence+5%",
+		"x": 192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"3qg3kkhmg6tr0mk4": {
+		"definition": "crafted_armor_defence+5%",
+		"x": 224,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"tgzibzdh8yn94atz": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 256,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"i8x8zbv7z1rbp7kt": {
+		"definition": "crafted_shields_maximum_life+5%",
+		"x": 288,
+		"y": 203.22729475474827,
+		"root": false
+	},
+	"mpsuqo34bueppy9n": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 288,
+		"y": 129.32646029847618,
+		"root": false
+	},
+	"fhiwqmg0mmb5zjxy": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 320,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"sgwhiu0ceiglzkqn": {
+		"definition": "crafted_armor_defence+5%",
+		"x": 320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"wzd7lc5cjton3ilz": {
+		"definition": "chance_to_craft_tougher_armor+5%",
+		"x": 352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"hnj45sj3pw6rad56": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 96,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"uklrbxuhzxdzmxsl": {
+		"definition": "maximum_life_per_enchantment+5%",
+		"x": 128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"2hhbg19oiskx4i51": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"gdq2of4jtabh8vvx": {
+		"definition": "enchantment_level_requirement+5%",
+		"x": 160,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"bmhxosk0tv0z18su": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": 192,
+		"y": -147.80166891254416,
+		"root": false
+	},
+	"s09e23pguouoictz": {
+		"definition": "enchantment_level_requirement+5%",
+		"x": 192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"os0k65ul58tquoet": {
+		"definition": "generic.luck+5%",
+		"x": 224,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"6b6t01bmz7ou7n23": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"kvaf8yj7no5e3ghg": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 256,
+		"y": -184.75208614068026,
+		"root": false
+	},
+	"fi0bqj37wzo09jjk": {
+		"definition": "crafted_armor_defence+5%",
+		"x": 288,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"m61mzyonao9t8678": {
+		"definition": "armor_enchantment_power+5%",
+		"x": 288,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"a2pj4mrju33dqlal": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": 320,
+		"y": -147.80166891254422,
+		"root": false
+	},
+	"hwn5yf4mgldfwx2w": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"sljxuiqjxmgeewk6": {
+		"definition": "enchantment_level_requirement+5%",
+		"x": 320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"fjb5wu9oocqyiket": {
+		"definition": "crafted_armor_defence+5%",
+		"x": -32,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"1j7s1ucwd7wies4a": {
+		"definition": "crafted_melee_weapon_damage_bonus+5%",
+		"x": 32,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"oo0ejnmv37rdvaao": {
+		"definition": "brewed_potions_strength+5%",
+		"x": 0,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"u2t1xh0hz537v1vs": {
+		"definition": "brewed_potions_strength+5%",
+		"x": 0,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"jopznc4f2al92ht8": {
+		"definition": "armor_enchantment_power+5%",
+		"x": -32,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"hip2iexdpa0t7huh": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 32,
+		"y": -240.17771198288426,
+		"root": false
+	},
+	"t9i4deykw2lkjpg5": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": -32,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"jrdfnyebzk7xljhz": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": 32,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"3us2h4cjtpiaospa": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -32,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"gkbcth0vvt7nebd9": {
+		"definition": "gem_power_in_armor+5%",
+		"x": 32,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"lxbl3mafsm1tnzp1": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": -32,
+		"y": -351.0289636672925,
+		"root": false
+	},
+	"nw5xq3tbeid4gufw": {
+		"definition": "damage_under_potion_effect+5%",
+		"x": 32,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"flihwq8ybhif5bw5": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": 0,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"xnwroaqhi49xxrmr": {
+		"definition": "brewed_potions_strength+5%",
+		"x": 0,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"urgm9emqstd6cjkb": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": -128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"6e7lxb1hi50v19cf": {
+		"definition": "maximum_life_per_enchantment+5%",
+		"x": -96,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"hdibxgitgprrubvh": {
+		"definition": "brewed_potions_duration+5%",
+		"x": -128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"yo8my0bh3annp41h": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -160,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"9g5de9b93t9oo4c1": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"hwu2qym33iaj3wu4": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": -224,
+		"y": -92.3760430703401,
+		"root": false
+	},
+	"bcyxcfrz7zvw95qj": {
+		"definition": "crafted_melee_weapon_attack_speed+5%",
+		"x": -192,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"xgbvus1up4muhxis": {
+		"definition": "brewed_potions_duration+5%",
+		"x": -224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"fqqt4tf5k6bm0sr2": {
+		"definition": "brewed_potions_duration+5%",
+		"x": -352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"wlqjxems66vle2cd": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"4lj7v71szhri21o6": {
+		"definition": "gem_power_in_armor+5%",
+		"x": -320,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"0xlmyvooc9odln6e": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": -288,
+		"y": -129.32646029847618,
+		"root": false
+	},
+	"sqayrt8o4q4t3eln": {
+		"definition": "generic.luck+5%",
+		"x": -288,
+		"y": -203.22729475474827,
+		"root": false
+	},
+	"ixtv5qxuck9a1oqb": {
+		"definition": "armor_enchantment_power+5%",
+		"x": -256,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"bd35tqroq3qhcu4s": {
+		"definition": "crafted_armor_defence+5%",
+		"x": -128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"aczlbq88qbpembp9": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": -96,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"4c1js7oe656fx1hr": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": -128,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"a58zp1jonqexfzkw": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": -160,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"bvxf7pxcfabyanbx": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": -192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"ds1tfbfk9edul2jt": {
+		"definition": "crit_chance_per_enchantment+5%",
+		"x": -224,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"idnzu6zh75oh28lz": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": -192,
+		"y": 147.80166891254416,
+		"root": false
+	},
+	"e7lo2c1pnkiy381g": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": -224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"ef2ps1pca6l17flg": {
+		"definition": "gem_power_in_armor+5%",
+		"x": -288,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"wd7mblssg0f7nkaf": {
+		"definition": "gem_power_in_jewelry+5%",
+		"x": -320,
+		"y": 147.80166891254422,
+		"root": false
+	},
+	"wwvj2nxnmvrktmtm": {
+		"definition": "maximum_life_per_enchantment+5%",
+		"x": -256,
+		"y": 184.75208614068026,
+		"root": false
+	},
+	"m8re5e15lbu4770y": {
+		"definition": "crafted_melee_weapon_attack_speed+5%",
+		"x": -288,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"qnc2v64y93kun1cs": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": -320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"t4pad8gyfoyi5cmh": {
+		"definition": "crafted_weapon_chance_to_ignite+5%",
+		"x": -352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"4ixovujkqwn3ldmh": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": -256,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"ddo2w18w4cirq8k1": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": -256,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"4t3wl5ggyty7r8fe": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 0,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"rz8erx3hwv1hcgbp": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 256,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"przksfehuda5clu6": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 256,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"tzj88sn9mejh5e8p": {
+		"definition": "crafted_weapon_attack_speed+5%",
+		"x": 0,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"bol8rpwht3yp1mbs": {
+		"definition": "gem_power_in_armor+5%",
+		"x": -64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"ckbx8vo41jp5xjki": {
+		"definition": "gem_power_in_armor+5%",
+		"x": -64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"z0yjaodq9829793d": {
+		"definition": "gem_power_in_armor+5%",
+		"x": 0,
+		"y": 73.9008344562721,
+		"root": true
+	},
+	"9t260sinb9965663": {
+		"definition": "gem_power_in_armor+5%",
+		"x": 64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"2ru82lfm93qnw1z2": {
+		"definition": "gem_power_in_armor+5%",
+		"x": 64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"hm0ept2uobwdwk25": {
+		"definition": "gem_power_in_armor+5%",
+		"x": 0,
+		"y": -73.9008344562721,
+		"root": true
+	}
+}

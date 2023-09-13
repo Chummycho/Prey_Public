@@ -1,0 +1,6 @@
+
+#Server Settings for Late Game Golem
+[lgg_entity]
+	#Golems can be angry at players.
+	lgg_entity_angry_at_player = true
+

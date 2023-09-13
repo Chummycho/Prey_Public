@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "minecraft:multishot",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity",
+    "minecraft:piercing"
+  ]
+}

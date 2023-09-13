@@ -1,0 +1,74 @@
+{
+	"cf1trrn8suhfhpar": {
+		"definition": "relic_evasion",
+		"x": -92.37604307034012,
+		"y": -96,
+		"root": true
+	},
+	"9mmmdc24l4z2o8w8": {
+		"definition": "relic_speed",
+		"x": -36.95041722813605,
+		"y": -128,
+		"root": true
+	},
+	"a9f2pkklu1su5mc4": {
+		"definition": "relic_resistance",
+		"x": 36.95041722813605,
+		"y": -128,
+		"root": true
+	},
+	"xujorub46087vyl1": {
+		"definition": "relic_regeneration",
+		"x": 92.37604307034012,
+		"y": -96,
+		"root": true
+	},
+	"ds4xva1f6lil7he6": {
+		"definition": "relic_heartstop",
+		"x": 129.32646029847615,
+		"y": -32,
+		"root": true
+	},
+	"cirgfx92lrw2ojou": {
+		"definition": "relic_strength",
+		"x": 129.32646029847615,
+		"y": 32,
+		"root": true
+	},
+	"pqofi4aszhsg7yrw": {
+		"definition": "relic_endurance",
+		"x": 92.37604307034012,
+		"y": 96,
+		"root": true
+	},
+	"67oqzhms9yr2ahu1": {
+		"definition": "relic_dragonsbreath",
+		"x": 36.95041722813605,
+		"y": 128,
+		"root": true
+	},
+	"66mwbits363qccvd": {
+		"definition": "relic_absorption",
+		"x": -36.95041722813605,
+		"y": 128,
+		"root": true
+	},
+	"v696pddt6f9j0wa0": {
+		"definition": "relic_charged",
+		"x": -92.37604307034012,
+		"y": 96,
+		"root": true
+	},
+	"ai7n4b3rbw4kj5vn": {
+		"definition": "relic_soulsteal",
+		"x": -129.32646029847615,
+		"y": 32,
+		"root": true
+	},
+	"mvp3oa6t3npc61oz": {
+		"definition": "relic_angelwings",
+		"x": -129.32646029847615,
+		"y": -32,
+		"root": true
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "allurement:reforming",
+    "dungeons_gear:velocity",
+    "dungeons_gear:replenish",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

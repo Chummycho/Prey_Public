@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_ranged"
+  ],
+  "incompatible": [
+    "dungeons_gear:overcharge",
+    "dungeons_gear:velocity",
+    "minecraft:quick_charge",
+    "nikgubs_blades_plus:crushing_blow"
+  ]
+}

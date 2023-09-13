@@ -1,0 +1,77 @@
+{
+	id: "2D66D1AE14B1672F"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ count: 3, item: "minecraft:diamond" }
+		{ count: 32, item: "minecraft:bookshelf" }
+		{ count: 32, item: "minecraft:andesite" }
+		{
+			item: {
+				Count: 1
+				id: "assortedtools:pokeball"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "grapplemod:grapplinghook"
+				tag: {
+					Damage: 0
+					custom: {
+						angle: 20.0d
+						attract: 0b
+						attractradius: 3.0d
+						crc32: 2252267022L
+						detachonkeyrelease: 0b
+						doublehook: 0b
+						enderstaff: 0b
+						hookgravity: 1.0d
+						maxlen: 30.0d
+						motor: 0b
+						motoracceleration: 0.2d
+						motordampener: 0b
+						motormaxspeed: 4.0d
+						motorwhencrouching: 0b
+						motorwhennotcrouching: 1b
+						oneropepull: 0b
+						phaserope: 0b
+						playermovementmult: 1.0d
+						pullbackwards: 1b
+						reelin: 1b
+						repel: 0b
+						repelforce: 1.0d
+						rocket: 0b
+						rocket_active_time: 0.5d
+						rocket_force: 1.0d
+						rocket_refuel_ratio: 15.0d
+						rocket_vertical_angle: 0.0d
+						smartdoublemotor: 1b
+						smartmotor: 0b
+						sneakingangle: 10.0d
+						sneakingverticalthrowangle: 0.0d
+						sticky: 0b
+						throwspeed: 2.0d
+						verticalthrowangle: 0.0d
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "usefulbackpacks:backpack_large"
+				tag: {
+					display: {
+						color: 1908001
+					}
+				}
+			}
+		}
+		{ count: 6, item: "thermal:explosive_grenade" }
+	]
+	title: "Iron"
+}

@@ -1,0 +1,292 @@
+
+
+bounty_level_one.forEach((entity) => {
+	ItemEvents.rightClicked(`kubejs:${entity}_bounty`, event => {
+		let player = event.entity.username;
+		event.entity.tags.add(`kubejs:${entity}_bounty`);
+		Utils.server.runCommandSilent(`/clear ${player} kubejs:${entity}_bounty 1`)
+	})
+})
+
+
+let creeper_counter = new Map()
+creeper.forEach((entity) => {
+EntityEvents.death(`${entity}`, event => {
+	const e_source = event.getSource()
+	if (!event.source.player) return;
+	if (!event.source.player.tags.contains(`kubejs:creeper_bounty`)) return;
+
+	let player_username = event.source.player.username;
+
+
+	if (creeper_counter[player_username] == undefined) {
+		creeper_counter[player_username] = 1
+		
+	} else {
+		creeper_counter[player_username]++;
+	}
+	if (creeper_counter[player_username] == 25) {
+		Utils.server.tell('Creeper Bounty: 50% Complete')
+	}
+
+	if (creeper_counter[player_username] != 50) return;
+		event.source.player.tags.remove(`kubejs:creeper_bounty`)
+		Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+		Utils.server.tell('Creeper Bounty: Complete')
+		creeper_counter[player_username] = 0
+
+	if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+
+		Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+	})
+})
+
+let skeleton_counter = new Map()
+skeleton.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:skeleton_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (skeleton_counter[player_username] == undefined) {
+			skeleton_counter[player_username] = 1
+			
+		} else {
+			skeleton_counter[player_username]++;
+		}
+		if (skeleton_counter[player_username] == 40) {
+			Utils.server.tell('Skeleton Bounty: 50% Complete')
+		}
+
+		if (skeleton_counter[player_username] != 80) return;
+			event.source.player.tags.remove(`kubejs:skeleton_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Skeleton Bounty: Complete')
+			skeleton_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let spider_counter = new Map()
+spider.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:spider_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (spider_counter[player_username] == undefined) {
+			spider_counter[player_username] = 1
+			
+		} else {
+			spider_counter[player_username]++;
+		}
+		if (spider_counter[player_username] == 50) {
+			Utils.server.tell('Spider Bounty: 50% Complete')
+		}
+		if (spider_counter[player_username] != 100) return;
+			event.source.player.tags.remove(`kubejs:spider_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Spider Bounty: Complete')
+			spider_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let zombie_counter = new Map()
+zombie.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:zombie_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (zombie_counter[player_username] == undefined) {
+			zombie_counter[player_username] = 1
+			
+		} else {
+			zombie_counter[player_username]++;
+		}
+		if (zombie_counter[player_username] == 50) {
+			Utils.server.tell('Zombie Bounty: 50% Complete')
+		}
+		if (zombie_counter[player_username] != 100) return;
+			event.source.player.tags.remove(`kubejs:zombie_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Zombie Bounty: Complete')
+			zombie_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let enderman_counter = new Map()
+enderman.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:enderman_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (enderman_counter[player_username] == undefined) {
+			enderman_counter[player_username] = 1
+			
+		} else {
+			enderman_counter[player_username]++;
+		}
+		if (enderman_counter[player_username] == 25) {
+			Utils.server.tell('Enderman Bounty: 50% Complete')
+		}
+		if (enderman_counter[player_username] != 50) return;
+			event.source.player.tags.remove(`kubejs:enderman_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Enderman Bounty: Complete')
+			enderman_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let pillager_counter = new Map()
+pillager.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:pillager_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (pillager_counter[player_username] == undefined) {
+			pillager_counter[player_username] = 1
+			
+		} else {
+			pillager_counter[player_username]++;
+		}
+		if (pillager_counter[player_username] == 30) {
+			Utils.server.tell('Pillager Bounty: 50% Complete')
+		}
+		if (pillager_counter[player_username] != 60) return;
+			event.source.player.tags.remove(`kubejs:pillager_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Pillager Bounty: Complete')
+			pillager_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let piglin_counter = new Map()
+piglin.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:piglin_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (piglin_counter[player_username] == undefined) {
+			piglin_counter[player_username] = 1
+			
+		} else {
+			piglin_counter[player_username]++;
+		}
+		if (piglin_counter[player_username] == 25) {
+			Utils.server.tell('Piglin Bounty: 50% Complete')
+		}
+		if (piglin_counter[player_username] != 50) return;
+			event.source.player.tags.remove(`kubejs:piglin_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Piglin Bounty: Complete')
+			piglin_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let drowned_counter = new Map()
+drowned.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:drowned_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (drowned_counter[player_username] == undefined) {
+			drowned_counter[player_username] = 1
+			
+		} else {
+			drowned_counter[player_username]++;
+		}
+		if (drowned_counter[player_username] == 35) {
+			Utils.server.tell('Drowned Bounty: 50% Complete')
+		}
+		if (drowned_counter[player_username] != 70) return;
+			event.source.player.tags.remove(`kubejs:drowned_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Drowned Bounty: Complete')
+			drowned_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+
+let mutant_counter = new Map()
+mutant.forEach((entity) => {
+	EntityEvents.death(`${entity}`, event => {
+		const e_source = event.getSource()
+		if (!event.source.player) return;
+		if (!event.source.player.tags.contains(`kubejs:mutant_bounty`)) return;
+	
+		let player_username = event.source.player.username;
+	
+	
+		if (mutant_counter[player_username] == undefined) {
+			mutant_counter[player_username] = 1
+			
+		} else {
+			mutant_counter[player_username]++;
+		}
+		if (mutant_counter[player_username] == 5) {
+			Utils.server.tell('Mutant Bounty: 50% Complete')
+		}
+		if (mutant_counter[player_username] != 10) return;
+			event.source.player.tags.remove(`kubejs:mutant_bounty`)
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_bounty_reward`)
+			Utils.server.tell('Mutant Bounty: Complete')
+			mutant_counter[player_username] = 0
+	
+		if (!event.source.player.persistentData.contains('kubejs_class:head_hunter')) return;
+	
+			Utils.server.runCommandSilent(`/give ${player_username} kubejs:common_head_hunter_reward`)
+		})
+})
+

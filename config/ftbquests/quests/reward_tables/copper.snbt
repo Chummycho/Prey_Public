@@ -1,0 +1,22 @@
+{
+	id: "13288399A9AABBBE"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 16, item: "minecraft:arrow" }
+		{ count: 16, item: "minecraft:torch" }
+		{ count: 8, item: "minecraft:oak_log" }
+		{ count: 4, item: "minecraft:iron_ingot" }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "coinsje:iron_coin" }
+	]
+	title: "Copper"
+}

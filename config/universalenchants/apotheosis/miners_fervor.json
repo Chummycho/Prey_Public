@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "dungeons_gear:pickaxe",
+    "dungeons_gear:diamond_pickaxe",
+    "dungeons_gear:axe",
+    "dungeons_gear:gold_axe",
+    "dungeons_gear:firebrand",
+    "dungeons_gear:highland_axe",
+    "dungeons_gear:double_axe",
+    "dungeons_gear:cursed_axe",
+    "dungeons_gear:whirlwind",
+    "apotheosis:pickaxe_tome"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity",
+    "minecraft:efficiency"
+  ]
+}

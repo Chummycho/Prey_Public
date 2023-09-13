@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_melee_ranged",
+    "assortedtools:wooden_multitool",
+    "assortedtools:stone_multitool",
+    "assortedtools:golden_multitool",
+    "assortedtools:iron_multitool",
+    "assortedtools:diamond_multitool",
+    "assortedtools:netherite_multitool",
+    "assortedtools:nickel_multitool",
+    "assortedtools:electrum_multitool",
+    "assortedtools:steel_multitool",
+    "assortedtools:aluminum_multitool",
+    "assortedtools:amethyst_multitool",
+    "assortedtools:lead_multitool",
+    "assortedtools:bronze_multitool",
+    "assortedtools:ruby_multitool",
+    "assortedtools:platinum_multitool",
+    "assortedtools:peridot_multitool",
+    "assortedtools:tin_multitool",
+    "assortedtools:topaz_multitool",
+    "assortedtools:copper_multitool",
+    "assortedtools:invar_multitool",
+    "assortedtools:silver_multitool",
+    "assortedtools:emerald_multitool",
+    "assortedtools:sapphire_multitool",
+    "dungeons_mobs:mountaineer_axe",
+    "dungeons_mobs:gold_mountaineer_axe",
+    "dungeons_mobs:diamond_mountaineer_axe"
+  ],
+  "incompatible": [
+    "dungeons_gear:food_reserves",
+    "dungeons_gear:lucky_explorer",
+    "dungeons_gear:velocity",
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:surprise_gift",
+    "dungeons_gear:prospector",
+    "dungeons_gear:recycler"
+  ]
+}

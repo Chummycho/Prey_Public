@@ -1,0 +1,26 @@
+{
+	id: "753AFCBE55E3642D"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:bald_eagle"
+			}
+		}
+		{
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "kubejs:crow"
+			}
+		}
+	]
+	title: "Level 1 Summons"
+}

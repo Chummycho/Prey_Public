@@ -1,0 +1,4 @@
+#Defines if new dimensions are GRANTED or LOCKED by default.
+#Allowed Values: GRANTED, LOCKED
+default_dimension_access_type = "LOCKED"
+

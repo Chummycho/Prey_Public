@@ -1,0 +1,14 @@
+{
+	id: "7E54EBC3DE72D913"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ item: "create:creative_fluid_tank" }
+		{ item: "create:creative_motor" }
+		{ item: "mekanism:creative_bin" }
+		{ item: "pneumaticcraft:creative_compressor" }
+		{ item: "pneumaticcraft:creative_compressed_iron_block" }
+		{ item: "ars_nouveau:creative_source_jar" }
+	]
+	title: "Single Use"
+}

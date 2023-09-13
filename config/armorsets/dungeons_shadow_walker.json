@@ -1,0 +1,47 @@
+{
+  "armorSetName": "Shadow Walker",
+  "head": {
+    "itemKey": "dungeons_gear:shadow_walker_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:shadow_walker_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:shadow_walker_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:shadow_walker_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:summon_damage",
+      "value": 1.0,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd249",
+      "description": "+1 Summon Damage",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:summon_damage",
+      "value": 2.0,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd250",
+      "description": "+2 Summon Damage",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

@@ -1,0 +1,203 @@
+{
+	id: "3FA7C418464B59C6"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			command: "/give @p kubejs:ranger"
+			icon: {
+				Count: 1
+				id: "gobber2:gobber2_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "Ranger"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:warrior"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "tetra:modular_sword"
+				tag: {
+					Damage: 0
+					HideFlags: 1
+					honing_progress: 339
+					id: "f11a631c-86b2-4a4a-8e23-e21ae1ca7bb3"
+					"sword/basic_hilt_material": "basic_hilt/crimson"
+					"sword/blade": "sword/heavy_blade"
+					"sword/blade:blade/serrated": 1
+					"sword/blade:blade/tempered": 1
+					"sword/fuller": "sword/reinforced_fuller"
+					"sword/grip_loop_material": "grip_loop/iron"
+					"sword/guard": "sword/wide_guard"
+					"sword/heavy_blade_material": "heavy_blade/stone"
+					"sword/hilt": "sword/basic_hilt"
+					"sword/hilt:hilt/wrap/leather": 0
+					"sword/pommel": "sword/grip_loop"
+					"sword/reinforced_fuller_material": "reinforced_fuller/iron"
+					"sword/wide_guard_material": "wide_guard/iron"
+					weapon_attributes: "{\"parent\":\"bettercombat:claymore\",\"attributes\":{\"attack_range\":3.5,\"pose\":\"bettercombat:pose_two_handed_sword\",\"two_handed\":true,\"category\":\"claymore\",\"attacks\":[{\"hitbox\":\"HORIZONTAL_PLANE\",\"damage_multiplier\":0.75,\"angle\":150.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slash_horizontal_right\",\"swing_sound\":{\"id\":\"bettercombat:claymore_swing\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}},{\"hitbox\":\"FORWARD_BOX\",\"damage_multiplier\":1.0,\"angle\":0.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_stab_left\",\"swing_sound\":{\"id\":\"bettercombat:claymore_stab\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}},{\"hitbox\":\"VERTICAL_PLANE\",\"damage_multiplier\":1.25,\"angle\":150.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slam\",\"swing_sound\":{\"id\":\"bettercombat:claymore_slam\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.0}}]}}"
+				}
+			}
+			player_command: false
+			title: "Warrior"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:adventurer"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "sophisticatedbackpacks:iron_backpack"
+			}
+			player_command: false
+			title: "Adventurer"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:pirate"
+			icon: {
+				Count: 1
+				id: "musketmod:pistol"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "Pirate"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:shaolin"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [{
+							data: [{
+								id: "dungeons_gear:committed"
+								lvl: 1s
+							}]
+							source: "dungeons_libraries:gear_config"
+						}]
+					}
+				}
+				id: "dungeons_gear:growing_staff"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "ensorcellation:soulbound"
+						lvl: 1s
+					}]
+					RepairCost: 1
+				}
+			}
+			player_command: false
+			title: "Shaolin"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:berserker"
+			icon: {
+				Count: 1
+				id: "tetra:modular_double"
+				tag: {
+					Damage: 0
+					HideFlags: 1
+					"double/basic_handle_material": "basic_handle/stick"
+					"double/claw_right_material": "claw/oak"
+					"double/handle": "double/basic_handle"
+					"double/handle/settle_progress": 276
+					"double/handle:basic_handle/wrap/string": 0
+					"double/head_left": "double/tomahawk_left"
+					"double/head_left/settle_progress": 296
+					"double/head_right": "double/claw_right"
+					"double/head_right/settle_progress": 276
+					"double/tomahawk_left_material": "tomahawk/stone"
+					honing_progress: 350
+					id: "4a432d58-b449-480f-aaf5-3f7bfd603ef5"
+					weapon_attributes: "{\"parent\":\"bettercombat:axe\",\"attributes\":{\"attack_range\":3.0,\"two_handed\":false,\"category\":\"axe\",\"attacks\":[{\"hitbox\":\"HORIZONTAL_PLANE\",\"damage_multiplier\":1.0,\"angle\":90.0,\"upswing\":0.5,\"animation\":\"bettercombat:one_handed_slash_horizontal_right\",\"swing_sound\":{\"id\":\"bettercombat:axe_slash\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}},{\"hitbox\":\"HORIZONTAL_PLANE\",\"damage_multiplier\":1.0,\"angle\":90.0,\"upswing\":0.5,\"animation\":\"bettercombat:one_handed_slash_horizontal_left\",\"swing_sound\":{\"id\":\"bettercombat:axe_slash\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}}]}}"
+				}
+			}
+			player_command: false
+			title: "Berserker"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:summoner"
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:cultist_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "Summoner"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:kensei"
+			icon: {
+				Count: 1
+				id: "tetra:modular_sword"
+				tag: {
+					Damage: 0
+					HideFlags: 1
+					honing_progress: 325
+					id: "1469d63d-40fa-4229-9555-f9288f6ea866"
+					"sword/basic_hilt_material": "basic_hilt/bone"
+					"sword/blade": "sword/katana_blade"
+					"sword/blade/settle_progress": 260
+					"sword/fuller": "sword/reinforced_fuller"
+					"sword/grip_loop_material": "grip_loop/iron"
+					"sword/guard": "sword/socket"
+					"sword/hilt": "sword/basic_hilt"
+					"sword/hilt/settle_progress": 208
+					"sword/hilt:hilt/wrap/leather": 0
+					"sword/katana_blade_material": "katana_blade/iron"
+					"sword/pommel": "sword/grip_loop"
+					"sword/reinforced_fuller_material": "reinforced_fuller/bone"
+					"sword/socket_material": "sword_socket/socket_pristine_emerald"
+					weapon_attributes: "{\"parent\":\"bettercombat:katana\",\"attributes\":{\"attack_range\":3.5,\"pose\":\"bettercombat:pose_two_handed_katana\",\"two_handed\":true,\"category\":\"katana\",\"attacks\":[{\"hitbox\":\"HORIZONTAL_PLANE\",\"damage_multiplier\":0.8,\"angle\":120.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slash_horizontal_right\",\"swing_sound\":{\"id\":\"bettercombat:katana_slash\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}},{\"hitbox\":\"VERTICAL_PLANE\",\"damage_multiplier\":1.2,\"angle\":120.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slash_vertical_left\",\"swing_sound\":{\"id\":\"bettercombat:katana_slash\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}},{\"hitbox\":\"VERTICAL_PLANE\",\"damage_multiplier\":1.2,\"angle\":120.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slash_vertical_right\",\"swing_sound\":{\"id\":\"bettercombat:katana_slash\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}},{\"hitbox\":\"HORIZONTAL_PLANE\",\"damage_multiplier\":0.8,\"angle\":120.0,\"upswing\":0.5,\"animation\":\"bettercombat:two_handed_slash_horizontal_left\",\"swing_sound\":{\"id\":\"bettercombat:katana_slash\",\"volume\":1.0,\"pitch\":1.0,\"randomness\":0.1}}]}}"
+				}
+			}
+			player_command: false
+			title: "Kensei"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:joo"
+			icon: {
+				Count: 1
+				id: "numismaticoverhaul:gold_coin"
+				tag: { }
+			}
+			player_command: false
+			title: "Joo"
+			type: "command"
+		}
+		{
+			command: "/give @p kubejs:battlemage"
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:wandering_magician_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			player_command: false
+			title: "Battlemage"
+			type: "command"
+		}
+	]
+	title: "Starter Packs"
+}

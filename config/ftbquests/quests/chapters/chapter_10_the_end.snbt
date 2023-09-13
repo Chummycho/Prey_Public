@@ -1,0 +1,70 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_10_the_end"
+	group: "52883199DCF886CE"
+	icon: "minecraft:dragon_egg"
+	id: "5FB7292971D97D8A"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"2BD5F940421417E8"
+				"3943A600777C08A4"
+				"72EA19F7DC785B88"
+			]
+			id: "52D89827A93B5834"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "141E90AC81AB6ADC"
+					table_id: 4757705607409103893L
+					type: "choice"
+				}
+				{
+					id: "48B79405A3F6D1BC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "159474378657AEAF"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5B2BBB39686FB210"]
+			id: "72EA19F7DC785B88"
+			rewards: [{
+				id: "2AB6D0941A4AE4EA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "25A2F88A409F1C88"
+				type: "dimension"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+	]
+	title: "Chapter 5: The End"
+}

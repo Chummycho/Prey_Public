@@ -1,0 +1,1556 @@
+{
+	"vfqm06uv7hrvhak1": {
+		"definition": "arrow_life_steal+5%",
+		"x": 0,
+		"y": -517.3058411939046,
+		"root": false
+	},
+	"bk14htegyzorew37": {
+		"definition": "arrow_life_steal+5%",
+		"x": -32,
+		"y": -498.8306325798367,
+		"root": false
+	},
+	"33implsgkdufrrk8": {
+		"definition": "arrow_life_steal+5%",
+		"x": 32,
+		"y": -498.83063257983656,
+		"root": false
+	},
+	"zgwrux3824nibb4p": {
+		"definition": "generic.max_health+5%",
+		"x": 32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"46lp3o6d59rbs73g": {
+		"definition": "generic.max_health+5%",
+		"x": -32,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"ifr2hcrykhkaamcy": {
+		"definition": "arrow_life_steal+5%",
+		"x": -448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"5aw846z9h6nj7njs": {
+		"definition": "arrow_life_steal+5%",
+		"x": -448,
+		"y": -221.70250336881625,
+		"root": false
+	},
+	"agct41qrhfux9von": {
+		"definition": "arrow_life_steal+5%",
+		"x": -416,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"reqsct8d088o1dfs": {
+		"definition": "generic.max_health+5%",
+		"x": -352,
+		"y": -240.1777119828843,
+		"root": false
+	},
+	"rgm8bm3m0kf2rdc0": {
+		"definition": "generic.max_health+5%",
+		"x": -384,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"b7tjzs342zcpvv1l": {
+		"definition": "arrow_life_steal+5%",
+		"x": -448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"v2ociiig6vjpbflc": {
+		"definition": "arrow_life_steal+5%",
+		"x": -448,
+		"y": 221.70250336881634,
+		"root": false
+	},
+	"xy7x9n8nuvhbwv91": {
+		"definition": "arrow_life_steal+5%",
+		"x": -416,
+		"y": 277.1281292110203,
+		"root": false
+	},
+	"85zhclcf4fgnoxp7": {
+		"definition": "arrow_life_steal+5%",
+		"x": 0,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"9u7sgdpcnhac15mi": {
+		"definition": "arrow_life_steal+5%",
+		"x": -32,
+		"y": 498.83063257983656,
+		"root": false
+	},
+	"nsfhixkiuiarli3f": {
+		"definition": "arrow_life_steal+5%",
+		"x": 32,
+		"y": 498.8306325798367,
+		"root": false
+	},
+	"yez4ff29j96j4vtw": {
+		"definition": "generic.max_health+5%",
+		"x": -32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"dbfa0y41wtgaes7o": {
+		"definition": "generic.max_health+5%",
+		"x": 32,
+		"y": 424.9297981235645,
+		"root": false
+	},
+	"481y7jwnusjlr5al": {
+		"definition": "generic.max_health+5%",
+		"x": -384,
+		"y": 184.7520861406802,
+		"root": false
+	},
+	"8kvsbb4g6cu8ui0m": {
+		"definition": "generic.max_health+5%",
+		"x": -352,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"5nmjxbzm9mgziqfo": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"rd0ilg4om3iyb22e": {
+		"definition": "arrow_life_steal+5%",
+		"x": 416,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"y0j52om9je423gov": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": 221.70250336881625,
+		"root": false
+	},
+	"3fqgpba14mma444o": {
+		"definition": "generic.max_health+5%",
+		"x": 384,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"6kkvdiwjh91i868x": {
+		"definition": "generic.max_health+5%",
+		"x": 352,
+		"y": 240.1777119828843,
+		"root": false
+	},
+	"4bplqksytxhf3rgj": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"lc6spvskmapalde2": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": -221.70250336881634,
+		"root": false
+	},
+	"625iuonjx96jpfvs": {
+		"definition": "arrow_life_steal+5%",
+		"x": 416,
+		"y": -277.1281292110203,
+		"root": false
+	},
+	"8cqw24vx5c0ns6i2": {
+		"definition": "generic.max_health+5%",
+		"x": 352,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"3hvwt8x0fthc6b2i": {
+		"definition": "generic.max_health+5%",
+		"x": 384,
+		"y": -184.7520861406802,
+		"root": false
+	},
+	"deo8h5vc2v3zsr8g": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"k9bgdg9v93abdccv": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"jiplmhfk7c310y35": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": -32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"b20i3k54sp8oqxg8": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 32,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"gmts7b7gvqxde39w": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 64,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"586n3amc8w65quds": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 96,
+		"y": 18.475208614068023,
+		"root": false
+	},
+	"owybx9ept7cvi54u": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"3p4t0s5ssbqhj9nx": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"2v3wcza7c0fi0cep": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"6buogtrl6749nmsk": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 32,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"i9uazqosdcblpe3j": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": -64,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"wz20baq2qnpch6is": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": -96,
+		"y": -18.475208614068023,
+		"root": false
+	},
+	"tgll30t305xqdr0f": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": -32,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"5iu3smz5mgte2c3b": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 32,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"jkzva7orybijcgpz": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 0,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"ct84dj3gunuyn5v4": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": -32,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"jilovlmgjigqylpv": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 32,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"5wcgt0gsoidj0obj": {
+		"definition": "chance_to_ignite+5%",
+		"x": -32,
+		"y": 240.17771198288426,
+		"root": false
+	},
+	"3evsmtusnk0ldkfa": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 32,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"lsbybyh8dzofz8pv": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 0,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"a2fqmn6z6tkmlv9z": {
+		"definition": "resistance+5%",
+		"x": -32,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"owi1dnzyyvulwhff": {
+		"definition": "chance_to_ignite+5%",
+		"x": 32,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"k36on24pi30sihfo": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": -32,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"5wvty7mpfh2yekg7": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 32,
+		"y": 351.0289636672925,
+		"root": false
+	},
+	"fj38a1jrezevttg7": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 0,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"3cyixd0key5pxhtg": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 0,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"1wgufpsrr5nky8j9": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 96,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"kwaq6ldloxcxl3bp": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"og45sbqt5k2ak35y": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 128,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"s08jclsfw0cwbii4": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 160,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"dr4p1dy231bvi5o2": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 192,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"8hj719sphbxryalz": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"k3j8rs1sb4inpx1e": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"3qg3kkhmg6tr0mk4": {
+		"definition": "generic.movement_speed+5%",
+		"x": 224,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"tgzibzdh8yn94atz": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 256,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"i8x8zbv7z1rbp7kt": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": 288,
+		"y": 203.22729475474827,
+		"root": false
+	},
+	"mpsuqo34bueppy9n": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 288,
+		"y": 129.32646029847618,
+		"root": false
+	},
+	"fhiwqmg0mmb5zjxy": {
+		"definition": "chance_to_ignite+5%",
+		"x": 320,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"sgwhiu0ceiglzkqn": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"wzd7lc5cjton3ilz": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"hnj45sj3pw6rad56": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 96,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"uklrbxuhzxdzmxsl": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"2hhbg19oiskx4i51": {
+		"definition": "ranged_damage+5%",
+		"x": 128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"gdq2of4jtabh8vvx": {
+		"definition": "ranged_damage+5%",
+		"x": 160,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"bmhxosk0tv0z18su": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 192,
+		"y": -147.80166891254416,
+		"root": false
+	},
+	"s09e23pguouoictz": {
+		"definition": "ranged_damage+5%",
+		"x": 192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"os0k65ul58tquoet": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 224,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"6b6t01bmz7ou7n23": {
+		"definition": "ranged_damage+5%",
+		"x": 224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"kvaf8yj7no5e3ghg": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 256,
+		"y": -184.75208614068026,
+		"root": false
+	},
+	"fi0bqj37wzo09jjk": {
+		"definition": "generic.movement_speed+5%",
+		"x": 288,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"m61mzyonao9t8678": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": 288,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"a2pj4mrju33dqlal": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": 320,
+		"y": -147.80166891254422,
+		"root": false
+	},
+	"hwn5yf4mgldfwx2w": {
+		"definition": "ranged_damage+5%",
+		"x": 352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"sljxuiqjxmgeewk6": {
+		"definition": "ranged_damage+5%",
+		"x": 320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"fjb5wu9oocqyiket": {
+		"definition": "generic.movement_speed+5%",
+		"x": -32,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"1j7s1ucwd7wies4a": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 32,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"oo0ejnmv37rdvaao": {
+		"definition": "ranged_damage+5%",
+		"x": 0,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"u2t1xh0hz537v1vs": {
+		"definition": "ranged_damage+5%",
+		"x": 0,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"jopznc4f2al92ht8": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": -32,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"hip2iexdpa0t7huh": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 32,
+		"y": -240.17771198288426,
+		"root": false
+	},
+	"t9i4deykw2lkjpg5": {
+		"definition": "ranged_damage+5%",
+		"x": -32,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"jrdfnyebzk7xljhz": {
+		"definition": "ranged_damage+5%",
+		"x": 32,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"3us2h4cjtpiaospa": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -32,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"gkbcth0vvt7nebd9": {
+		"definition": "resistance+5%",
+		"x": 32,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"lxbl3mafsm1tnzp1": {
+		"definition": "chance_to_ignite+5%",
+		"x": -32,
+		"y": -351.0289636672925,
+		"root": false
+	},
+	"nw5xq3tbeid4gufw": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 32,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"flihwq8ybhif5bw5": {
+		"definition": "ranged_damage+5%",
+		"x": 0,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"xnwroaqhi49xxrmr": {
+		"definition": "ranged_damage+5%",
+		"x": 0,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"urgm9emqstd6cjkb": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -128,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"6e7lxb1hi50v19cf": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -96,
+		"y": -92.37604307034012,
+		"root": false
+	},
+	"hdibxgitgprrubvh": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"yo8my0bh3annp41h": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -160,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"9g5de9b93t9oo4c1": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -192,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"hwu2qym33iaj3wu4": {
+		"definition": "chance_to_ignite+5%",
+		"x": -224,
+		"y": -92.3760430703401,
+		"root": false
+	},
+	"bcyxcfrz7zvw95qj": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -192,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"xgbvus1up4muhxis": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -224,
+		"y": -129.32646029847615,
+		"root": false
+	},
+	"fqqt4tf5k6bm0sr2": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -352,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"wlqjxems66vle2cd": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -320,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"4lj7v71szhri21o6": {
+		"definition": "resistance+5%",
+		"x": -320,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"0xlmyvooc9odln6e": {
+		"definition": "chance_to_ignite+5%",
+		"x": -288,
+		"y": -129.32646029847618,
+		"root": false
+	},
+	"sqayrt8o4q4t3eln": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -288,
+		"y": -203.22729475474827,
+		"root": false
+	},
+	"ixtv5qxuck9a1oqb": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": -256,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"bd35tqroq3qhcu4s": {
+		"definition": "generic.movement_speed+5%",
+		"x": -128,
+		"y": 36.95041722813605,
+		"root": false
+	},
+	"aczlbq88qbpembp9": {
+		"definition": "chance_to_ignite+5%",
+		"x": -96,
+		"y": 92.37604307034012,
+		"root": false
+	},
+	"4c1js7oe656fx1hr": {
+		"definition": "generic.movement_speed+5%",
+		"x": -128,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"a58zp1jonqexfzkw": {
+		"definition": "generic.movement_speed+5%",
+		"x": -160,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"bvxf7pxcfabyanbx": {
+		"definition": "generic.movement_speed+5%",
+		"x": -192,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"ds1tfbfk9edul2jt": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -224,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"idnzu6zh75oh28lz": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": -192,
+		"y": 147.80166891254416,
+		"root": false
+	},
+	"e7lo2c1pnkiy381g": {
+		"definition": "generic.movement_speed+5%",
+		"x": -224,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"ef2ps1pca6l17flg": {
+		"definition": "resistance+5%",
+		"x": -288,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"wd7mblssg0f7nkaf": {
+		"definition": "chance_to_ignite+5%",
+		"x": -320,
+		"y": 147.80166891254422,
+		"root": false
+	},
+	"wwvj2nxnmvrktmtm": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -256,
+		"y": 184.75208614068026,
+		"root": false
+	},
+	"m8re5e15lbu4770y": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -288,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"qnc2v64y93kun1cs": {
+		"definition": "generic.movement_speed+5%",
+		"x": -320,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"t4pad8gyfoyi5cmh": {
+		"definition": "generic.movement_speed+5%",
+		"x": -352,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"4ixovujkqwn3ldmh": {
+		"definition": "incoming_healing+5%",
+		"x": -256,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"ddo2w18w4cirq8k1": {
+		"definition": "incoming_healing+5%",
+		"x": -256,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"4t3wl5ggyty7r8fe": {
+		"definition": "incoming_healing+5%",
+		"x": 0,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"rz8erx3hwv1hcgbp": {
+		"definition": "incoming_healing+5%",
+		"x": 256,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"przksfehuda5clu6": {
+		"definition": "incoming_healing+5%",
+		"x": 256,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"tzj88sn9mejh5e8p": {
+		"definition": "incoming_healing+5%",
+		"x": 0,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"a8vwylrtriob4sl0": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"6xwv637sqfbun8gm": {
+		"definition": "generic.movement_speed+5%",
+		"x": -64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"wg3onvihows8lnlm": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 0,
+		"y": 73.9008344562721,
+		"root": true
+	},
+	"4s70pndxbsydp7fa": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 64,
+		"y": 36.95041722813605,
+		"root": true
+	},
+	"a1tjnv5lfytpyv11": {
+		"definition": "ranged_damage+5%",
+		"x": 64,
+		"y": -36.95041722813605,
+		"root": true
+	},
+	"ww7v4hrupmi70jzg": {
+		"definition": "ranged_damage+5%",
+		"x": 0,
+		"y": -73.9008344562721,
+		"root": true
+	},
+	"rmbvaehgeh3i1tk0": {
+		"definition": "chance_to_ignite+5%",
+		"x": -320,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"584owot0rrlc42xf": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": -352,
+		"y": -92.3760430703401,
+		"root": false
+	},
+	"ofqigallc869j5lw": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -352,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"p6khhwnm6ojrik9b": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -320,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"jwcf3ujq7j050aa6": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": -384,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"p32r36ctva15pq8b": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -384,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"a9fbvfbm8eol2l0j": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -416,
+		"y": -55.425625842204084,
+		"root": false
+	},
+	"sn6qba6d8o0n6y4r": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": -416,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"07blw8ne0aqnfy5r": {
+		"definition": "chance_to_ignite+5%",
+		"x": -448,
+		"y": 0,
+		"root": false
+	},
+	"e23xkcya1eo5njlg": {
+		"definition": "generic.movement_speed+5%",
+		"x": -448,
+		"y": -36.95041722813602,
+		"root": false
+	},
+	"ceb3fbhv564q8d78": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -448,
+		"y": 36.950417228136075,
+		"root": false
+	},
+	"m3ly6e3q5exm0aal": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -320,
+		"y": 0,
+		"root": false
+	},
+	"22ee85oppf2k0qsb": {
+		"definition": "resistance+5%",
+		"x": -384,
+		"y": 0,
+		"root": false
+	},
+	"inapmaacsjfy5cyg": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": -352,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"elqvk0o7j1g9zhor": {
+		"definition": "damage_per_enchantment+5%",
+		"x": -352,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"uf3cb1ajim2upd99": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -256,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"lxrfrrgs8qq6pn44": {
+		"definition": "chance_to_ignite+5%",
+		"x": -256,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"p4bvx0b7fqs86hqi": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -256,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"nlfwv7umbb89999i": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": -256,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"44ukogymqy9a60ha": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -256,
+		"y": 369.5041722813604,
+		"root": false
+	},
+	"ac4zpurm4lm94rn6": {
+		"definition": "chance_to_ignite+5%",
+		"x": -224,
+		"y": 387.97938089542845,
+		"root": false
+	},
+	"p0dzfw4mbadfnt2q": {
+		"definition": "generic.movement_speed+5%",
+		"x": -192,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"kx9j7hjuohqxs4i8": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -160,
+		"y": 387.9793808954285,
+		"root": false
+	},
+	"prvcbck6ofxix8tz": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": -128,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"5lkza76lyao31g7x": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": -96,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"2qewxdwze2l1u4id": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -64,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"4ix03u8g9f1104uj": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -160,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"x9z78ox9i6jb04go": {
+		"definition": "resistance+5%",
+		"x": -192,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"rqpihj8atj5sujqt": {
+		"definition": "damage_per_enchantment+5%",
+		"x": -160,
+		"y": 314.07854643915636,
+		"root": false
+	},
+	"v3uyc3k4mzhpoaln": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": -192,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"2ds4brgqw0rjd5s6": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 64,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"soiyb1s4jmfie96o": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 96,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"tslv0p3mx4qqd4f3": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 128,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"kgywhydwf6zw3jcr": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 160,
+		"y": 387.9793808954285,
+		"root": false
+	},
+	"megf50bmqa19khbf": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 192,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"eukapc4jaogvc5j4": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 256,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"aczbrnfj9ta6sxyw": {
+		"definition": "chance_to_ignite+5%",
+		"x": 256,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"nnf7zs50hk38rn11": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": 256,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"aql6zqyr9temqf1p": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 256,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"tf2wy0e3tzpveth8": {
+		"definition": "generic.movement_speed+5%",
+		"x": 256,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"g7s1rzrv3hssqt3g": {
+		"definition": "chance_to_ignite+5%",
+		"x": 224,
+		"y": 387.97938089542845,
+		"root": false
+	},
+	"kxc0zwxfp7myd8zx": {
+		"definition": "resistance+5%",
+		"x": 192,
+		"y": 332.55375505322445,
+		"root": false
+	},
+	"zrsl7fjdwf9kk0fx": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": 160,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"yx28sgmmgz7q7nq7": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": 160,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"ex0y24ba82ctqyp5": {
+		"definition": "damage_per_enchantment+5%",
+		"x": 192,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"jmlv64aka7dofl9f": {
+		"definition": "incoming_healing+5%",
+		"x": 224,
+		"y": -55.425625842204084,
+		"root": false
+	},
+	"52zhdh1enj8zy2xq": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 320,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"6b4p3kwduasvjb3v": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 352,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"xm6mk45odjjk9c6c": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 384,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"y0t5vfrisonwvyat": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 416,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"r7c04gkfxibg077m": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": 36.95041722813602,
+		"root": false
+	},
+	"i6tyy63hoc2vn23s": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": 0,
+		"root": false
+	},
+	"w3c0x1pp7ahyn1q4": {
+		"definition": "arrow_life_steal+5%",
+		"x": 448,
+		"y": -36.950417228136075,
+		"root": false
+	},
+	"01clcwlehbrhecig": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": 416,
+		"y": -55.425625842204056,
+		"root": false
+	},
+	"5kxqzamobeuduarb": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 384,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"tvdymlmlpf2g9vu5": {
+		"definition": "chance_to_ignite+5%",
+		"x": 352,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"a27btwjla03d79ja": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 320,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"b467clvopry00k45": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"qp11hillgc9xbuw6": {
+		"definition": "resistance+5%",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"g2bzyqyq4euhz2xx": {
+		"definition": "damage_per_enchantment+5%",
+		"x": 352,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"06ou36f36r3bszbl": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": 352,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"25w8gi3q6z6qwutk": {
+		"definition": "generic.attack_knockback+5%",
+		"x": 256,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"m18n2md7zb9yu3zm": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": 256,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"8uoehcc1vuepjuj9": {
+		"definition": "projectile_crit_chance+5%",
+		"x": 256,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"0c7jvamens42n6gy": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": 256,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"ywo8gqvnqm59n16h": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 256,
+		"y": -369.5041722813604,
+		"root": false
+	},
+	"tzfpcz0tiv7ue6hu": {
+		"definition": "chance_to_ignite+5%",
+		"x": 224,
+		"y": -387.97938089542845,
+		"root": false
+	},
+	"jgaymjesxok2jq8v": {
+		"definition": "generic.movement_speed+5%",
+		"x": 192,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"zfo828o08t63ung5": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": 160,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"5sujkcvqcay61bzk": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": 128,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"fxrdl0tya3kyykva": {
+		"definition": "chance_to_ignite+5%",
+		"x": 96,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"t1bldtgcpbahsb89": {
+		"definition": "projectile_crit_damage+5%",
+		"x": 64,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"gzgddebttbppulpr": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": 160,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"jpcm2pmwsjcu5ikd": {
+		"definition": "resistance+5%",
+		"x": 192,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"5t1yqwcy62jds3o8": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": 160,
+		"y": -314.07854643915636,
+		"root": false
+	},
+	"4v51ecmx47ls06gw": {
+		"definition": "damage_per_enchantment+5%",
+		"x": 192,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"2vaqka70wmrvw48k": {
+		"definition": "chance_to_ignite+5%",
+		"x": -256,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"kmwf4v18bsfoge2h": {
+		"definition": "attack_speed_with_enchanted_weapon+5%",
+		"x": -256,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"p3ve4fvbmn3o7ivv": {
+		"definition": "damage_per_distance_to_enemy+5%",
+		"x": -256,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"xkyu02vtnmt207wh": {
+		"definition": "crafted_boots_sockets+5%",
+		"x": -256,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"jrp3e375awbg474c": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -256,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"bc5l36k7p864qhjc": {
+		"definition": "chance_to_ignite+5%",
+		"x": -224,
+		"y": -387.97938089542845,
+		"root": false
+	},
+	"9refjenfj3lj0ojq": {
+		"definition": "generic.movement_speed+5%",
+		"x": -192,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"4qk4ggg8pqfynrnv": {
+		"definition": "projectile_crit_damage+5%",
+		"x": -64,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"qo10y1bzp80yat9v": {
+		"definition": "generic.attack_knockback+5%",
+		"x": -96,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"tzxi38svf8nn41a2": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -128,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"cx5ujclxcdsm4ekp": {
+		"definition": "crit_damage_per_enchantment+5%",
+		"x": -160,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"8wykq452fpe6pyw0": {
+		"definition": "resistance+5%",
+		"x": -192,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"7aqda9oba9067m67": {
+		"definition": "crit_chance_with_enchanted_weapon+5%",
+		"x": -160,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"pp02usjr1q28akj3": {
+		"definition": "damage_per_enchantment+5%",
+		"x": -192,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"1nj4mwpe8wmb5b5k": {
+		"definition": "chance_to_retrieve_arrows+5%",
+		"x": -160,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"ravlrnsl2rbykx1b": {
+		"definition": "ranged_damage+5%",
+		"x": -160,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"b7pvmb6e11xw7m1d": {
+		"definition": "ranged_damage+5%",
+		"x": -128,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"mmz2skdjm2kuuesf": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -288,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"3gsq38we18m5i1it": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -288,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"jeadnamssylhnr7h": {
+		"definition": "generic.movement_speed+5%",
+		"x": -160,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"86zl4vql3ir02rw8": {
+		"definition": "generic.movement_speed+5%",
+		"x": -128,
+		"y": 258.65292059695236,
+		"root": false
+	},
+	"w8u4ywdkavrw7qzs": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 160,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"q8v0jkhxlvls1yii": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 128,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"djvo788jlxofaci3": {
+		"definition": "crafted_ranged_weapon_sockets+5%",
+		"x": 288,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"vl1gq14y42hz4y8j": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 288,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"7zw0qqt46whp3miw": {
+		"definition": "ranged_damage+5%",
+		"x": 128,
+		"y": -258.65292059695236,
+		"root": false
+	},
+	"hzmdg9my9qn4eie3": {
+		"definition": "ranged_damage+5%",
+		"x": 160,
+		"y": -240.17771198288432,
+		"root": false
+	},
+	"8xgkwio5rpyw387m": {
+		"definition": "ranged_damage+5%",
+		"x": -96,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"n8m4ce0k91aiqmz6": {
+		"definition": "ranged_damage+5%",
+		"x": -128,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"58dwzxeqyjb8bebf": {
+		"definition": "ranged_damage+5%",
+		"x": -96,
+		"y": -166.27687752661222,
+		"root": false
+	},
+	"asjkdqurufxnj3wh": {
+		"definition": "ranged_damage+5%",
+		"x": -224,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"z51ekith2qcdmqui": {
+		"definition": "ranged_damage+5%",
+		"x": -224,
+		"y": 18.475208614068038,
+		"root": false
+	},
+	"uicfkcs40gpm9r35": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"1f18dl3ph4juwot8": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -128,
+		"y": 184.7520861406802,
+		"root": false
+	},
+	"3u267ml00lqduv0a": {
+		"definition": "projectile_crit_chance+5%",
+		"x": -96,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"vnyxjnavfiqp3l0f": {
+		"definition": "generic.movement_speed+5%",
+		"x": -96,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"ckee5y1vr7qufdse": {
+		"definition": "generic.movement_speed+5%",
+		"x": 96,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"s3o3r0zl6dylr3kg": {
+		"definition": "generic.movement_speed+5%",
+		"x": 128,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"5cjeej71qqkkfhdr": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 96,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"xjr0f9v1nb69v5j1": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 224,
+		"y": 18.47520861406801,
+		"root": false
+	},
+	"wwcqvf22e0c3i6ar": {
+		"definition": "attack_speed_with_ranged_weapon+5%",
+		"x": 224,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"ki5u99omta9veysl": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"5s44xd1ui8c4zk65": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 128,
+		"y": -184.7520861406802,
+		"root": false
+	},
+	"znbqmbr1kagoapzp": {
+		"definition": "crafted_ranged_weapon_attack_speed+5%",
+		"x": 96,
+		"y": -203.22729475474824,
+		"root": false
+	},
+	"518uwqm5ncv323qj": {
+		"definition": "ranged_damage+5%",
+		"x": 96,
+		"y": -166.27687752661222,
+		"root": false
+	}
+}

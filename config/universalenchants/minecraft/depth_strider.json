@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "alexsmobs:pigshoes",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "finsandtails:fluked_edge",
+    "nikgubs_blades_plus:crushing_blow",
+    "minecraft:frost_walker"
+  ]
+}

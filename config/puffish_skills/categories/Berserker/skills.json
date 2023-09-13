@@ -1,0 +1,38 @@
+{
+	"l5605ttikbt97qlc": {
+		"definition": "trial_bloodlust",
+		"x": 0,
+		"y": -110.85125168440814,
+		"root": true
+	},
+	"lttyjt1lexu6oqfh": {
+		"definition": "trial_surge",
+		"x": 96,
+		"y": -55.42562584220407,
+		"root": true
+	},
+	"knh3of0hnskn2iyy": {
+		"definition": "trial_restoration",
+		"x": 0,
+		"y": 110.85125168440814,
+		"root": true
+	},
+	"o72dv1fd3zk2c6xs": {
+		"definition": "trial_shadow_form",
+		"x": 96,
+		"y": 55.42562584220407,
+		"root": true
+	},
+	"uqsv108deac4hdf1": {
+		"definition": "trial_strike",
+		"x": -96,
+		"y": 55.42562584220407,
+		"root": true
+	},
+	"pngdqc2taenvujgl": {
+		"definition": "trial_blood_oath",
+		"x": -96,
+		"y": -55.42562584220407,
+		"root": true
+	}
+}

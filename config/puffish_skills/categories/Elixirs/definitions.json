@@ -1,0 +1,207 @@
+{
+    "relic_evasion": {
+        "title": "Challenge: Evasion",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:evasion_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_speed": {
+        "title": "Challenge: Speed",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:speed_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_resistance": {
+        "title": "Challenge: Resistance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:resistance_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_regeneration": {
+        "title": "Challenge: Regeneration",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:regeneration_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_heartstop": {
+        "title": "Challenge: Heartstop",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:shadow_form_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_strength": {
+        "title": "Challenge: Strength",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:strength_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_endurance": {
+        "title": "Challenge: Endurance",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:endurance_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_dragonsbreath": {
+        "title": "Challenge: Dragons Breath",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:fire_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_absorption": {
+        "title": "Challenge: Absorption",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:absorption_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_charged": {
+        "title": "Challenge: Charged",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:charged_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_soulsteal": {
+        "title": "Challenge: Soul Steal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:soul_steal_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    },
+    "relic_angelwings": {
+        "title": "Challenge: Angel Wings",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "kubejs:textures/icons/relic.png"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "give @s kubejs:angel_wings_elixir_relic{Enchantments:[{id:\"ensorcellation:soulbound\",lvl:2s}]}"
+                }
+            }
+        ]
+    }
+
+}

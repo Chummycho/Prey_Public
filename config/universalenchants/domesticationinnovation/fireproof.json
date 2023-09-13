@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "nikgubs_blades_plus:crushing_blow",
+    "dungeons_gear:velocity",
+    "domesticationinnovation:amphibious",
+    "domesticationinnovation:poison_resistance",
+    "domesticationinnovation:frost_fang"
+  ]
+}

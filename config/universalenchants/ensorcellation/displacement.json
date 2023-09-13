@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "ensorcellation:frost_rebuke",
+    "dungeons_gear:velocity",
+    "ensorcellation:fire_rebuke",
+    "nikgubs_blades_plus:crushing_blow",
+    "minecraft:thorns"
+  ]
+}

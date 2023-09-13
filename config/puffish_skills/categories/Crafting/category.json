@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": false,
+	"exclusive_root": true,
+	"title": "Crafting",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "irons_spellbooks:arcane_anvil"
+		}
+	},
+	"background": "textures/block/jungle_planks.png"
+}

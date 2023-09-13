@@ -1,0 +1,388 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_2a"
+	group: "52883199DCF886CE"
+	id: "02EA240931F72723"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["441CE71B00CBD8E3"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "cataclysm:witherite_ingot"
+			}
+			id: "2216E6809641F693"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18F77876891004D9"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "73C4B385FD7490E2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "71D7F6CB7E71F907"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "6670A2EC88D73C65"
+				title: "Use the Nether Star to activate The Harbinger"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7E2813723B90EEBF"]
+			id: "441CE71B00CBD8E3"
+			rewards: [{
+				id: "5A8052318389CC98"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "16662C111BDEDBBF"
+				structure: "cataclysm:ancient_factory"
+				type: "structure"
+			}]
+			title: "In the Overworld, find the Ancient Factory"
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["08FCBE3AB25665A2"]
+			id: "7E2813723B90EEBF"
+			rewards: [{
+				id: "71D9B5528829E29F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D1D2B9E8E13F185"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "minecraft:nether_star"
+				}
+				type: "item"
+			}]
+			title: "Collect the Nether Star"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4A73305964E96688"]
+			hide: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "minecraft:wither_rose"
+			}
+			id: "08FCBE3AB25665A2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C2A3ABFE7627762"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "1777BF461FA82464"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "751A6DB704574DB0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "5E8A18E90722E57B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"3F1396780B6CCDEA"
+				"359D2E52EDCAA7B8"
+			]
+			id: "4A73305964E96688"
+			rewards: [{
+				id: "31FCF9D7C24DBF68"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "01B2A1973806332D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:soul_sand"
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "3ECD9306969DDFFD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+			]
+			title: "Spawn The Wither"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["136666FFC7C06EEF"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "mutantmore:mutant_blaze_core"
+			}
+			id: "3F1396780B6CCDEA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4902D3C68EB2CDD6"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "493E8B178989F9A4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "39E132B875DC345B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mutantmore:mutant_blaze"
+				id: "77B51A496EB9F4DB"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Throw a bottle of Compound Z on a Blaze"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["136666FFC7C06EEF"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": { }
+				}
+				id: "mutantmore:mutant_wither_skeleton_skull"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "359D2E52EDCAA7B8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1CEE4F1485214863"
+					table_id: 2259459421665114719L
+					type: "choice"
+				}
+				{
+					id: "52C84B87469311F5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:subclass_skill_point"
+					}
+					type: "item"
+				}
+				{
+					id: "385FBD0D35E6B086"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": { }
+						}
+						id: "kubejs:torn_page"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "mutantmore:mutant_wither_skeleton"
+				id: "1BA3E7EE3C561950"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Throw a bottle of Compound Z on a Wither Skeleton"
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0A5AA1D86330B8F0"]
+			id: "136666FFC7C06EEF"
+			rewards: [{
+				id: "15D4744CD528A855"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "722E00A029FD983E"
+				structure: "betterfortresses:fortress"
+				type: "structure"
+			}]
+			title: "Seek out a Nether Fortress"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["49A897DD0A08372C"]
+			id: "0A5AA1D86330B8F0"
+			rewards: [{
+				id: "26F1058CBB407AF5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "56DF21AEB8C4E23E"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2326924DE94DE852"]
+			id: "49A897DD0A08372C"
+			rewards: [{
+				id: "3812BF6152C89E88"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "kubejs:torn_page"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E592FF7FDE8DCC3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": { }
+					}
+					id: "mutantmore:compound_z"
+				}
+				type: "item"
+			}]
+			title: "Craft Compound Z"
+			x: -2.0d
+			y: -4.5d
+		}
+	]
+	title: "Chapter 2a: The Mutants"
+}

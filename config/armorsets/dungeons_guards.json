@@ -1,0 +1,47 @@
+{
+  "armorSetName": "Guard",
+  "head": {
+    "itemKey": "dungeons_gear:guards_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "dungeons_gear:guards_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "dungeons_gear:guards_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "dungeons_gear:guards_boots",
+    "mustBeEmpty": false
+  },
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "dungeons_libraries:artifact_cooldown_multiplier",
+      "value": 1.1,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd245",
+      "description": "+10% Artifact Cooldown Multiplier",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "dungeons_libraries:artifact_cooldown_multiplier",
+      "value": 1.2,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd246",
+      "description": "+20% Artifact Cooldown Multiplier",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

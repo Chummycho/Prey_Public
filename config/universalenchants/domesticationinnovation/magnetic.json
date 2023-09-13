@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:pet"
+  ],
+  "incompatible": [
+    "domesticationinnovation:shadow_hands",
+    "domesticationinnovation:psychic_wall",
+    "nikgubs_blades_plus:crushing_blow",
+    "domesticationinnovation:herding",
+    "domesticationinnovation:intimidation",
+    "dungeons_gear:velocity",
+    "domesticationinnovation:chain_lightning",
+    "domesticationinnovation:vampire"
+  ]
+}

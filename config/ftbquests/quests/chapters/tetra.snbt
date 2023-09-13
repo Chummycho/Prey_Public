@@ -1,0 +1,2034 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tetra"
+	group: ""
+	icon: {
+		Count: 1
+		id: "tetra:scroll_rolled"
+		tag: {
+			BlockEntityTag: {
+				data: [{
+					details: "warforge"
+					glyphs: [
+						9
+						8
+						11
+						10
+					]
+					intricate: 0b
+					key: "warforge/hammer"
+					material: 2
+					ribbon: "3d4299"
+					schematics: ["tetra:warforge/hammer"]
+				}]
+			}
+		}
+	}
+	id: "2663F30ACA442E92"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1B37A0AF9CF68F4B"]
+			id: "1FF7E4288C97EC7B"
+			rewards: [{
+				id: "5609BD6E43DAAD9A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:story/more_upgrades"
+				criterion: ""
+				id: "4D7E75876131615E"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"1FF7E4288C97EC7B"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3CEB736A20071F34"
+			rewards: [{
+				id: "6C25C0750B3AAE9F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/toolbelt"
+				criterion: ""
+				id: "667A9E74E593E63F"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"1FF7E4288C97EC7B"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "012389CE06AA9627"
+			rewards: [{
+				id: "035C2C9FE9D76B9F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/workbench"
+				criterion: ""
+				id: "0E2BC845046274B0"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -19.0d
+		}
+		{
+			dependencies: [
+				"1FF7E4288C97EC7B"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "6D8ACEF656FF3C12"
+			rewards: [{
+				id: "68DC9F831202EB37"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/repairs"
+				criterion: ""
+				id: "57487D834C4A544F"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"6D8ACEF656FF3C12"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "43010F1CC2650D4F"
+			rewards: [{
+				id: "71D697B682FE7243"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/double_headed"
+				criterion: ""
+				id: "7946A3163F5CF483"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: -21.5d
+		}
+		{
+			dependencies: [
+				"012389CE06AA9627"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "408C0C1C0019F2E0"
+			rewards: [{
+				id: "084BA3DE04D43311"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/sword_upgrade"
+				criterion: ""
+				id: "2DF46CF80AF5C8C5"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -21.0d
+		}
+		{
+			dependencies: [
+				"408C0C1C0019F2E0"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "31061438AF4704EA"
+			rewards: [{
+				id: "166FF99659F1AA11"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/sword_integrity"
+				criterion: ""
+				id: "794CD1BC01D32BF7"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -22.0d
+		}
+		{
+			dependencies: [
+				"408C0C1C0019F2E0"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "33FED4AB9B4BF245"
+			rewards: [{
+				id: "5B9354949EA43514"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/sword_hone"
+				criterion: ""
+				id: "23F5E56B6E3C01DB"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -21.0d
+		}
+		{
+			dependencies: [
+				"33FED4AB9B4BF245"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "4FE5F32DE4E33E97"
+			rewards: [{
+				id: "3E6E8F04719E37BB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/sword_hone_peak"
+				criterion: ""
+				id: "1BA3999D48593586"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -21.5d
+		}
+		{
+			dependencies: [
+				"33FED4AB9B4BF245"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "58563ADF2B5648C4"
+			rewards: [{
+				id: "334EE467D0170A75"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/sword_improvement_hone"
+				criterion: ""
+				id: "72F5A23734A8D2F7"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"408C0C1C0019F2E0"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "7A168B799FBCC0D2"
+			rewards: [{
+				id: "282D3EA52B303075"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/rapier_upgrade"
+				criterion: ""
+				id: "7EBF808CD17884DD"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"7A168B799FBCC0D2"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "58855F0E75BD9141"
+			rewards: [{
+				id: "73FBA3893E50DC27"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/bastard_upgrade"
+				criterion: ""
+				id: "600C52F230DA1458"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -19.5d
+		}
+		{
+			dependencies: [
+				"7A168B799FBCC0D2"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "2FEBC37F6EE73282"
+			rewards: [{
+				id: "7E981C01A8DBABA0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/katana_upgrade"
+				criterion: ""
+				id: "394BE873F4F0D48D"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"7A168B799FBCC0D2"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "011C50911AACED0C"
+			rewards: [{
+				id: "05D44766FB33AFAB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/executioner_upgrade"
+				criterion: ""
+				id: "55A0AEAF5276ABA6"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -17.5d
+		}
+		{
+			dependencies: [
+				"2FEBC37F6EE73282"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3E1FF6DF236C7A41"
+			rewards: [{
+				id: "51A7BAFA1A88C316"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/crucible_upgrade"
+				criterion: ""
+				id: "675B169DA989720B"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -19.5d
+		}
+		{
+			dependencies: [
+				"2FEBC37F6EE73282"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "14D9AD5553C5F603"
+			rewards: [{
+				id: "65E57C9AB9C514FC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/rending_scissor_purple_upgrade"
+				criterion: ""
+				id: "31DE70A7EC0C6304"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"2FEBC37F6EE73282"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "280F7C13CE7B0231"
+			rewards: [{
+				id: "18DA4F3DDCA51B92"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/rending_scissor_red_upgrade"
+				criterion: ""
+				id: "604D9190DE6F9C91"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -17.5d
+		}
+		{
+			dependencies: [
+				"012389CE06AA9627"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3934E848044CADCF"
+			rewards: [{
+				id: "00F782466229FFC9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/shield_upgrade"
+				criterion: ""
+				id: "264F1C12459E4627"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -20.0d
+		}
+		{
+			dependencies: [
+				"012389CE06AA9627"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "65B97DFE43D20F9D"
+			rewards: [{
+				id: "7F4ACF2537A899DC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/bow_upgrade"
+				criterion: ""
+				id: "1ED0296AF4EB3B19"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -18.0d
+		}
+		{
+			dependencies: [
+				"012389CE06AA9627"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "6098634D88EB52C2"
+			rewards: [{
+				id: "5B76835D55CE08C5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_2"
+				criterion: ""
+				id: "7F52761D2D0A36AF"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -17.0d
+		}
+		{
+			dependencies: [
+				"6098634D88EB52C2"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "563EEEF8CF8AADB9"
+			rewards: [{
+				id: "5D2086FCDE4698AB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_3"
+				criterion: ""
+				id: "289DC0EEF0FA964A"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"563EEEF8CF8AADB9"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "42DD075C1EA4B48B"
+			rewards: [{
+				id: "564D71B1C47E16F4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_4"
+				criterion: ""
+				id: "3C3D10C057E838DA"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"42DD075C1EA4B48B"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "596735CCACFCD451"
+			rewards: [{
+				id: "38205D1DDD25B84F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_5"
+				criterion: ""
+				id: "6F400E2DA4D38967"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"596735CCACFCD451"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "74B29EA1ED8D0F81"
+			rewards: [{
+				id: "753EE82D06DE3B37"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_6"
+				criterion: ""
+				id: "728365F06FC4BD57"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"012389CE06AA9627"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "69EBE40C1FB35AD5"
+			rewards: [{
+				id: "063986F81B42EC59"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/tool_upgrade"
+				criterion: ""
+				id: "1F8764324021954D"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -19.0d
+		}
+		{
+			dependencies: [
+				"012389CE06AA9627"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3FAE387EA213E3C5"
+			rewards: [{
+				id: "478D6902F1A5228D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:upgrades/rack"
+				criterion: ""
+				id: "3D6EAECCD05E37CD"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -16.0d
+		}
+		{
+			dependencies: [
+				"1FF7E4288C97EC7B"
+				"78397796750C6E37"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "0AF91AF76920FF2C"
+			rewards: [{
+				id: "04DFFB3127346393"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:scrolls/root"
+				criterion: ""
+				id: "3FA747871300E7F8"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -17.0d
+		}
+		{
+			dependencies: [
+				"0AF91AF76920FF2C"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "6D016B293DFA5A7B"
+			rewards: [{
+				id: "143489EAD2178AA3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:scrolls/find_scroll_halberd"
+				criterion: ""
+				id: "5297AE23F2B4894C"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -15.0d
+		}
+		{
+			dependencies: [
+				"0AF91AF76920FF2C"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "551B2E1860847A2C"
+			rewards: [{
+				id: "48B70B8277261BCE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:scrolls/find_scroll_key_guard"
+				criterion: ""
+				id: "62EDEF57C4480CFD"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -19.0d
+		}
+		{
+			dependencies: [
+				"0AF91AF76920FF2C"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "4BA70B6D13BADBA2"
+			rewards: [{
+				id: "17E944BFF621E208"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:scrolls/find_scroll_dreadnought_stave"
+				criterion: ""
+				id: "331CDE944560FBAB"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"0AF91AF76920FF2C"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "1DB3AAE6EDBA18BE"
+			rewards: [{
+				id: "087F02452293D8B2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:scrolls/find_scroll_mace"
+				criterion: ""
+				id: "5817C96D852D41DB"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"1FF7E4288C97EC7B"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "78397796750C6E37"
+			rewards: [{
+				id: "16A7FD32F3220942"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/root"
+				criterion: ""
+				id: "5B8118CB3ADDB6A4"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: -17.0d
+		}
+		{
+			dependencies: [
+				"78397796750C6E37"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "401E4F5F868044DD"
+			rewards: [{
+				id: "5282A6F029FC4267"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll"
+				criterion: ""
+				id: "191AA73B83E0C8B3"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -17.0d
+		}
+		{
+			dependencies: [
+				"401E4F5F868044DD"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "2771E1A43D2F9F62"
+			rewards: [{
+				id: "37B2DCCFA8AEE8AF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_sturdy"
+				criterion: ""
+				id: "5A8C2091722714B3"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: -17.5d
+		}
+		{
+			dependencies: [
+				"401E4F5F868044DD"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "7C8E6C3778FD14AA"
+			rewards: [{
+				id: "7312A502F3ED57A4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_warforge"
+				criterion: ""
+				id: "5E63BDADE2A4FB87"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"401E4F5F868044DD"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "7595FF36A7E5948D"
+			rewards: [{
+				id: "778A8BF1752B82CB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_throwing"
+				criterion: ""
+				id: "59D41ABA70EF9537"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"401E4F5F868044DD"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "4A611F58EC0095BA"
+			rewards: [{
+				id: "02834FE594E97C29"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_howling"
+				criterion: ""
+				id: "7E1850862C1FD57E"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -15.0d
+		}
+		{
+			dependencies: [
+				"401E4F5F868044DD"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "2613FC150A9E81A4"
+			rewards: [{
+				id: "37CA7F315D48D000"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_gild"
+				criterion: ""
+				id: "699AC86E2B393CA0"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -18.5d
+		}
+		{
+			dependencies: [
+				"401E4F5F868044DD"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "6591648751497301"
+			rewards: [{
+				id: "18F834E6F9345C59"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_efficiency"
+				criterion: ""
+				id: "1A63EF8A6EFD5808"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -19.0d
+		}
+		{
+			dependencies: [
+				"6591648751497301"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "0021ABDA3626FBCE"
+			rewards: [{
+				id: "43DD535B620B93FB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_scroll_expertise"
+				criterion: ""
+				id: "77C803831579189B"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"78397796750C6E37"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3907C34743C0622E"
+			rewards: [{
+				id: "5B74E4DE7B3A1687"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/ancient_ruins"
+				criterion: ""
+				id: "759336C28F9DE35B"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"78397796750C6E37"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "078AD8B7F6B0F651"
+			rewards: [{
+				id: "4FDD4EEEC3BB34FD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/geode"
+				criterion: ""
+				id: "6D245808C09F546E"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"078AD8B7F6B0F651"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "1B50C33310E13270"
+			rewards: [{
+				id: "517FD3DDF539210B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/geode_open"
+				criterion: ""
+				id: "57D47C378C638C70"
+				type: "advancement"
+			}]
+			x: 16.5d
+			y: -15.0d
+		}
+		{
+			dependencies: [
+				"1B50C33310E13270"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "2FEC1DAC33FE934D"
+			rewards: [{
+				id: "1A4358377DDFAAE3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/pristine_socket"
+				criterion: ""
+				id: "0AA32D77EB194828"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: -15.0d
+		}
+		{
+			dependencies: [
+				"3907C34743C0622E"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3E9EA28BFEE60B88"
+			rewards: [{
+				id: "21C7CF1E2E817AF7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_cell"
+				criterion: ""
+				id: "1F168D710A1E2C85"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"3E9EA28BFEE60B88"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "16084BFFA5B15CBF"
+			rewards: [{
+				id: "4E2CBA089452EA8F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_fix"
+				criterion: ""
+				id: "2178F0DDA33F5CBF"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"3907C34743C0622E"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "05D582FB149CD56E"
+			rewards: [{
+				id: "40D0CEBE6AA5DAD5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/scanner"
+				criterion: ""
+				id: "400F5DC1710346A9"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"3907C34743C0622E"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "487670C9B1899488"
+			rewards: [{
+				id: "28167D6F476807DB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/containers"
+				criterion: ""
+				id: "53932DAD8DABAEF4"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"3E9EA28BFEE60B88"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "72F79EBEE574A73C"
+			rewards: [{
+				id: "4EDD218255801A97"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/refill_cell"
+				criterion: ""
+				id: "37FA9EB3CF85148E"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"16084BFFA5B15CBF"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "79A50D965FB32D2A"
+			rewards: [{
+				id: "32ABDE1CA3F86192"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_remove"
+				criterion: ""
+				id: "24A8A7972CD88720"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -11.5d
+		}
+		{
+			dependencies: [
+				"16084BFFA5B15CBF"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "798889A589D244AC"
+			rewards: [{
+				id: "2057FF254EE76CA7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_craft"
+				criterion: ""
+				id: "6646A5BCDE26D1DA"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -11.5d
+		}
+		{
+			dependencies: [
+				"798889A589D244AC"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "4BFCFE0CAE3296BE"
+			rewards: [{
+				id: "72549D5A1F2296AF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_jam"
+				criterion: ""
+				id: "190EFC0A128F3429"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"4BFCFE0CAE3296BE"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "3E1BD50E9D4749EF"
+			rewards: [{
+				id: "77FF4EA6C1B36935"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_unjam"
+				criterion: ""
+				id: "7DBC97AD9E9A1522"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"16084BFFA5B15CBF"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "7E530D2DE674252D"
+			rewards: [{
+				id: "26C0B13631DDAA4C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_power"
+				criterion: ""
+				id: "0946D353C1570D6A"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -11.5d
+		}
+		{
+			dependencies: [
+				"7E530D2DE674252D"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "573D1AB6EB90A2E7"
+			rewards: [{
+				id: "62995429712B7D8F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/loot_ruins"
+				criterion: ""
+				id: "47C4F45A90981DFE"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"487670C9B1899488"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "583FF4EDFE3B8112"
+			rewards: [{
+				id: "733DAAFCC426D7EA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_planar"
+				criterion: ""
+				id: "2CF14AE3A5328167"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"487670C9B1899488"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "0410DC18A44A06A2"
+			rewards: [{
+				id: "5BE0369E8AD466D5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_bolt"
+				criterion: ""
+				id: "094E2E41B892EA3F"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"487670C9B1899488"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "26CB42497C018026"
+			rewards: [{
+				id: "64F3203BE2086C47"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/find_latch"
+				criterion: ""
+				id: "71A451F7BEB011EA"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"487670C9B1899488"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "4FC15337ACC719E6"
+			rewards: [{
+				id: "5C4E116E78E51E84"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/earthpiercer"
+				criterion: ""
+				id: "3CB9437646901C2E"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"487670C9B1899488"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "43D87A3370196FD7"
+			rewards: [{
+				id: "0C462CFE0980B3DF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_extractor"
+				criterion: ""
+				id: "2EC067CBE26485FB"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"487670C9B1899488"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "1574192CBBB8525A"
+			rewards: [{
+				id: "4994B8DE65E62870"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/stonecutter"
+				criterion: ""
+				id: "1080160F25430753"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -13.5d
+		}
+		{
+			dependencies: [
+				"583FF4EDFE3B8112"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "1BB64475C242FF5F"
+			rewards: [{
+				id: "6CC47B02E165EC65"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/suspend_bow"
+				criterion: ""
+				id: "58722B99357F4CA7"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"583FF4EDFE3B8112"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "5DEE900A3815A485"
+			rewards: [{
+				id: "555378D3EE3B4E33"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/suspend_belt"
+				criterion: ""
+				id: "1F28BE2C5DBA35C1"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"0410DC18A44A06A2"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "0E678576399A4608"
+			rewards: [{
+				id: "3230A44D820213AA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/use_bolt"
+				criterion: ""
+				id: "5CF54540A9BF2C55"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"43D87A3370196FD7"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "1A07308F6BEC3A73"
+			rewards: [{
+				id: "158E1F08A4F03755"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_hammer"
+				criterion: ""
+				id: "5E50C702054B9B0E"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"43D87A3370196FD7"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "082B14CFD1AF1BC8"
+			rewards: [{
+				id: "2B8CE2A06D65C21D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_crossbow"
+				criterion: ""
+				id: "5F7F8A1D59F61CD5"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"43D87A3370196FD7"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "399E586F75D79B59"
+			rewards: [{
+				id: "401A74B281F3705A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_module"
+				criterion: ""
+				id: "42226F25EE3D23AE"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"1A07308F6BEC3A73"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "0C87C80C5EE13470"
+			rewards: [{
+				id: "1E72DA4330D6954A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_automation"
+				criterion: ""
+				id: "130F316E991FE7B2"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -11.5d
+		}
+		{
+			dependencies: [
+				"082B14CFD1AF1BC8"
+				"1B37A0AF9CF68F4B"
+			]
+			id: "628D98979FDB64DA"
+			rewards: [{
+				id: "38E758959E04E8EC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+					id: "numismaticoverhaul:bronze_coin"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_cooldown"
+				criterion: ""
+				id: "46325F92256C7CAA"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: -11.5d
+		}
+	]
+	title: "Tetra"
+}
